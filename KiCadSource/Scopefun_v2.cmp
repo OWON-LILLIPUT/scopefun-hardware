@@ -1,0 +1,6611 @@
+Cmp-Mod V01 Created by PcbNew   date = 5.4.2017 18:02:15
+
+BeginCmp
+TimeStamp = 58E515B9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E515B1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B93863
+Path = /58568C5D/58BC0C30
+Reference = R154;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD426
+Path = /584BA873/584B8703
+Reference = X1;
+ValeurCmp = X_Crystal_19.2Mhz;
+IdModule  = ScopefunPackagesLibrary:XTAL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = 5895BD2D
+Path = 
+Reference = MH4;
+ValeurCmp = MountingHole_3.2mm_M3_Pad;
+IdModule  = ScopefunPackagesLibrary:MountingHole_3.2mm_M3_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC5B2
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF8FE
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF8FA
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF2BE
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF2BA
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF2B6
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF2B0
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF2AC
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF253
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E26E
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E266
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E1D7
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E1C1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E1BD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E1B9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E1B5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E16F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E167
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E13D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E120
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E114
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2E0F6
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD1C4
+Path = /56954A3D/584A2222
+Reference = U14;
+ValeurCmp = CBTL02043A;
+IdModule  = ScopefunPackagesLibrary:DHVQFN20;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2BCE9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2BB8A
+Path = /56954A3D/58D31BE3
+Reference = SHLD4;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D2BB82
+Path = /56954A3D/58D31B68
+Reference = SHLD3;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24AD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24B5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5895BD1D
+Path = 
+Reference = MH3;
+ValeurCmp = MountingHole_3.2mm_M3_Pad;
+IdModule  = ScopefunPackagesLibrary:MountingHole_3.2mm_M3_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D183DF
+Path = /56954A3D/58D325B4
+Reference = SHLD6;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D183D7
+Path = /56954A3D/58D31C61
+Reference = SHLD5;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D183CE
+Path = /56954A3D/58D326C3
+Reference = SHLD8;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D183C6
+Path = /56954A3D/58D3263C
+Reference = SHLD7;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D1839D
+Path = /56954A3D/58D3274D
+Reference = SHLD9;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D1770F
+Path = /56954A3D/58D327DA
+Reference = SHLD10;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D176D0
+Path = /56954A3D/58D3190A
+Reference = SHLD2;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D176B2
+Path = /56954A3D/58D2ECB0
+Reference = SHLD1;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D176A1
+Path = /56954A3D/58D44CEF
+Reference = SHLD11;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D17678
+Path = /56954A3D/58D44D8A
+Reference = SHLD12;
+ValeurCmp = SHLD_FINGER_0820;
+IdModule  = ScopefunPackagesLibrary:EMI_SHLD_FINGER_0820;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2481
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2579
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58CC4148
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2565
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2569
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2571
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2575
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AAC
+Path = /56770A0B/56773390
+Reference = R16;
+ValeurCmp = R_953k_0.1%;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B5463F
+Path = /56A1473E/56A9DFBD
+Reference = RE8;
+ValeurCmp = AQY282SX;
+IdModule  = ScopefunPackagesLibrary:SOP-4;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B54629
+Path = /56A1473E/56A9E35A
+Reference = RE9;
+ValeurCmp = AQY282SX;
+IdModule  = ScopefunPackagesLibrary:SOP-4;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C20161
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2015D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2014F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C2014B
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C20147
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C20143
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C1DEFF
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C1CD1F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 587DCF84
+Path = /56954A3D/587DADA3
+Reference = P1;
+ValeurCmp = USB_Type-C_10137061;
+IdModule  = ScopefunPackagesLibrary:USB_Type-C_10137061;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF2CC0
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF2C9B
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF2C8F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF1FDE
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF258A
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53E46
+Path = /5696EC3C/56AFFFEA
+Reference = D29;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BB628C
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BB6288
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BB6284
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8C690
+Path = /5855FC3B/58BA6171
+Reference = R145;
+ValeurCmp = R_56R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8C687
+Path = /5855FC3B/58BB4313
+Reference = C224;
+ValeurCmp = C_2.2u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8C674
+Path = /5855FC3B/58C4D77C
+Reference = D52;
+ValeurCmp = MCP1501-12;
+IdModule  = ScopefunPackagesLibrary:SOT23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8C66B
+Path = /5855FC3B/58BB43DC
+Reference = C225;
+ValeurCmp = C_2.2u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8C662
+Path = /5855FC3B/58BA4D54
+Reference = R146;
+ValeurCmp = R_7.87k_0.1%;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 570746AA
+Path = /56770A0B/567734D4
+Reference = R7;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707474C
+Path = /56770A0B/56773240
+Reference = R6;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B5EA5F
+Path = 
+Reference = FID1;
+ValeurCmp = FID_1mm_2mm;
+IdModule  = ScopefunPackagesLibrary:FID_1mm_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B5EB25
+Path = 
+Reference = FID2;
+ValeurCmp = FID_1mm_2mm;
+IdModule  = ScopefunPackagesLibrary:FID_1mm_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B5EAA9
+Path = 
+Reference = FID3;
+ValeurCmp = FID_1mm_2mm;
+IdModule  = ScopefunPackagesLibrary:FID_1mm_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B60D06
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B60D02
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B60CFE
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC607
+Path = /584EFEB2/58563C67
+Reference = C197;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B1E92E
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B1E92A
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B1E926
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B1E2F0
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B0BB37
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B0BB23
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B0BB08
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B0BAFF
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B0AE88
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B0AE84
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC463
+Path = /584BA873/584E0252
+Reference = C153;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60D1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60C9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60AE
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60AA
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF6096
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF608A
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF606C
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC445
+Path = /584BA873/584E5FD1
+Reference = C150;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF3303
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADF70F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADF70B
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 587EB9B2
+Path = /56954A3D/587F5356
+Reference = D23;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4DB
+Path = /584BA873/584ED9D6
+Reference = C166;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC951
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC94D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC8FB
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC6FB
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC6F7
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC6F3
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC693
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC68F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC68B
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC61B
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC617
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC613
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC5DB
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC124
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC120
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC11C
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC118
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC114
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC110
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC10C
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC108
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC0B8
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC0B4
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC0B0
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC0AC
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC07D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC079
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC075
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ADC071
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ACB724
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ACB720
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ACB71C
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ACB701
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD18C
+Path = /56948068/584FF23D
+Reference = U12;
+ValeurCmp = XC7A35T-FTG256;
+IdModule  = ScopefunPackagesLibrary:BGA256_FTG256;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD419
+Path = /58597EF5/58E31B2E
+Reference = U36;
+ValeurCmp = IS43TR16256A-125KBL;
+IdModule  = ScopefunPackagesLibrary:TW-BGA-96;
+EndCmp
+
+BeginCmp
+TimeStamp = 587EB99D
+Path = /56954A3D/587F51DE
+Reference = D20;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A61314
+Path = /5855FC3B/58A786C3
+Reference = L11;
+ValeurCmp = Z_68;
+IdModule  = ScopefunPackagesLibrary:L_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A87658
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A8762E
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A87608
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A8705F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A5F8FB
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC1D7
+Path = /56921513/5857C6B3
+Reference = C44;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A4B027
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E3462
+Path = /56948068/588E4BC5
+Reference = R45;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A04F3E
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A04F3A
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A04F36
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A04B44
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047EC
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047E8
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047E4
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047E0
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047B1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047AD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047A9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047A5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC679
+Path = /584EFEB2/5856F64C
+Reference = C208;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2561
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F255D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2559
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2555
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2551
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F254D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2549
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2545
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F253D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2539
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2535
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2531
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F252D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2529
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2525
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2521
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F251D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2519
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2511
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F250D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2509
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2505
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2501
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24FD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24F5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24F1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24ED
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24E9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24E5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24DD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24D9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24D5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24D1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24CD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24C9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24C5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24C1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24B9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F24B1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2491
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F247D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2479
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2471
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F246D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2469
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2465
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2461
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F245D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2459
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2451
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F244D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2445
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2441
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F243D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2439
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2435
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2431
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F242D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2429
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2425
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2421
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2419
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2415
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2411
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F240D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2409
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2405
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23FD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23F9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23F5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23F1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23ED
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23E1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23DD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23D9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23D5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23D1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23CD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23C9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23C1
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23BD
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23B9
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F23B5
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58963A55
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B5BB2
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B3876
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5898BF82
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5898BF74
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586EDDF4
+Path = /58597EF5/58C596CD
+Reference = R178;
+ValeurCmp = RA_22R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 58963B16
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58963960
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5896392F
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58963662
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589635B5
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58962475
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5895BD0D
+Path = 
+Reference = MH2;
+ValeurCmp = MountingHole_3.2mm_M3_Pad;
+IdModule  = ScopefunPackagesLibrary:MountingHole_3.2mm_M3_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5893D549
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58936CE6
+Path = /58589F32/5858AAE3
+Reference = R162;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58936CDD
+Path = /58589F32/5858AAEC
+Reference = C240;
+ValeurCmp = C_10u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58936CD4
+Path = /58589F32/5858AAD1
+Reference = R165;
+ValeurCmp = R_6.8k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58936CCB
+Path = /58589F32/5858AADA
+Reference = R166;
+ValeurCmp = R_22k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58936CBE
+Path = /58589F32/5858AAC2
+Reference = D54;
+ValeurCmp = LM431;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 589288C9
+Path = /58589F32/5858E545
+Reference = C243;
+ValeurCmp = C_10u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 589288C0
+Path = /58589F32/5858E53D
+Reference = R171;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 589288B7
+Path = /58589F32/585920C5
+Reference = R172;
+ValeurCmp = R_200R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 589288AA
+Path = /58589F32/585916FF
+Reference = D57;
+ValeurCmp = TLV431A;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 589288A1
+Path = /58589F32/5858E555
+Reference = R173;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD49
+Path = /56770A0B/567734A3
+Reference = C15;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5717300F
+Path = /5696EC3C/569817AD
+Reference = U15;
+ValeurCmp = 74AVCH16T245;
+IdModule  = ScopefunPackagesLibrary:TSSOP48;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD341
+Path = /5855FC3B/58593122
+Reference = U31;
+ValeurCmp = DAC5662;
+IdModule  = ScopefunPackagesLibrary:S-PQFP-G48;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E346B
+Path = /56948068/588E4E2F
+Reference = R46;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E3474
+Path = /56948068/588E4EAF
+Reference = R47;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E347D
+Path = /56948068/588E4F1C
+Reference = R48;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E3486
+Path = /56948068/588E4F86
+Reference = R49;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E348F
+Path = /56948068/588E511C
+Reference = R50;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E3498
+Path = /56948068/588E518A
+Reference = R51;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E34A1
+Path = /56948068/588E5201
+Reference = R52;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E34AA
+Path = /56948068/588E527D
+Reference = R53;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E34B3
+Path = /56948068/588E52F4
+Reference = R54;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E34BC
+Path = /56948068/588E554E
+Reference = R55;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 588E34C5
+Path = /56948068/588E55D5
+Reference = R56;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 570748CF
+Path = /5696EC3C/56988666
+Reference = R71;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074875
+Path = /5696EC3C/56989860
+Reference = R72;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA78F
+Path = /56A5A071/5852CA69
+Reference = U20;
+ValeurCmp = MAX15053;
+IdModule  = ScopefunPackagesLibrary:WLP-9;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA77F
+Path = /56A5A071/586D583C
+Reference = C119;
+ValeurCmp = C_100u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA76D
+Path = /56A5A071/58573F79
+Reference = C100;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA586
+Path = /56A5A071/586ADDA1
+Reference = C101;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA570
+Path = /56A5A071/586ADD40
+Reference = U21;
+ValeurCmp = MAX15053;
+IdModule  = ScopefunPackagesLibrary:WLP-9;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93AE
+Path = /56A5A071/586D21A6
+Reference = C121;
+ValeurCmp = C_100u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A9398
+Path = /56A5A071/586B9067
+Reference = U22;
+ValeurCmp = MAX15053;
+IdModule  = ScopefunPackagesLibrary:WLP-9;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A938F
+Path = /56A5A071/586B90C8
+Reference = C102;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A9292
+Path = /56A5A071/586B87B7
+Reference = U25;
+ValeurCmp = MAX15053;
+IdModule  = ScopefunPackagesLibrary:WLP-9;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A9238
+Path = /56A5A071/586D43BB
+Reference = C135;
+ValeurCmp = C_100u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A9226
+Path = /56A5A071/586B8818
+Reference = C122;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586E7BD2
+Path = /58597EF5/58C59754
+Reference = R179;
+ValeurCmp = RA_22R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 587EB9A4
+Path = /56954A3D/587F525D
+Reference = D21;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53FB7
+Path = /56770A0B/567734E6
+Reference = Q2;
+ValeurCmp = BSS138BKS;
+IdModule  = ScopefunPackagesLibrary:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53EC2
+Path = /56770A0B/58BC5F1D
+Reference = D5;
+ValeurCmp = 1N4148WTR;
+IdModule  = ScopefunPackagesLibrary:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B545C8
+Path = /56770A0B/56FA4C02
+Reference = RE3;
+ValeurCmp = G6K-2F-Y-DC4.5;
+IdModule  = ScopefunPackagesLibrary:G6K-2F-Y;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074851
+Path = /5696EC3C/5698862F
+Reference = R69;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707485A
+Path = /5696EC3C/5698869D
+Reference = R73;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074863
+Path = /5696EC3C/569886D4
+Reference = R75;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707486C
+Path = /5696EC3C/569897F2
+Reference = R79;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707487E
+Path = /5696EC3C/569898CE
+Reference = R76;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074887
+Path = /5696EC3C/5698993C
+Reference = R80;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 570748AB
+Path = /5696EC3C/56989905
+Reference = R78;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 570748B4
+Path = /5696EC3C/56989897
+Reference = R74;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 570748BD
+Path = /5696EC3C/56989829
+Reference = R70;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 570748C6
+Path = /5696EC3C/569897BB
+Reference = R77;
+ValeurCmp = R_1k_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A5B
+Path = /56770A0B/5677335D
+Reference = R9;
+ValeurCmp = R_953k_0.1%;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A6D
+Path = /56770A0B/56773165
+Reference = R11;
+ValeurCmp = R_953k_0.1%;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A88
+Path = /56770A0B/56773198
+Reference = R18;
+ValeurCmp = R_953k_0.1%;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B546F2
+Path = /56785EF9/567AE295
+Reference = U5;
+ValeurCmp = ADA4932-1;
+IdModule  = ScopefunPackagesLibrary:CP-16-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B5477E
+Path = /56785EF9/567BDF78
+Reference = U6;
+ValeurCmp = ADA4932-1;
+IdModule  = ScopefunPackagesLibrary:CP-16-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B54719
+Path = /56785EF9/5678C72F
+Reference = U3;
+ValeurCmp = AD8337;
+IdModule  = ScopefunPackagesLibrary:CP-8-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B5474D
+Path = /56785EF9/567BDF36
+Reference = U4;
+ValeurCmp = AD8337;
+IdModule  = ScopefunPackagesLibrary:CP-8-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53ED2
+Path = /56770A0B/58BC6373
+Reference = D9;
+ValeurCmp = 1N4148WTR;
+IdModule  = ScopefunPackagesLibrary:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53EFE
+Path = /56770A0B/58BC610F
+Reference = D10;
+ValeurCmp = 1N4148WTR;
+IdModule  = ScopefunPackagesLibrary:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53F1C
+Path = /56770A0B/58BC600D
+Reference = D6;
+ValeurCmp = 1N4148WTR;
+IdModule  = ScopefunPackagesLibrary:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B545FD
+Path = /56770A0B/5677331F
+Reference = RE1;
+ValeurCmp = AQY282SX;
+IdModule  = ScopefunPackagesLibrary:SOP-4;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B54613
+Path = /56770A0B/56A9C4FE
+Reference = RE2;
+ValeurCmp = AQY282SX;
+IdModule  = ScopefunPackagesLibrary:SOP-4;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53DBA
+Path = /5696EC3C/56B00079
+Reference = D31;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53DC8
+Path = /5696EC3C/56B001A3
+Reference = D35;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53DD6
+Path = /5696EC3C/56AFFAD3
+Reference = D39;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53DE4
+Path = /5696EC3C/56AFFC07
+Reference = D32;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53DF2
+Path = /5696EC3C/56B0023E
+Reference = D36;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53E00
+Path = /5696EC3C/56B00372
+Reference = D40;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53E0E
+Path = /5696EC3C/569898A7
+Reference = D34;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53E1C
+Path = /5696EC3C/56AFFB74
+Reference = D30;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53E2A
+Path = /5696EC3C/56AFF990
+Reference = D37;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53E38
+Path = /5696EC3C/56B0010C
+Reference = D33;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53E7A
+Path = /5696EC3C/56B002D9
+Reference = D38;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53EB2
+Path = /56770A0B/56773438
+Reference = D7;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53EE0
+Path = /56A1473E/56A2C743
+Reference = D49;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53EEE
+Path = /56A1473E/56A16E44
+Reference = D48;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53F0C
+Path = /56770A0B/56773276
+Reference = D8;
+ValeurCmp = BAV199;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 57172FD3
+Path = /56A1473E/56A16065
+Reference = U16;
+ValeurCmp = OPA2830;
+IdModule  = ScopefunPackagesLibrary:TSSOP8;
+EndCmp
+
+BeginCmp
+TimeStamp = 57172FE7
+Path = /56A1473E/56A1D859
+Reference = U17;
+ValeurCmp = LM393DGK;
+IdModule  = ScopefunPackagesLibrary:TSSOP8;
+EndCmp
+
+BeginCmp
+TimeStamp = 57172FFB
+Path = /56A1473E/56A2C7B7
+Reference = U18;
+ValeurCmp = LM393DGK;
+IdModule  = ScopefunPackagesLibrary:TSSOP8;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B547E0
+Path = /56A5A071/58BF86E5
+Reference = U27;
+ValeurCmp = SPX3819;
+IdModule  = ScopefunPackagesLibrary:SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B54824
+Path = /56A5A071/58BF82D6
+Reference = U19;
+ValeurCmp = SPX3819;
+IdModule  = ScopefunPackagesLibrary:SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53FCB
+Path = /56770A0B/56773249
+Reference = Q1;
+ValeurCmp = BSS138BKS;
+IdModule  = ScopefunPackagesLibrary:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B53FDF
+Path = /56A1473E/56A312FF
+Reference = Q6;
+ValeurCmp = BSS138BKS;
+IdModule  = ScopefunPackagesLibrary:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B545E7
+Path = /56770A0B/56A9A76C
+Reference = RE5;
+ValeurCmp = G6K-2F-Y-DC4.5;
+IdModule  = ScopefunPackagesLibrary:G6K-2F-Y;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B545A9
+Path = /56770A0B/56A9BC40
+Reference = RE6;
+ValeurCmp = G6K-2F-Y-DC4.5;
+IdModule  = ScopefunPackagesLibrary:G6K-2F-Y;
+EndCmp
+
+BeginCmp
+TimeStamp = 56B5458A
+Path = /56770A0B/56A9A3E4
+Reference = RE4;
+ValeurCmp = G6K-2F-Y-DC4.5;
+IdModule  = ScopefunPackagesLibrary:G6K-2F-Y;
+EndCmp
+
+BeginCmp
+TimeStamp = 57388738
+Path = /56A5A071/58B9F89B
+Reference = U28;
+ValeurCmp = TPS72301;
+IdModule  = ScopefunPackagesLibrary:SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC141
+Path = /56921513/586C4FC3
+Reference = C38;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC14B
+Path = /56921513/586C51F0
+Reference = C39;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC2E5
+Path = /56A5A071/586FDBFC
+Reference = C107;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC377
+Path = /56A5A071/586B8CC1
+Reference = C123;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC3D7
+Path = /56A5A071/586D2391
+Reference = C136;
+ValeurCmp = C_100u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC431
+Path = /584BA873/584E8AAF
+Reference = C148;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC459
+Path = /584BA873/584E8B4A
+Reference = C152;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC481
+Path = /584BA873/584E8CBB
+Reference = C156;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC551
+Path = /584EFEB2/5852608F
+Reference = C178;
+ValeurCmp = C_100u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC561
+Path = /584EFEB2/5856CD2B
+Reference = C180;
+ValeurCmp = C_47u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC569
+Path = /584EFEB2/5855A509
+Reference = C181;
+ValeurCmp = C_1210;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC573
+Path = /584EFEB2/5856C043
+Reference = C182;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC57D
+Path = /584EFEB2/5856CD69
+Reference = C183;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC587
+Path = /584EFEB2/5856F18F
+Reference = C184;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC59B
+Path = /584EFEB2/5856CD71
+Reference = C186;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5A5
+Path = /584EFEB2/5856F197
+Reference = C187;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5AD
+Path = /584EFEB2/5855A9E8
+Reference = C188;
+ValeurCmp = C_1210;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5D5
+Path = /584EFEB2/58527746
+Reference = C192;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5FD
+Path = /584EFEB2/58526E86
+Reference = C196;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC625
+Path = /584EFEB2/5855CA0F
+Reference = C200;
+ValeurCmp = C_0805;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC65D
+Path = /584EFEB2/5856F60E
+Reference = C205;
+ValeurCmp = C_47u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC665
+Path = /584EFEB2/5856FD5D
+Reference = C206;
+ValeurCmp = C_47u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC683
+Path = /584EFEB2/5856FD9B
+Reference = C209;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC697
+Path = /584EFEB2/5856F654
+Reference = C211;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6A1
+Path = /584EFEB2/5856FDA3
+Reference = C212;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6DB
+Path = /584EFEB2/585299B0
+Reference = C218;
+ValeurCmp = C_47u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC811
+Path = /58597EF5/586D72A3
+Reference = C244;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC81B
+Path = /58597EF5/586DB672
+Reference = C245;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC8D3
+Path = /56785EF9/58BC5771
+Reference = D11;
+ValeurCmp = 1N4148WTR;
+IdModule  = ScopefunPackagesLibrary:SOD123;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC95F
+Path = /58589F32/5858A5B8
+Reference = D55;
+ValeurCmp = LM431;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC96D
+Path = /58589F32/5858A5EB
+Reference = D56;
+ValeurCmp = LM431;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC9D9
+Path = /584BA873/58B35539
+Reference = L7;
+ValeurCmp = Z_68;
+IdModule  = ScopefunPackagesLibrary:L_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC9E3
+Path = /584BA873/58B35458
+Reference = L8;
+ValeurCmp = Z_68;
+IdModule  = ScopefunPackagesLibrary:L_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC9ED
+Path = /584BA873/58B35364
+Reference = L9;
+ValeurCmp = Z_68;
+IdModule  = ScopefunPackagesLibrary:L_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC9F7
+Path = /584BA873/58B34E62
+Reference = L10;
+ValeurCmp = Z_68;
+IdModule  = ScopefunPackagesLibrary:L_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACA2F
+Path = /56948068/58D600AB
+Reference = Q3;
+ValeurCmp = BSS138BKS;
+IdModule  = ScopefunPackagesLibrary:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACA5A
+Path = /56954A3D/584F9955
+Reference = Q5;
+ValeurCmp = BSS138BKS;
+IdModule  = ScopefunPackagesLibrary:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACF8D
+Path = /56785EF9/5868117B
+Reference = RE7;
+ValeurCmp = G6K-2F-Y-DC4.5;
+IdModule  = ScopefunPackagesLibrary:G6K-2F-Y;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACFCD
+Path = /56785EF9/585B5550
+Reference = U7;
+ValeurCmp = LTC6754;
+IdModule  = ScopefunPackagesLibrary:SC70-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD1A0
+Path = /56954A3D/584B8303
+Reference = U13;
+ValeurCmp = LTC4360-1;
+IdModule  = ScopefunPackagesLibrary:SC70;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD253
+Path = /56A5A071/586B8C60
+Reference = U26;
+ValeurCmp = MAX15053;
+IdModule  = ScopefunPackagesLibrary:WLP-9;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD38B
+Path = /58568C5D/58568FD8
+Reference = U33;
+ValeurCmp = MAX5501;
+IdModule  = ScopefunPackagesLibrary:SSOP20;
+EndCmp
+
+BeginCmp
+TimeStamp = 586E7B92
+Path = /58597EF5/58C594C2
+Reference = R174;
+ValeurCmp = RA_22R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 586E7BA2
+Path = /58597EF5/58C5954C
+Reference = R175;
+ValeurCmp = RA_22R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 586E7BB2
+Path = /58597EF5/58C595CA
+Reference = R176;
+ValeurCmp = RA_22R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 586E7BC2
+Path = /58597EF5/58C5964B
+Reference = R177;
+ValeurCmp = RA_22R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 587691AC
+Path = /584BA873/5876DEF9
+Reference = C177;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 587EB987
+Path = /56954A3D/587F5003
+Reference = D16;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 587EB988
+Path = /56954A3D/587F5073
+Reference = D17;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 587EB98F
+Path = /56954A3D/587F50EF
+Reference = D18;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 587EB996
+Path = /56954A3D/587F5166
+Reference = D19;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 587EB9AB
+Path = /56954A3D/587F52D1
+Reference = D22;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A915B
+Path = /56A5A071/58BE0EE7
+Reference = U23;
+ValeurCmp = MCP4251;
+IdModule  = ScopefunPackagesLibrary:TSSOP14;
+EndCmp
+
+BeginCmp
+TimeStamp = 588C8AB7
+Path = /56A5A071/586ADE3D
+Reference = C120;
+ValeurCmp = C_22u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC427
+Path = /584BA873/584E00E2
+Reference = C147;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF14
+Path = /5696EC3C/58BEEF20
+Reference = C79;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA7E4
+Path = /56A5A071/586B6370
+Reference = C116;
+ValeurCmp = C_180p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA7DB
+Path = /56A5A071/586CA64C
+Reference = C103;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA7D2
+Path = /56A5A071/5856F857
+Reference = C109;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA786
+Path = /56A5A071/5856D144
+Reference = C112;
+ValeurCmp = C_1n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA58F
+Path = /56A5A071/586ADD7E
+Reference = C113;
+ValeurCmp = C_1n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA567
+Path = /56A5A071/586CA172
+Reference = C104;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA555
+Path = /56A5A071/586ADD94
+Reference = C110;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA543
+Path = /56A5A071/586B72F5
+Reference = C117;
+ValeurCmp = C_180p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93EB
+Path = /56A5A071/586B90BB
+Reference = C111;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93D9
+Path = /56A5A071/586C7544
+Reference = C105;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93C7
+Path = /56A5A071/586B90DF
+Reference = C118;
+ValeurCmp = C_180p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93B5
+Path = /56A5A071/586B90A5
+Reference = C114;
+ValeurCmp = C_1n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A9280
+Path = /56A5A071/586B880B
+Reference = C128;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A9277
+Path = /56A5A071/586CAA30
+Reference = C125;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A925C
+Path = /56A5A071/586B8835
+Reference = C133;
+ValeurCmp = C_180p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A922F
+Path = /56A5A071/586B87F5
+Reference = C130;
+ValeurCmp = C_1n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5734D7E1
+Path = /56A1473E/57298770
+Reference = C97;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5734D7DC
+Path = /56A1473E/572977BB
+Reference = C96;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAC32
+Path = /56785EF9/5691A67D
+Reference = C35;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAC44
+Path = /56785EF9/56916FB8
+Reference = C37;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAC8C
+Path = /56A5A071/56A69EC7
+Reference = C115;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAC95
+Path = /56A1473E/56A2EB94
+Reference = C91;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAC9E
+Path = /56A1473E/56A2D654
+Reference = C90;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDACA7
+Path = /56A1473E/56A16E62
+Reference = C94;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDACB9
+Path = /56770A0B/5677328B
+Reference = C8;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDACC2
+Path = /56A1473E/56A2C751
+Reference = C93;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDACDD
+Path = /56770A0B/5677344D
+Reference = C7;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDACE6
+Path = /56770A0B/56773456
+Reference = C9;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDACEF
+Path = /56770A0B/567734AC
+Reference = C16;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD01
+Path = /56785EF9/567B119A
+Reference = C19;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD0A
+Path = /56785EF9/567AFFAB
+Reference = C21;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD1C
+Path = /56785EF9/567BDFB7
+Reference = C20;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD25
+Path = /56785EF9/567BDFA8
+Reference = C22;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD37
+Path = /56A1473E/56A16E59
+Reference = C92;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD52
+Path = /56770A0B/56773294
+Reference = C10;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD5B
+Path = /56770A0B/58B8ECB1
+Reference = C5;
+ValeurCmp = C_12p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD6D
+Path = /56770A0B/5677315C
+Reference = C6;
+ValeurCmp = C_300p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD76
+Path = /56770A0B/5677317D
+Reference = C13;
+ValeurCmp = C_300p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD7F
+Path = /56770A0B/5677D1AC
+Reference = C2;
+ValeurCmp = C_22n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD88
+Path = /56770A0B/5677C948
+Reference = C1;
+ValeurCmp = C_22n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAD91
+Path = /56770A0B/56773375
+Reference = C11;
+ValeurCmp = C_300p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDADA3
+Path = /56770A0B/56773354
+Reference = C4;
+ValeurCmp = C_300p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDADAC
+Path = /56770A0B/58B8E66A
+Reference = C3;
+ValeurCmp = C_12p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDADC7
+Path = /56785EF9/567B91EE
+Reference = C26;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDADD9
+Path = /56785EF9/5691A702
+Reference = C36;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDADF4
+Path = /56785EF9/56B2D069
+Reference = C23;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDADFD
+Path = /56785EF9/567B7CB0
+Reference = C25;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAE06
+Path = /56785EF9/567BE015
+Reference = C28;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAE3C
+Path = /56921513/5692AE14
+Reference = C59;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAE4E
+Path = /56785EF9/56B2EC21
+Reference = C24;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAE57
+Path = /56785EF9/567BDFFB
+Reference = C27;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAED5
+Path = /5696EC3C/58BEE8BB
+Reference = C76;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAEDE
+Path = /5696EC3C/58BEEB0E
+Reference = C82;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAEE7
+Path = /5696EC3C/58BEEC67
+Reference = C88;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAEF0
+Path = /5696EC3C/58BEEE5C
+Reference = C77;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAEF9
+Path = /5696EC3C/58BEEFD9
+Reference = C83;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF02
+Path = /5696EC3C/58BEF272
+Reference = C89;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF0B
+Path = /5696EC3C/58BEF1C3
+Reference = C85;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF1D
+Path = /5696EC3C/58BEED23
+Reference = C75;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF26
+Path = /5696EC3C/58BEEBBE
+Reference = C84;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF38
+Path = /5696EC3C/58BEEA61
+Reference = C78;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF41
+Path = /5696EC3C/58BEE6F0
+Reference = C74;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF6E
+Path = /5696EC3C/56982D6E
+Reference = C80;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF77
+Path = /5696EC3C/56982D37
+Reference = C81;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF80
+Path = /5696EC3C/56982E1F
+Reference = C86;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAFAD
+Path = /56A5A071/56A6AA11
+Reference = C127;
+ValeurCmp = C_10u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAFB6
+Path = /56A5A071/56A699AE
+Reference = C124;
+ValeurCmp = C_1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAFBF
+Path = /56A5A071/56A6BA63
+Reference = C132;
+ValeurCmp = C_10u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAFD1
+Path = /56A5A071/56A64885
+Reference = C137;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDB010
+Path = /56A1473E/56A2C835
+Reference = C99;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDB019
+Path = /56A1473E/56A220C9
+Reference = C98;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDACB0
+Path = /56A1473E/56A2C759
+Reference = C95;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF89
+Path = /5696EC3C/56982E17
+Reference = C87;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FDAF92
+Path = /56A5A071/56A673C3
+Reference = C108;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC0F1
+Path = /56770A0B/5870D5D0
+Reference = C12;
+ValeurCmp = C_5.6p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC0FB
+Path = /56770A0B/5870DCA5
+Reference = C14;
+ValeurCmp = C_5.6p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC119
+Path = /56770A0B/586A0014
+Reference = C17;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC123
+Path = /56770A0B/586A001C
+Reference = C18;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC12D
+Path = /56785EF9/586F5175
+Reference = C33;
+ValeurCmp = C_5.6p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC137
+Path = /56785EF9/586F5F14
+Reference = C34;
+ValeurCmp = C_5.6p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC155
+Path = /56921513/5892D108
+Reference = C40;
+ValeurCmp = C_1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC15F
+Path = /56921513/5869A2FC
+Reference = C41;
+ValeurCmp = C_1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC169
+Path = /56921513/5869A3AC
+Reference = C42;
+ValeurCmp = C_1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC17D
+Path = /56921513/5857C52A
+Reference = C43;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC187
+Path = /56921513/5857F248
+Reference = C55;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC19B
+Path = /56921513/5857C532
+Reference = C46;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC1A5
+Path = /56921513/5857F250
+Reference = C56;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC1B9
+Path = /56921513/5857C6AB
+Reference = C49;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC1C3
+Path = /56921513/5857F258
+Reference = C57;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC1E1
+Path = /56921513/5857F260
+Reference = C45;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC209
+Path = /56921513/5857C6C3
+Reference = C50;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC213
+Path = /56921513/5857F270
+Reference = C51;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC26D
+Path = /56921513/585CFEB4
+Reference = C58;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC277
+Path = /56921513/585D0A24
+Reference = C69;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC28B
+Path = /56954A3D/584B435F
+Reference = C73;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC38B
+Path = /56A5A071/586CAC94
+Reference = C126;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC39F
+Path = /56A5A071/586B8CB4
+Reference = C129;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC3B3
+Path = /56A5A071/586B8C9E
+Reference = C131;
+ValeurCmp = C_1n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC3C7
+Path = /56A5A071/586B8CDE
+Reference = C134;
+ValeurCmp = C_180p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC3E1
+Path = /584BA873/584DF729
+Reference = C140;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC3EB
+Path = /584BA873/584DF7AF
+Reference = C141;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC3F5
+Path = /584BA873/584DFE76
+Reference = C142;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC409
+Path = /584BA873/584DFE7E
+Reference = C144;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC413
+Path = /584BA873/584E00DA
+Reference = C145;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC41D
+Path = /584BA873/584E5E8C
+Reference = C146;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC43B
+Path = /584BA873/584E0242
+Reference = C149;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC44F
+Path = /584BA873/584E024A
+Reference = C151;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC477
+Path = /584BA873/584E618B
+Reference = C155;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC48B
+Path = /584BA873/584DE006
+Reference = C157;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC495
+Path = /584BA873/584DDF2E
+Reference = C158;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC49F
+Path = /584BA873/584D4FE1
+Reference = C159;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4A9
+Path = /584BA873/584B9A5E
+Reference = C160;
+ValeurCmp = C_12p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4B3
+Path = /584BA873/584ED9C6
+Reference = C161;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4BD
+Path = /584BA873/584C9EC2
+Reference = C162;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4C7
+Path = /584BA873/584ED9CE
+Reference = C165;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4D1
+Path = /584BA873/584B9A91
+Reference = C164;
+ValeurCmp = C_12p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4E5
+Path = /584BA873/584ED9DE
+Reference = C167;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4EF
+Path = /584BA873/584ED9E6
+Reference = C168;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC4F9
+Path = /584BA873/584ED9EE
+Reference = C172;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC50D
+Path = /584BA873/584C4467
+Reference = C170;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC521
+Path = /584BA873/584ED9F6
+Reference = C173;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC52B
+Path = /584BA873/584ED9FE
+Reference = C174;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC535
+Path = /584BA873/584EDA06
+Reference = C175;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC53F
+Path = /584BA873/584EDA0E
+Reference = C176;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5B7
+Path = /584EFEB2/58563BD5
+Reference = C189;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5C1
+Path = /584EFEB2/5856CD40
+Reference = C190;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5CB
+Path = /584EFEB2/5856F166
+Reference = C191;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5DF
+Path = /584EFEB2/58563C1E
+Reference = C193;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5E9
+Path = /584EFEB2/5856CD48
+Reference = C194;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC611
+Path = /584EFEB2/5856CD50
+Reference = C198;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC61B
+Path = /584EFEB2/5856F176
+Reference = C199;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC62F
+Path = /584EFEB2/5856CE12
+Reference = C201;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC639
+Path = /584EFEB2/5856F19F
+Reference = C202;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC643
+Path = /584EFEB2/585548CC
+Reference = C203;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC655
+Path = /584EFEB2/58554961
+Reference = C204;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC66F
+Path = /584EFEB2/585549F0
+Reference = C207;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC68D
+Path = /584EFEB2/5855D38C
+Reference = C210;
+ValeurCmp = C_0603;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6AB
+Path = /584EFEB2/5855D45A
+Reference = C213;
+ValeurCmp = C_0603;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6B5
+Path = /584EFEB2/5856F623
+Reference = C214;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6BF
+Path = /584EFEB2/5856FD72
+Reference = C215;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6C9
+Path = /584EFEB2/5856F62B
+Reference = C216;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6D3
+Path = /584EFEB2/5856FD7A
+Reference = C217;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6E5
+Path = /584EFEB2/5856F633
+Reference = C219;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6EF
+Path = /584EFEB2/5856FD82
+Reference = C220;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC6F9
+Path = /584EFEB2/5856F65C
+Reference = C221;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC703
+Path = /584EFEB2/5856FDAB
+Reference = C222;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC70D
+Path = /584EFEB2/5855622E
+Reference = C223;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC721
+Path = /5855FC3B/58597255
+Reference = C230;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC72B
+Path = /5855FC3B/585962DE
+Reference = C231;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC735
+Path = /5855FC3B/58560BA0
+Reference = C228;
+ValeurCmp = C_12p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC73F
+Path = /5855FC3B/58560BA9
+Reference = C229;
+ValeurCmp = C_12p;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC749
+Path = /5855FC3B/58A75CBB
+Reference = C226;
+ValeurCmp = C_1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC753
+Path = /58568C5D/58B95637
+Reference = C232;
+ValeurCmp = C_2.2u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC75D
+Path = /58568C5D/58B9C02E
+Reference = C233;
+ValeurCmp = C_2.2u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC77B
+Path = /58568C5D/58577D53
+Reference = C234;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC785
+Path = /58568C5D/58577D84
+Reference = C235;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC7A3
+Path = /58568C5D/585A86C7
+Reference = C236;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC7F3
+Path = /58589F32/5858A5CA
+Reference = C241;
+ValeurCmp = C_10u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC7FD
+Path = /58589F32/5858A5FD
+Reference = C242;
+ValeurCmp = C_10u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC825
+Path = /58597EF5/586D7A79
+Reference = C246;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC82F
+Path = /58597EF5/586DB680
+Reference = C247;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC839
+Path = /58597EF5/586D7C39
+Reference = C248;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC843
+Path = /58597EF5/586DB688
+Reference = C249;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC84D
+Path = /58597EF5/586D7CC7
+Reference = C251;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC857
+Path = /58597EF5/586DB690
+Reference = C252;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC861
+Path = /58597EF5/5861606C
+Reference = C250;
+ValeurCmp = C_1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC86B
+Path = /58597EF5/586D7D58
+Reference = C255;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC875
+Path = /58597EF5/586DB698
+Reference = C256;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC87F
+Path = /58597EF5/58615AE3
+Reference = C253;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC889
+Path = /58597EF5/58615A31
+Reference = C254;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58769A35
+Path = /584BA873/58777A99
+Reference = C154;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58769A3F
+Path = /584BA873/58782C5D
+Reference = C163;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC5F3
+Path = /584EFEB2/5856F16E
+Reference = C195;
+ValeurCmp = C_u47;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5884217D
+Path = /56948068/56A41796
+Reference = R59;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACF6E
+Path = /58597EF5/586162BB
+Reference = R186;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACF64
+Path = /58597EF5/5861645A
+Reference = R185;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACF28
+Path = /58597EF5/585A4326
+Reference = R182;
+ValeurCmp = R_4k7;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACE38
+Path = /58597EF5/5861340F
+Reference = R180;
+ValeurCmp = R_240R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACE10
+Path = /58589F32/5858A606
+Reference = R170;
+ValeurCmp = R_6.8k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACE06
+Path = /58589F32/5858A60F
+Reference = R169;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACDFC
+Path = /58589F32/5858A5D3
+Reference = R168;
+ValeurCmp = R_6.8k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACDF2
+Path = /58589F32/5858A5DC
+Reference = R167;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACDD4
+Path = /58589F32/5858A5F4
+Reference = R164;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACDCA
+Path = /58589F32/5858A5C1
+Reference = R163;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACDA2
+Path = /58568C5D/5857CC97
+Reference = R159;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD98
+Path = /58568C5D/5857CC38
+Reference = R158;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD8E
+Path = /5855FC3B/585AB7CA
+Reference = R151;
+ValeurCmp = R_121R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD84
+Path = /5855FC3B/585AB723
+Reference = R150;
+ValeurCmp = R_121R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD7A
+Path = /5855FC3B/585AB755
+Reference = R149;
+ValeurCmp = R_121R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD70
+Path = /5855FC3B/585AB691
+Reference = R148;
+ValeurCmp = R_121R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD5C
+Path = /5855FC3B/586D291A
+Reference = R147;
+ValeurCmp = R_4k7;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD34
+Path = /584EFEB2/584F9187
+Reference = R138;
+ValeurCmp = R_2.2k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD2A
+Path = /584EFEB2/584F915A
+Reference = R137;
+ValeurCmp = R_2.2k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD20
+Path = /584EFEB2/584F844F
+Reference = R136;
+ValeurCmp = R_82R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD16
+Path = /584EFEB2/584FA63B
+Reference = R135;
+ValeurCmp = R_2.2k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD0C
+Path = /584BA873/584BE0C2
+Reference = R134;
+ValeurCmp = R_6.04k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACD02
+Path = /584BA873/584C4838
+Reference = R133;
+ValeurCmp = R_100k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACCF8
+Path = /584BA873/584BD88E
+Reference = R132;
+ValeurCmp = R_200R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACCEE
+Path = /584BA873/584C6911
+Reference = R131;
+ValeurCmp = R_2.2k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACCDA
+Path = /584BA873/58DF3922
+Reference = R129;
+ValeurCmp = R_56R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACCD0
+Path = /56A5A071/586B8C6E
+Reference = R124;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACCC6
+Path = /56A5A071/586BB311
+Reference = R123;
+ValeurCmp = R_20k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACCA8
+Path = /56A5A071/586B8C96
+Reference = R120;
+ValeurCmp = R_1R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACC94
+Path = /56A5A071/586C438B
+Reference = R118;
+ValeurCmp = R_22k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACBEA
+Path = /56A1473E/585AF973
+Reference = R87;
+ValeurCmp = R_402R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACBE0
+Path = /56A1473E/585AF461
+Reference = R88;
+ValeurCmp = R_402R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACBD6
+Path = /56A1473E/585AF2BA
+Reference = R85;
+ValeurCmp = R_402R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACBCC
+Path = /56A1473E/585AF164
+Reference = R86;
+ValeurCmp = R_402R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACBC2
+Path = /56A1473E/585ACF5D
+Reference = R82;
+ValeurCmp = R_121R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACBB8
+Path = /56A1473E/585ACE6F
+Reference = R81;
+ValeurCmp = R_121R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACBAE
+Path = /56A1473E/585ACB70
+Reference = R84;
+ValeurCmp = R_121R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACBA4
+Path = /56A1473E/585AC6F5
+Reference = R83;
+ValeurCmp = R_121R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACB9A
+Path = /56954A3D/584FB300
+Reference = R68;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACB90
+Path = /56954A3D/584D41E5
+Reference = R67;
+ValeurCmp = R_47k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACB86
+Path = /56954A3D/58589C6D
+Reference = R66;
+ValeurCmp = R_47k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACB7C
+Path = /56954A3D/58589DE5
+Reference = R65;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACB72
+Path = /56954A3D/584B3048
+Reference = R64;
+ValeurCmp = R_5k1;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACB68
+Path = /56954A3D/584B3501
+Reference = R61;
+ValeurCmp = R_5k1;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACAE6
+Path = /56921513/5855CE3B
+Reference = R41;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACAC8
+Path = /56921513/58558D75
+Reference = R38;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACABE
+Path = /56921513/58DC4546
+Reference = R39;
+ValeurCmp = R_2.2k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACAB4
+Path = /56785EF9/58584CB3
+Reference = R35;
+ValeurCmp = R_82R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACAAA
+Path = /56785EF9/58584BD4
+Reference = R34;
+ValeurCmp = R_82R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACAA0
+Path = /56785EF9/585847C2
+Reference = R33;
+ValeurCmp = R_82R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACA96
+Path = /56785EF9/585845CA
+Reference = R32;
+ValeurCmp = R_82R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACA8C
+Path = /56785EF9/586E9CC1
+Reference = R31;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACA82
+Path = /56948068/58D600CE
+Reference = R57;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACA78
+Path = /56948068/58D600C5
+Reference = R44;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074B21
+Path = /56A1473E/56A3617A
+Reference = R100;
+ValeurCmp = R_1.5k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074B18
+Path = /56770A0B/56773139
+Reference = R5;
+ValeurCmp = R_56R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074B0F
+Path = /56A5A071/58BFB303
+Reference = R128;
+ValeurCmp = R_49.9k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074B06
+Path = /56A5A071/58BA7517
+Reference = R127;
+ValeurCmp = R_100k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AFD
+Path = /56A1473E/56A2C77B
+Reference = R92;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AF4
+Path = /56A1473E/58740D5F
+Reference = R98;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AEB
+Path = /56A1473E/58740C84
+Reference = R97;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AD9
+Path = /56A1473E/56A1AD94
+Reference = R94;
+ValeurCmp = R_22k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AD0
+Path = /56A1473E/56A1AD53
+Reference = R93;
+ValeurCmp = R_499k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AC7
+Path = /56A1473E/56A2C791
+Reference = R95;
+ValeurCmp = R_499k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074ABE
+Path = /56A1473E/56A2C799
+Reference = R96;
+ValeurCmp = R_22k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AB5
+Path = /56770A0B/56773366
+Reference = R10;
+ValeurCmp = R_47k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AA3
+Path = /56770A0B/5677337E
+Reference = R15;
+ValeurCmp = R_47k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A9A
+Path = /56770A0B/56773331
+Reference = R4;
+ValeurCmp = R_56R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A91
+Path = /56770A0B/5677316E
+Reference = R12;
+ValeurCmp = R_47k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A7F
+Path = /56770A0B/56773186
+Reference = R17;
+ValeurCmp = R_47k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A76
+Path = /56770A0B/5677326D
+Reference = R14;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A64
+Path = /56770A0B/5677342F
+Reference = R13;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A40
+Path = /56A1473E/56A36362
+Reference = R102;
+ValeurCmp = R_49.9k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A37
+Path = /56A1473E/56A361EF
+Reference = R101;
+ValeurCmp = R_1.5k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A2E
+Path = /56A1473E/56A36101
+Reference = R99;
+ValeurCmp = R_49.9k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A25
+Path = /56A5A071/56A6DBCC
+Reference = R125;
+ValeurCmp = R_100k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A1C
+Path = /56A5A071/58BA3FBB
+Reference = R126;
+ValeurCmp = R_47k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 570747E5
+Path = /56785EF9/5691A0F2
+Reference = R36;
+ValeurCmp = R_6.8k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 570747D3
+Path = /56785EF9/56919513
+Reference = R37;
+ValeurCmp = R_6.8k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707478B
+Path = /56785EF9/567AEC88
+Reference = R27;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074782
+Path = /56785EF9/567AE223
+Reference = R23;
+ValeurCmp = R_402R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074779
+Path = /56785EF9/567AED34
+Reference = R28;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074770
+Path = /56785EF9/567AE25A
+Reference = R24;
+ValeurCmp = R_402R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074767
+Path = /56785EF9/567ADFFB
+Reference = R21;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707475E
+Path = /56785EF9/567ADF4A
+Reference = R19;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074743
+Path = /56770A0B/56773237
+Reference = R1;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074731
+Path = /56785EF9/567BDF4A
+Reference = R20;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074728
+Path = /56785EF9/567BDF52
+Reference = R22;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707471F
+Path = /56785EF9/56ABF4D7
+Reference = R30;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074716
+Path = /56785EF9/56ABF4C7
+Reference = R26;
+ValeurCmp = R_402R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707470D
+Path = /56785EF9/56ABF4BF
+Reference = R25;
+ValeurCmp = R_402R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074704
+Path = /56785EF9/56ABF4CF
+Reference = R29;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 570746C5
+Path = /56948068/56A41DEE
+Reference = R60;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 570746BC
+Path = /56770A0B/56773207
+Reference = R3;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 570746B3
+Path = /56770A0B/567733FF
+Reference = R2;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 570746A1
+Path = /56770A0B/567734DD
+Reference = R8;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074698
+Path = /56948068/56A40B80
+Reference = R58;
+ValeurCmp = R_100R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074AE2
+Path = /56A1473E/56A1A08F
+Reference = R91;
+ValeurCmp = R_499R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A921D
+Path = /56A5A071/586B87ED
+Reference = R119;
+ValeurCmp = R_1R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A924A
+Path = /56A5A071/586B87C5
+Reference = R121;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A926E
+Path = /56A5A071/586BA440
+Reference = R122;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A9289
+Path = /56A5A071/586D671D
+Reference = R117;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93BE
+Path = /56A5A071/586B909D
+Reference = R109;
+ValeurCmp = R_1R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93D0
+Path = /56A5A071/586C57B9
+Reference = R106;
+ValeurCmp = R_22k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93E2
+Path = /56A5A071/58DF1BBA
+Reference = R115;
+ValeurCmp = R_2.2k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588A93F4
+Path = /56A5A071/58DF1D38
+Reference = R114;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA531
+Path = /56A5A071/586ADD56
+Reference = R112;
+ValeurCmp = R_15k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA53A
+Path = /56A5A071/586ADD4E
+Reference = R113;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA55E
+Path = /56A5A071/586C2F60
+Reference = R105;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA598
+Path = /56A5A071/586ADD76
+Reference = R108;
+ValeurCmp = R_1R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA776
+Path = /56A5A071/5856C7C4
+Reference = R107;
+ValeurCmp = R_1R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA7A5
+Path = /56A5A071/5852E55D
+Reference = R110;
+ValeurCmp = R_10k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA7AE
+Path = /56A5A071/586C060E
+Reference = R104;
+ValeurCmp = R_15k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 588AA7C9
+Path = /56A5A071/5852ECFB
+Reference = R111;
+ValeurCmp = R_15k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACCE4
+Path = /584BA873/584C67B7
+Reference = R130;
+ValeurCmp = R_2.2k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58922955
+Path = /56921513/58B37F87
+Reference = L1;
+ValeurCmp = Z_68;
+IdModule  = ScopefunPackagesLibrary:L_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58925316
+Path = /56921513/5892D1E6
+Reference = C54;
+ValeurCmp = C_1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC8E8
+Path = /56921513/58596AD7
+Reference = D12;
+ValeurCmp = RB851YT2R;
+IdModule  = ScopefunPackagesLibrary:SOT-543;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC8FD
+Path = /56921513/585971B6
+Reference = D13;
+ValeurCmp = RB851YT2R;
+IdModule  = ScopefunPackagesLibrary:SOT-543;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC912
+Path = /56921513/585CEC2F
+Reference = D14;
+ValeurCmp = RB851YT2R;
+IdModule  = ScopefunPackagesLibrary:SOT-543;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC927
+Path = /56921513/585CEC37
+Reference = D15;
+ValeurCmp = RB851YT2R;
+IdModule  = ScopefunPackagesLibrary:SOT-543;
+EndCmp
+
+BeginCmp
+TimeStamp = 5893D51F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.5-0.3mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5895BC96
+Path = 
+Reference = MH1;
+ValeurCmp = MountingHole_3.2mm_M3_Pad;
+IdModule  = ScopefunPackagesLibrary:MountingHole_3.2mm_M3_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 5896244C
+Path = 
+Reference = VIA_DG;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD2E6
+Path = /584BA873/584BB541
+Reference = U29;
+ValeurCmp = CYUSB3014;
+IdModule  = ScopefunPackagesLibrary:BGA121_0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589F2030
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.8-0.6mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.8mm-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A0475D
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A047C6
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A04F2F
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.5mm-0.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A0B4CF
+Path = /56921513/58A342FE
+Reference = R42;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A0DD9E
+Path = /56921513/58A39B73
+Reference = R43;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A359C4
+Path = /56921513/58A54FDD
+Reference = C63;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A359D8
+Path = /56921513/58A725E5
+Reference = C67;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A359E2
+Path = /56921513/58A725ED
+Reference = C68;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A359EC
+Path = /56921513/58A72691
+Reference = C65;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A359F6
+Path = /56921513/58A72699
+Reference = C66;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A35A00
+Path = /584BA873/58A6DF45
+Reference = C169;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A35A0A
+Path = /584BA873/58A6DFE2
+Reference = C171;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A35A14
+Path = /56921513/58A5957E
+Reference = R40;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A35AEA
+Path = /56921513/58A6B3AA
+Reference = C61;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A35AF3
+Path = /56921513/58A6BB19
+Reference = C62;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A35A28
+Path = /56921513/58A4D3E6
+Reference = U11;
+ValeurCmp = LTC6957-2;
+IdModule  = ScopefunPackagesLibrary:12-MSOP;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A4B01B
+Path = 
+Reference = VIA;
+ValeurCmp = VIA-0.45-0.25mm;
+IdModule  = ScopefunPackagesLibrary:VIA-0.45mm-0.25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A61302
+Path = /584EFEB2/58A6615F
+Reference = C179;
+ValeurCmp = C_100u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A6130A
+Path = /5855FC3B/58A67BAB
+Reference = C227;
+ValeurCmp = C_100u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A8A44E
+Path = /56954A3D/58A8FEBA
+Reference = D25;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A8A456
+Path = /56954A3D/58A8FEC2
+Reference = D26;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ABCDE2
+Path = /56A5A071/58A9A259
+Reference = C138;
+ValeurCmp = C_47u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ABCDEA
+Path = /56A5A071/58A9A90F
+Reference = C139;
+ValeurCmp = C_47u;
+IdModule  = ScopefunPackagesLibrary:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 58ABCDF4
+Path = /584EFEB2/5856C090
+Reference = C185;
+ValeurCmp = C_4.7u;
+IdModule  = ScopefunPackagesLibrary:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AC9315
+Path = /58597EF5/58ACB783
+Reference = R181;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AC931E
+Path = /58597EF5/58ACB230
+Reference = R183;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AC9327
+Path = /58597EF5/58ACB723
+Reference = R184;
+ValeurCmp = R_100;
+IdModule  = ScopefunPackagesLibrary:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B1DCD1
+Path = /58568C5D/58B1F18B
+Reference = C238;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B1DCDB
+Path = /58568C5D/58B21241
+Reference = C239;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B1DCE5
+Path = /58568C5D/58B1F19D
+Reference = R160;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B1DCEF
+Path = /58568C5D/58B21251
+Reference = R161;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B76014
+Path = /56770A0B/58B973D2
+Reference = CV1;
+ValeurCmp = CV_1.8-4.5_pF;
+IdModule  = ScopefunPackagesLibrary:SGC3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B76022
+Path = /56770A0B/58B979F6
+Reference = CV2;
+ValeurCmp = CV_1.8-4.5_pF;
+IdModule  = ScopefunPackagesLibrary:SGC3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B76030
+Path = /56770A0B/58B9784F
+Reference = CV3;
+ValeurCmp = CV_1.8-4.5_pF;
+IdModule  = ScopefunPackagesLibrary:SGC3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B7603E
+Path = /56770A0B/58B97B7C
+Reference = CV4;
+ValeurCmp = CV_1.8-4.5_pF;
+IdModule  = ScopefunPackagesLibrary:SGC3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B85202
+Path = /56785EF9/58B88A80
+Reference = C29;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8520B
+Path = /56785EF9/58B888E6
+Reference = C30;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B85214
+Path = /56921513/58B8A293
+Reference = C60;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8535B
+Path = /56921513/58B8C2CE
+Reference = C64;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B85590
+Path = /56785EF9/58B8F728
+Reference = C31;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B85599
+Path = /56785EF9/58B8F806
+Reference = C32;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8571E
+Path = /56921513/58B9229F
+Reference = C48;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B85727
+Path = /56921513/58B92154
+Reference = C53;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B86D88
+Path = /56921513/58B93C3B
+Reference = C52;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B86D91
+Path = /56921513/58B93BB4
+Reference = C47;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B86769
+Path = /584BA873/58B96D97
+Reference = C143;
+ValeurCmp = C_2.2u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B89161
+Path = /58568C5D/58B99626
+Reference = R152;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8916B
+Path = /58568C5D/58B9BFC9
+Reference = R153;
+ValeurCmp = R_56R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD39D
+Path = /58568C5D/58B9B07D
+Reference = U34;
+ValeurCmp = OPA692;
+IdModule  = ScopefunPackagesLibrary:SOT23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD3AF
+Path = /58568C5D/58B9CA89
+Reference = U35;
+ValeurCmp = OPA692;
+IdModule  = ScopefunPackagesLibrary:SOT23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B89157
+Path = /58568C5D/58BA94AB
+Reference = D53;
+ValeurCmp = MCP1501-18;
+IdModule  = ScopefunPackagesLibrary:SOT23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8E8EA
+Path = /5855FC3B/58BA6158
+Reference = R144;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B8EAA5
+Path = /58568C5D/58BB5B23
+Reference = C237;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B9386D
+Path = /58568C5D/58BBFFDD
+Reference = R155;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B93877
+Path = /58568C5D/58BC0C28
+Reference = R156;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B93881
+Path = /58568C5D/58BBFC94
+Reference = R157;
+ValeurCmp = R_1.02k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B9DBC7
+Path = /56A5A071/58BB37B8
+Reference = U24;
+ValeurCmp = LM2776;
+IdModule  = ScopefunPackagesLibrary:SOT23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B9F286
+Path = /56921513/58BBF13E
+Reference = U9;
+ValeurCmp = SG3225VAN-250Mhz;
+IdModule  = ScopefunPackagesLibrary:3.2X2.5_SMD_6_EPSON;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BABE7B
+Path = /56A5A071/58BCA617
+Reference = L2;
+ValeurCmp = L_4.7u;
+IdModule  = ScopefunPackagesLibrary:L_NRS;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BABE86
+Path = /56A5A071/58BCAED2
+Reference = L3;
+ValeurCmp = L_4.7u;
+IdModule  = ScopefunPackagesLibrary:L_NRS;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BABE91
+Path = /56A5A071/58BCB5B8
+Reference = L4;
+ValeurCmp = L_4.7u;
+IdModule  = ScopefunPackagesLibrary:L_NRS;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BABE9C
+Path = /56A5A071/58BCB00F
+Reference = L5;
+ValeurCmp = L_4.7u;
+IdModule  = ScopefunPackagesLibrary:L_NRS;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BABEA7
+Path = /56A5A071/58BCB46D
+Reference = L6;
+ValeurCmp = L_4.7u;
+IdModule  = ScopefunPackagesLibrary:L_NRS;
+EndCmp
+
+BeginCmp
+TimeStamp = 570745FF
+Path = /56948068/58BF146B
+Reference = LED1;
+ValeurCmp = 598-8150-107F;
+IdModule  = ScopefunPackagesLibrary:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5707460B
+Path = /56948068/58BF1517
+Reference = LED2;
+ValeurCmp = 598-8150-107F;
+IdModule  = ScopefunPackagesLibrary:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074617
+Path = /56948068/58BF15BF
+Reference = LED3;
+ValeurCmp = 598-8150-107F;
+IdModule  = ScopefunPackagesLibrary:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A52
+Path = /56A1473E/56FF16ED
+Reference = R90;
+ValeurCmp = R_48.7R_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 57074A49
+Path = /56A1473E/56FF127E
+Reference = R89;
+ValeurCmp = R_48.7R_0.5W;
+IdModule  = ScopefunPackagesLibrary:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 570745F6
+Path = /56954A3D/5696B88F
+Reference = F1;
+ValeurCmp = 1206L150;
+IdModule  = ScopefunPackagesLibrary:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BB6EB9
+Path = /5696EC3C/58C02D36
+Reference = J1;
+ValeurCmp = DIL14_RA;
+IdModule  = ScopefunPackagesLibrary:DIL14_RA;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BC81EB
+Path = /56A5A071/58C01B28
+Reference = C106;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF3D31
+Path = /56954A3D/58BF7E05
+Reference = D27;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF3D39
+Path = /56954A3D/58BF7E0D
+Reference = D28;
+ValeurCmp = TPD1E0B04DPY;
+IdModule  = ScopefunPackagesLibrary:X1SON-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C06059
+Path = /56954A3D/58C04740
+Reference = C70;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C09A42
+Path = /56A5A071/58C1B949
+Reference = R103;
+ValeurCmp = R_20k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C09A4C
+Path = /56A5A071/58C26DEB
+Reference = R116;
+ValeurCmp = R_20k;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C1CBB3
+Path = /56954A3D/58C3946A
+Reference = R63;
+ValeurCmp = R_0R;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C1DE5D
+Path = /56954A3D/58C3B93F
+Reference = R62;
+ValeurCmp = R_0R;
+IdModule  = ScopefunPackagesLibrary:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C08AEA
+Path = /56A1473E/58C0A580
+Reference = D50;
+ValeurCmp = ESD7002;
+IdModule  = ScopefunPackagesLibrary:SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF173F
+Path = /5696EC3C/58BF909C
+Reference = D47;
+ValeurCmp = ESD7002;
+IdModule  = ScopefunPackagesLibrary:SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF1734
+Path = /5696EC3C/58BF893A
+Reference = D46;
+ValeurCmp = ESD7002;
+IdModule  = ScopefunPackagesLibrary:SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF1729
+Path = /5696EC3C/58BF907A
+Reference = D45;
+ValeurCmp = ESD7002;
+IdModule  = ScopefunPackagesLibrary:SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF171E
+Path = /5696EC3C/58BF888A
+Reference = D44;
+ValeurCmp = ESD7002;
+IdModule  = ScopefunPackagesLibrary:SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF1713
+Path = /5696EC3C/58BF9058
+Reference = D43;
+ValeurCmp = ESD7002;
+IdModule  = ScopefunPackagesLibrary:SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BF1708
+Path = /5696EC3C/58BF6204
+Reference = D42;
+ValeurCmp = ESD7002;
+IdModule  = ScopefunPackagesLibrary:SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C08AF5
+Path = /56A1473E/58C0BB4D
+Reference = D51;
+ValeurCmp = ESD7002;
+IdModule  = ScopefunPackagesLibrary:SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BC1FE1
+Path = /56954A3D/58BD3125
+Reference = D24;
+ValeurCmp = ESDA8V2-1J;
+IdModule  = ScopefunPackagesLibrary:SOD323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BC79E3
+Path = /5696EC3C/58BE51DF
+Reference = D41;
+ValeurCmp = ESDA8V2-1J;
+IdModule  = ScopefunPackagesLibrary:SOD323;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C34C48
+Path = /56770A0B/58C37BAE
+Reference = D1;
+ValeurCmp = PESD24VU1UT;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C34C56
+Path = /56770A0B/58C432B0
+Reference = D2;
+ValeurCmp = PESD24VU1UT;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C34C64
+Path = /56770A0B/58C38973
+Reference = D3;
+ValeurCmp = PESD24VU1UT;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58C34C72
+Path = /56770A0B/58C432B8
+Reference = D4;
+ValeurCmp = PESD24VU1UT;
+IdModule  = ScopefunPackagesLibrary:SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = 58D1F1A3
+Path = /56954A3D/58D2F1D7
+Reference = GND_P1;
+ValeurCmp = WP-SMRA;
+IdModule  = ScopefunPackagesLibrary:WP-SMRA;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD019
+Path = /56921513/585575AB
+Reference = U8;
+ValeurCmp = AD9211;
+IdModule  = ScopefunPackagesLibrary:CP-56-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD079
+Path = /56921513/5855CE14
+Reference = U10;
+ValeurCmp = AD9211;
+IdModule  = ScopefunPackagesLibrary:CP-56-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF032
+Path = /56954A3D/58DC7195
+Reference = C72;
+ValeurCmp = C_0.1u;
+IdModule  = ScopefunPackagesLibrary:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DBF890
+Path = /56954A3D/58DCE52F
+Reference = C71;
+ValeurCmp = C_10n;
+IdModule  = ScopefunPackagesLibrary:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AD2FD
+Path = /584BA873/584C676A
+Reference = U30;
+ValeurCmp = M24M02-DR;
+IdModule  = ScopefunPackagesLibrary:SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACA46
+Path = /56954A3D/58BC0760
+Reference = Q4;
+ValeurCmp = DMN6040SSD;
+IdModule  = ScopefunPackagesLibrary:SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACFA4
+Path = /56770A0B/58696BAB
+Reference = U1;
+ValeurCmp = ADA4817-1;
+IdModule  = ScopefunPackagesLibrary:SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = 586ACFBB
+Path = /56770A0B/586A0042
+Reference = U2;
+ValeurCmp = ADA4817-1;
+IdModule  = ScopefunPackagesLibrary:SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B91FE9
+Path = /58568C5D/58BBC33F
+Reference = U32;
+ValeurCmp = AZ4558C;
+IdModule  = ScopefunPackagesLibrary:SOIC8;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DD753B
+Path = /5855FC3B/58DFDA2D
+Reference = R139;
+ValeurCmp = RA_27R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DD754B
+Path = /5855FC3B/58DFDC7D
+Reference = R140;
+ValeurCmp = RA_27R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DD755B
+Path = /5855FC3B/58DFDCEF
+Reference = R141;
+ValeurCmp = RA_27R;
+IdModule  = ScopefunPackagesLibrary:R_CRA06E;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DD7565
+Path = /5855FC3B/58DF70F1
+Reference = R142;
+ValeurCmp = R_56R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58DD756F
+Path = /5855FC3B/58DF7590
+Reference = R143;
+ValeurCmp = R_56R;
+IdModule  = ScopefunPackagesLibrary:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E2AACD
+Path = /56948068/5705FCA2
+Reference = SLP3;
+ValeurCmp = SLP3-300-100-R;
+IdModule  = ScopefunPackagesLibrary:SLP3-300-100-R;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E2AAF7
+Path = /56948068/5705E795
+Reference = SLP2;
+ValeurCmp = SLP3-300-100-R;
+IdModule  = ScopefunPackagesLibrary:SLP3-300-100-R;
+EndCmp
+
+BeginCmp
+TimeStamp = 58E2AB08
+Path = /56948068/5705D1EC
+Reference = SLP1;
+ValeurCmp = SLP3-300-100-R;
+IdModule  = ScopefunPackagesLibrary:SLP3-300-100-R;
+EndCmp
+
+BeginCmp
+TimeStamp = 58CB1BD5
+Path = /56A1473E/58CD978A
+Reference = AWG1;
+ValeurCmp = BNC;
+IdModule  = ScopefunPackagesLibrary:BNC-5-1634556-0;
+EndCmp
+
+BeginCmp
+TimeStamp = 58CB1C11
+Path = /56A1473E/58CD9D20
+Reference = AWG2;
+ValeurCmp = BNC;
+IdModule  = ScopefunPackagesLibrary:BNC-5-1634556-0;
+EndCmp
+
+BeginCmp
+TimeStamp = 58CB1C4D
+Path = /56770A0B/58CD751E
+Reference = CH1;
+ValeurCmp = BNC;
+IdModule  = ScopefunPackagesLibrary:BNC-5-1634556-0;
+EndCmp
+
+BeginCmp
+TimeStamp = 58CB1C89
+Path = /56770A0B/58CD7C9E
+Reference = CH2;
+ValeurCmp = BNC;
+IdModule  = ScopefunPackagesLibrary:BNC-5-1634556-0;
+EndCmp
+
+BeginCmp
+TimeStamp = 586AC9A2
+Path = /584EFEB2/5850FD78
+Reference = J2;
+ValeurCmp = SIL6;
+IdModule  = ScopefunPackagesLibrary:SIL6;
+EndCmp
+
+EndListe

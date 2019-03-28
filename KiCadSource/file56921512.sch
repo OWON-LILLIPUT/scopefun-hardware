@@ -1,0 +1,1812 @@
+EESchema Schematic File Version 2
+LIBS:ScopefunParts
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Scopefun_v2-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 4 15
+Title "Scopefun Oscilloscope"
+Date ""
+Rev "v2"
+Comp ""
+Comment1 "Copyright Dejan Priversek 2017"
+Comment2 "Licensed under CERN OHL v.1.2"
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 5300 850  2    75   Input ~ 15
+CH1+
+Text HLabel 5300 1050 2    75   Input ~ 15
+CH1-
+Text GLabel 3150 1200 2    75   Output ~ 0
+CH1_CM
+Text GLabel 8400 1200 2    75   Output ~ 0
+CH2_CM
+Text GLabel 4550 6500 0    50   Input ~ 0
+ADC_CLK_EN
+$Comp
+L C_0.1u C59
+U 1 1 5692AE14
+P 5050 5700
+F 0 "C59" V 5150 5650 50  0000 L CNN
+F 1 "C_0.1u" V 4950 5600 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 5050 5500 50  0001 C CNN
+F 3 "" H 5060 5770 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 5160 5870 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 5100 5950 60  0001 C CNN "Description"
+	1    5050 5700
+	0    1    -1   0   
+$EndComp
+$Comp
+L GND #PWR069
+U 1 1 5692BE1C
+P 4600 5950
+F 0 "#PWR069" H 4600 5700 50  0001 C CNN
+F 1 "GND" H 4600 5800 50  0000 C CNN
+F 2 "" H 4600 5950 50  0000 C CNN
+F 3 "" H 4600 5950 50  0000 C CNN
+	1    4600 5950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR070
+U 1 1 5692BE72
+P 5300 5600
+F 0 "#PWR070" H 5300 5450 50  0001 C CNN
+F 1 "+3.3V" H 5300 5740 50  0000 C CNN
+F 2 "" H 5300 5600 50  0000 C CNN
+F 3 "" H 5300 5600 50  0000 C CNN
+	1    5300 5600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L GND #PWR071
+U 1 1 5692BECA
+P 5300 7350
+F 0 "#PWR071" H 5300 7100 50  0001 C CNN
+F 1 "GND" H 5300 7200 50  0000 C CNN
+F 2 "" H 5300 7350 50  0000 C CNN
+F 3 "" H 5300 7350 50  0000 C CNN
+	1    5300 7350
+	1    0    0    -1  
+$EndComp
+Text GLabel 9800 5750 2    50   Output ~ 0
+CH1_ADC_CLK_IN-
+Text GLabel 1550 2200 0    50   Input ~ 0
+CH1_ADC_CLK_IN+
+Text GLabel 1550 2300 0    50   Input ~ 0
+CH1_ADC_CLK_IN-
+Text GLabel 1550 1000 0    50   Output ~ 0
+CLK_ADC_P
+Text GLabel 1550 900  0    50   Output ~ 0
+CLK_ADC_N
+Text GLabel 1550 1200 0    50   Output ~ 0
+dataA0_P
+Text GLabel 1550 1100 0    50   Output ~ 0
+dataA0_N
+Text GLabel 1550 1400 0    50   Output ~ 0
+dataA1_P
+Text GLabel 1550 1300 0    50   Output ~ 0
+dataA1_N
+Text GLabel 1550 2000 0    50   Output ~ 0
+dataA4_P
+Text GLabel 1550 1900 0    50   Output ~ 0
+dataA4_N
+Text GLabel 1550 1800 0    50   Output ~ 0
+dataA3_P
+Text GLabel 1550 1700 0    50   Output ~ 0
+dataA3_N
+Text GLabel 1550 1600 0    50   Output ~ 0
+dataA2_P
+Text GLabel 1550 1500 0    50   Output ~ 0
+dataA2_N
+$Comp
+L R_10k R38
+U 1 1 58558D75
+P 3300 1700
+F 0 "R38" H 3350 1750 50  0000 L CNN
+F 1 "R_10k" H 3350 1650 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 3300 1450 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 3300 1550 50  0001 C CNN
+F 4 "ERJ-3EKF1002V" H 3300 1850 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 3300 1950 60  0001 C CNN "Description"
+	1    3300 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR072
+U 1 1 58558E3F
+P 3300 1900
+F 0 "#PWR072" H 3300 1650 50  0001 C CNN
+F 1 "GND" H 3300 1750 50  0000 C CNN
+F 2 "" H 3300 1900 50  0000 C CNN
+F 3 "" H 3300 1900 50  0000 C CNN
+	1    3300 1900
+	1    0    0    -1  
+$EndComp
+Text GLabel 1550 2600 0    50   Input ~ 0
+ADCA_CS
+Text GLabel 1550 2700 0    50   Input ~ 0
+ADC_SCLK
+$Comp
+L +1.8V #PWR073
+U 1 1 5855BD23
+P 1550 3700
+F 0 "#PWR073" H 1550 3550 50  0001 C CNN
+F 1 "+1.8V" H 1550 3840 50  0000 C CNN
+F 2 "" H 1550 3700 50  0000 C CNN
+F 3 "" H 1550 3700 50  0000 C CNN
+	1    1550 3700
+	1    0    0    -1  
+$EndComp
+Text GLabel 1550 2800 0    50   Input ~ 0
+ADC_SDIN
+Text HLabel 10550 850  2    75   Input ~ 15
+CH2+
+Text HLabel 10550 1050 2    75   Input ~ 15
+CH2-
+Text GLabel 6800 2200 0    50   Input ~ 0
+CH2_ADC_CLK_IN+
+Text GLabel 6800 2300 0    50   Input ~ 0
+CH2_ADC_CLK_IN-
+Text GLabel 6800 1200 0    50   Output ~ 0
+dataB0_P
+Text GLabel 6800 1100 0    50   Output ~ 0
+dataB0_N
+Text GLabel 6800 1400 0    50   Output ~ 0
+dataB1_P
+Text GLabel 6800 1300 0    50   Output ~ 0
+dataB1_N
+Text GLabel 6800 2000 0    50   Output ~ 0
+dataB4_P
+Text GLabel 6800 1900 0    50   Output ~ 0
+dataB4_N
+Text GLabel 6800 1800 0    50   Output ~ 0
+dataB3_P
+Text GLabel 6800 1700 0    50   Output ~ 0
+dataB3_N
+Text GLabel 6800 1600 0    50   Output ~ 0
+dataB2_P
+Text GLabel 6800 1500 0    50   Output ~ 0
+dataB2_N
+$Comp
+L R_10k R41
+U 1 1 5855CE3B
+P 8550 1700
+F 0 "R41" H 8600 1750 50  0000 L CNN
+F 1 "R_10k" H 8600 1650 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 8550 1450 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 8550 1550 50  0001 C CNN
+F 4 "ERJ-3EKF1002V" H 8550 1850 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 8550 1950 60  0001 C CNN "Description"
+	1    8550 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR074
+U 1 1 5855CE43
+P 8550 1900
+F 0 "#PWR074" H 8550 1650 50  0001 C CNN
+F 1 "GND" H 8550 1750 50  0000 C CNN
+F 2 "" H 8550 1900 50  0000 C CNN
+F 3 "" H 8550 1900 50  0000 C CNN
+	1    8550 1900
+	1    0    0    -1  
+$EndComp
+Text GLabel 6800 2600 0    50   Input ~ 0
+ADCB_CS
+Text GLabel 6800 2700 0    50   Input ~ 0
+ADC_SCLK
+Text GLabel 6800 2800 0    50   Input ~ 0
+ADC_SDIN
+$Comp
+L +1.8V #PWR075
+U 1 1 5857B623
+P 9100 2650
+F 0 "#PWR075" H 9100 2500 50  0001 C CNN
+F 1 "+1.8V" H 9100 2790 50  0000 C CNN
+F 2 "" H 9100 2650 50  0000 C CNN
+F 3 "" H 9100 2650 50  0000 C CNN
+	1    9100 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.8V_VA #PWR076
+U 1 1 5857B62F
+P 9100 3700
+F 0 "#PWR076" H 9100 3550 50  0001 C CNN
+F 1 "+1.8V_VA" H 9100 3840 50  0000 C CNN
+F 2 "" H 9100 3700 50  0000 C CNN
+F 3 "" H 9100 3700 50  0000 C CNN
+	1    9100 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR077
+U 1 1 5857B64D
+P 5350 4350
+F 0 "#PWR077" H 5350 4100 50  0001 C CNN
+F 1 "GND" H 5350 4200 50  0000 C CNN
+F 2 "" H 5350 4350 50  0000 C CNN
+F 3 "" H 5350 4350 50  0000 C CNN
+	1    5350 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.8V_VA #PWR078
+U 1 1 5857C176
+P 1050 5400
+F 0 "#PWR078" H 1050 5250 50  0001 C CNN
+F 1 "+1.8V_VA" H 1050 5540 50  0000 C CNN
+F 2 "" H 1050 5400 50  0000 C CNN
+F 3 "" H 1050 5400 50  0000 C CNN
+	1    1050 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C43
+U 1 1 5857C52A
+P 3250 5600
+F 0 "C43" H 3260 5670 50  0000 L CNN
+F 1 "C_0.1u" H 3260 5520 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 3250 5400 50  0001 C CNN
+F 3 "" H 3260 5670 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 3360 5770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 3300 5850 60  0001 C CNN "Description"
+	1    3250 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C49
+U 1 1 5857C6AB
+P 2550 5600
+F 0 "C49" H 2560 5670 50  0000 L CNN
+F 1 "C_0.1u" H 2560 5520 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 2550 5400 50  0001 C CNN
+F 3 "" H 2560 5670 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 2660 5770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 2600 5850 60  0001 C CNN "Description"
+	1    2550 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR079
+U 1 1 5857E2C0
+P 2550 5800
+F 0 "#PWR079" H 2550 5550 50  0001 C CNN
+F 1 "GND" H 2550 5650 50  0000 C CNN
+F 2 "" H 2550 5800 50  0000 C CNN
+F 3 "" H 2550 5800 50  0000 C CNN
+	1    2550 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR080
+U 1 1 5857EC20
+P 3250 6650
+F 0 "#PWR080" H 3250 6400 50  0001 C CNN
+F 1 "GND" H 3250 6500 50  0000 C CNN
+F 2 "" H 3250 6650 50  0000 C CNN
+F 3 "" H 3250 6650 50  0000 C CNN
+	1    3250 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.8V #PWR081
+U 1 1 5857EEE5
+P 2950 6200
+F 0 "#PWR081" H 2950 6050 50  0001 C CNN
+F 1 "+1.8V" H 2950 6340 50  0000 C CNN
+F 2 "" H 2950 6200 50  0000 C CNN
+F 3 "" H 2950 6200 50  0000 C CNN
+	1    2950 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.8V_VA #PWR082
+U 1 1 5857F230
+P 1050 6200
+F 0 "#PWR082" H 1050 6050 50  0001 C CNN
+F 1 "+1.8V_VA" H 1050 6340 50  0000 C CNN
+F 2 "" H 1050 6200 50  0000 C CNN
+F 3 "" H 1050 6200 50  0000 C CNN
+	1    1050 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C55
+U 1 1 5857F248
+P 3250 6400
+F 0 "C55" H 3260 6470 50  0000 L CNN
+F 1 "C_0.1u" H 3260 6320 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 3250 6200 50  0001 C CNN
+F 3 "" H 3260 6470 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 3360 6570 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 3300 6650 60  0001 C CNN "Description"
+	1    3250 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C56
+U 1 1 5857F250
+P 1950 6400
+F 0 "C56" H 1960 6470 50  0000 L CNN
+F 1 "C_0.1u" H 1960 6320 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 1950 6200 50  0001 C CNN
+F 3 "" H 1960 6470 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 2060 6570 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 2000 6650 60  0001 C CNN "Description"
+	1    1950 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C57
+U 1 1 5857F258
+P 2550 6400
+F 0 "C57" H 2560 6470 50  0000 L CNN
+F 1 "C_0.1u" H 2560 6320 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 2550 6200 50  0001 C CNN
+F 3 "" H 2560 6470 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 2660 6570 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 2600 6650 60  0001 C CNN "Description"
+	1    2550 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C45
+U 1 1 5857F260
+P 1650 6400
+F 0 "C45" H 1660 6470 50  0000 L CNN
+F 1 "C_0.1u" H 1660 6320 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 1650 6200 50  0001 C CNN
+F 3 "" H 1660 6470 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 1760 6570 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 1700 6650 60  0001 C CNN "Description"
+	1    1650 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C51
+U 1 1 5857F270
+P 2250 6400
+F 0 "C51" H 2260 6470 50  0000 L CNN
+F 1 "C_0.1u" H 2260 6320 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 2250 6200 50  0001 C CNN
+F 3 "" H 2260 6470 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 2360 6570 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 2300 6650 60  0001 C CNN "Description"
+	1    2250 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR083
+U 1 1 5857F2C5
+P 2550 6600
+F 0 "#PWR083" H 2550 6350 50  0001 C CNN
+F 1 "GND" H 2550 6450 50  0000 C CNN
+F 2 "" H 2550 6600 50  0000 C CNN
+F 3 "" H 2550 6600 50  0000 C CNN
+	1    2550 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR084
+U 1 1 5857F2F0
+P 3250 5800
+F 0 "#PWR084" H 3250 5550 50  0001 C CNN
+F 1 "GND" H 3250 5650 50  0000 C CNN
+F 2 "" H 3250 5800 50  0000 C CNN
+F 3 "" H 3250 5800 50  0000 C CNN
+	1    3250 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.8V #PWR085
+U 1 1 5857F2F6
+P 2950 5400
+F 0 "#PWR085" H 2950 5250 50  0001 C CNN
+F 1 "+1.8V" H 2950 5540 50  0000 C CNN
+F 2 "" H 2950 5400 50  0000 C CNN
+F 3 "" H 2950 5400 50  0000 C CNN
+	1    2950 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L RB851YT2R D12
+U 1 1 58596AD7
+P 4400 1400
+F 0 "D12" H 4600 1500 50  0000 L CNN
+F 1 "RB851YT2R" H 4600 1350 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:SOT-543" H 4400 1150 50  0001 C CNN
+F 3 "http://www.rohm.com/web/eu/datasheet/RB851Y" H 4400 1050 50  0001 C CNN
+F 4 "RB851YT2R" H 4400 1800 60  0001 C CNN "MFG Part#"
+F 5 "Detection Schottky Diode, Vr=3V, Vf=0.46V" H 4400 1700 60  0001 C CNN "Description"
+	1    4400 1400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RB851YT2R D13
+U 1 1 585971B6
+P 4900 1350
+F 0 "D13" H 5100 1450 50  0000 L CNN
+F 1 "RB851YT2R" H 5100 1300 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:SOT-543" H 4900 1100 50  0001 C CNN
+F 3 "http://www.rohm.com/web/eu/datasheet/RB851Y" H 4900 1000 50  0001 C CNN
+F 4 "RB851YT2R" H 4900 1750 60  0001 C CNN "MFG Part#"
+F 5 "Detection Schottky Diode, Vr=3V, Vf=0.46V" H 4900 1650 60  0001 C CNN "Description"
+	1    4900 1350
+	1    0    0    1   
+$EndComp
+$Comp
+L GND #PWR086
+U 1 1 58597A6C
+P 4400 1700
+F 0 "#PWR086" H 4400 1450 50  0001 C CNN
+F 1 "GND" H 4400 1550 50  0000 C CNN
+F 2 "" H 4400 1700 50  0000 C CNN
+F 3 "" H 4400 1700 50  0000 C CNN
+	1    4400 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.48V #PWR087
+U 1 1 58597C8B
+P 5250 1750
+F 0 "#PWR087" H 5250 1650 50  0001 C CNN
+F 1 "+1.48V" H 5250 1890 50  0000 C CNN
+F 2 "" H 5250 1750 50  0000 C CNN
+F 3 "" H 5250 1750 50  0000 C CNN
+	1    5250 1750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RB851YT2R D14
+U 1 1 585CEC2F
+P 9650 1400
+F 0 "D14" H 9850 1500 50  0000 L CNN
+F 1 "RB851YT2R" H 9850 1350 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:SOT-543" H 9650 1150 50  0001 C CNN
+F 3 "http://www.rohm.com/web/eu/datasheet/RB851Y" H 9650 1050 50  0001 C CNN
+F 4 "RB851YT2R" H 9650 1800 60  0001 C CNN "MFG Part#"
+F 5 "Detection Schottky Diode, Vr=3V, Vf=0.46V" H 9650 1700 60  0001 C CNN "Description"
+	1    9650 1400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L RB851YT2R D15
+U 1 1 585CEC37
+P 10150 1350
+F 0 "D15" H 10350 1450 50  0000 L CNN
+F 1 "RB851YT2R" H 10350 1300 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:SOT-543" H 10150 1100 50  0001 C CNN
+F 3 "http://www.rohm.com/web/eu/datasheet/RB851Y" H 10150 1000 50  0001 C CNN
+F 4 "RB851YT2R" H 10150 1750 60  0001 C CNN "MFG Part#"
+F 5 "Detection Schottky Diode, Vr=3V, Vf=0.46V" H 10150 1650 60  0001 C CNN "Description"
+	1    10150 1350
+	1    0    0    1   
+$EndComp
+$Comp
+L GND #PWR088
+U 1 1 585CFF69
+P 4900 2100
+F 0 "#PWR088" H 4900 1850 50  0001 C CNN
+F 1 "GND" H 4900 1950 50  0000 C CNN
+F 2 "" H 4900 2100 50  0000 C CNN
+F 3 "" H 4900 2100 50  0000 C CNN
+	1    4900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C69
+U 1 1 585D0A24
+P 10150 1950
+F 0 "C69" H 10160 2020 50  0000 L CNN
+F 1 "C_0.1u" H 10160 1870 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 10150 1750 50  0001 C CNN
+F 3 "" H 10160 2020 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 10260 2120 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 10200 2200 60  0001 C CNN "Description"
+	1    10150 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.8V #PWR089
+U 1 1 5869B4B9
+P 2300 4850
+F 0 "#PWR089" H 2300 4700 50  0001 C CNN
+F 1 "+1.8V" H 2300 4990 50  0000 C CNN
+F 2 "" H 2300 4850 50  0000 C CNN
+F 3 "" H 2300 4850 50  0000 C CNN
+	1    2300 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.8V_VA #PWR090
+U 1 1 5869B6EA
+P 1050 4850
+F 0 "#PWR090" H 1050 4700 50  0001 C CNN
+F 1 "+1.8V_VA" H 1050 4990 50  0000 C CNN
+F 2 "" H 1050 4850 50  0000 C CNN
+F 3 "" H 1050 4850 50  0000 C CNN
+	1    1050 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_22u C38
+U 1 1 586C4FC3
+P 1050 5600
+F 0 "C38" H 1060 5670 50  0000 L CNN
+F 1 "C_22u" H 1060 5520 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0805" H 1050 5400 50  0001 C CNN
+F 3 "" H 1060 5670 50  0001 C CNN
+F 4 "LMK212BBJ226MG-T" H 1160 5770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0805 10V X5R 20%" H 1100 5850 60  0001 C CNN "Description"
+	1    1050 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_22u C39
+U 1 1 586C51F0
+P 1050 6400
+F 0 "C39" H 1060 6470 50  0000 L CNN
+F 1 "C_22u" H 1060 6320 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0805" H 1050 6200 50  0001 C CNN
+F 3 "" H 1060 6470 50  0001 C CNN
+F 4 "LMK212BBJ226MG-T" H 1160 6570 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0805 10V X5R 20%" H 1100 6650 60  0001 C CNN "Description"
+	1    1050 6400
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4650 7100
+$Comp
+L C_0.1u C58
+U 1 1 585CFEB4
+P 4900 1950
+F 0 "C58" H 4910 2020 50  0000 L CNN
+F 1 "C_0.1u" H 4910 1870 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 4900 1750 50  0001 C CNN
+F 3 "" H 4910 2020 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 5010 2120 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 4950 2200 60  0001 C CNN "Description"
+	1    4900 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR091
+U 1 1 585D0A2A
+P 10150 2100
+F 0 "#PWR091" H 10150 1850 50  0001 C CNN
+F 1 "GND" H 10150 1950 50  0000 C CNN
+F 2 "" H 10150 2100 50  0000 C CNN
+F 3 "" H 10150 2100 50  0000 C CNN
+	1    10150 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.48V #PWR092
+U 1 1 585CEC43
+P 10500 1750
+F 0 "#PWR092" H 10500 1650 50  0001 C CNN
+F 1 "+1.48V" H 10500 1890 50  0000 C CNN
+F 2 "" H 10500 1750 50  0000 C CNN
+F 3 "" H 10500 1750 50  0000 C CNN
+	1    10500 1750
+	-1   0    0    -1  
+$EndComp
+$Comp
+L GND #PWR093
+U 1 1 585CEC3D
+P 9650 1700
+F 0 "#PWR093" H 9650 1450 50  0001 C CNN
+F 1 "GND" H 9650 1550 50  0000 C CNN
+F 2 "" H 9650 1700 50  0000 C CNN
+F 3 "" H 9650 1700 50  0000 C CNN
+	1    9650 1700
+	1    0    0    -1  
+$EndComp
+Text GLabel 9800 5550 2    50   Output ~ 0
+CH1_ADC_CLK_IN+
+Text GLabel 9800 5050 2    50   Output ~ 0
+CH2_ADC_CLK_IN-
+Text GLabel 9800 4850 2    50   Output ~ 0
+CH2_ADC_CLK_IN+
+Wire Wire Line
+	4800 1650 5000 1650
+Wire Wire Line
+	4300 1650 4500 1650
+Wire Wire Line
+	4900 1650 4900 1850
+Connection ~ 4900 1650
+Wire Wire Line
+	1050 4850 1050 4950
+Wire Wire Line
+	2300 4850 2300 4950
+Wire Wire Line
+	10150 2050 10150 2100
+Connection ~ 10150 1800
+Wire Wire Line
+	10150 1650 10150 1850
+Wire Wire Line
+	10150 1800 10500 1800
+Wire Wire Line
+	4900 2050 4900 2100
+Connection ~ 4900 1800
+Connection ~ 10150 1650
+Wire Wire Line
+	10250 1650 10250 1550
+Wire Wire Line
+	10050 1650 10050 1550
+Wire Wire Line
+	10050 1650 10250 1650
+Wire Wire Line
+	9750 1650 9750 1550
+Wire Wire Line
+	9550 1650 9750 1650
+Wire Wire Line
+	10500 1800 10500 1750
+Wire Wire Line
+	8400 1050 10550 1050
+Wire Wire Line
+	5000 1650 5000 1550
+Wire Wire Line
+	4800 1650 4800 1550
+Connection ~ 4400 1650
+Wire Wire Line
+	4300 1650 4300 1550
+Wire Wire Line
+	4500 1650 4500 1550
+Wire Wire Line
+	4400 1700 4400 1650
+Wire Wire Line
+	5250 1800 5250 1750
+Wire Wire Line
+	4900 1800 5250 1800
+Wire Wire Line
+	3250 5700 3250 5800
+Wire Wire Line
+	3250 5450 3250 5500
+Connection ~ 2550 6550
+Connection ~ 2250 6550
+Wire Wire Line
+	2250 6550 2250 6500
+Connection ~ 1950 6550
+Wire Wire Line
+	1950 6550 1950 6500
+Connection ~ 1650 6550
+Wire Wire Line
+	1650 6550 1650 6500
+Connection ~ 1350 6550
+Wire Wire Line
+	1350 6500 1350 6550
+Wire Wire Line
+	1050 6550 1050 6500
+Wire Wire Line
+	2550 6250 2550 6300
+Connection ~ 2250 6250
+Wire Wire Line
+	2250 6250 2250 6300
+Connection ~ 1950 6250
+Wire Wire Line
+	1950 6250 1950 6300
+Connection ~ 1650 6250
+Wire Wire Line
+	1650 6250 1650 6300
+Connection ~ 1350 6250
+Wire Wire Line
+	1350 6300 1350 6250
+Connection ~ 1050 6250
+Wire Wire Line
+	1050 6200 1050 6300
+Wire Wire Line
+	3250 6500 3250 6650
+Wire Wire Line
+	3250 6250 3250 6300
+Connection ~ 2550 5750
+Wire Wire Line
+	2550 5700 2550 5800
+Connection ~ 2250 5750
+Wire Wire Line
+	2250 5750 2250 5700
+Connection ~ 1950 5750
+Wire Wire Line
+	1950 5750 1950 5700
+Connection ~ 1650 5750
+Wire Wire Line
+	1650 5750 1650 5700
+Connection ~ 1350 5750
+Wire Wire Line
+	1350 5700 1350 5750
+Wire Wire Line
+	1050 5750 1050 5700
+Wire Wire Line
+	2550 5450 2550 5500
+Connection ~ 2250 5450
+Wire Wire Line
+	2250 5450 2250 5500
+Connection ~ 1950 5450
+Wire Wire Line
+	1950 5450 1950 5500
+Connection ~ 1650 5450
+Wire Wire Line
+	1650 5450 1650 5500
+Connection ~ 1350 5450
+Wire Wire Line
+	1350 5500 1350 5450
+Connection ~ 1050 5450
+Wire Wire Line
+	1050 5400 1050 5500
+Connection ~ 5350 3000
+Wire Wire Line
+	5350 3000 5250 3000
+Connection ~ 5350 2900
+Wire Wire Line
+	5250 2900 5350 2900
+Wire Wire Line
+	5350 2800 5250 2800
+Wire Wire Line
+	5350 2800 5350 3150
+Wire Wire Line
+	5350 3700 5350 4350
+Wire Wire Line
+	9100 4100 9300 4100
+Wire Wire Line
+	9100 4000 9300 4000
+Wire Wire Line
+	9100 3900 9300 3900
+Wire Wire Line
+	9100 3800 9300 3800
+Connection ~ 9100 4100
+Connection ~ 9100 4000
+Connection ~ 9100 3900
+Connection ~ 9100 3800
+Wire Wire Line
+	9100 4200 9300 4200
+Wire Wire Line
+	9100 2900 9300 2900
+Connection ~ 9100 2800
+Wire Wire Line
+	9300 2800 9100 2800
+Wire Wire Line
+	6800 2600 6900 2600
+Wire Wire Line
+	6800 2700 6900 2700
+Wire Wire Line
+	6800 2800 6900 2800
+Wire Wire Line
+	6800 2300 6900 2300
+Wire Wire Line
+	6800 2200 6900 2200
+Wire Wire Line
+	6800 1400 6900 1400
+Wire Wire Line
+	6800 1300 6900 1300
+Wire Wire Line
+	6800 1200 6900 1200
+Wire Wire Line
+	6800 1100 6900 1100
+Wire Wire Line
+	6800 2000 6900 2000
+Wire Wire Line
+	6800 1900 6900 1900
+Wire Wire Line
+	6800 1800 6900 1800
+Wire Wire Line
+	6800 1700 6900 1700
+Wire Wire Line
+	6800 1600 6900 1600
+Wire Wire Line
+	6800 1500 6900 1500
+Wire Wire Line
+	8550 1900 8550 1800
+Wire Wire Line
+	8550 1600 8550 1500
+Wire Wire Line
+	8400 900  8400 850 
+Wire Wire Line
+	8400 1050 8400 1000
+Wire Wire Line
+	8400 1200 8300 1200
+Wire Wire Line
+	8400 1000 8300 1000
+Wire Wire Line
+	8400 900  8300 900 
+Wire Wire Line
+	1650 3000 1550 3000
+Wire Wire Line
+	1550 4100 1550 3950
+Wire Wire Line
+	1550 3750 1550 3700
+Wire Wire Line
+	1550 2700 1650 2700
+Wire Wire Line
+	1550 2800 1650 2800
+Wire Wire Line
+	1550 2300 1650 2300
+Wire Wire Line
+	1550 2200 1650 2200
+Wire Wire Line
+	1550 1400 1650 1400
+Wire Wire Line
+	1550 1300 1650 1300
+Wire Wire Line
+	1550 1200 1650 1200
+Wire Wire Line
+	1550 1100 1650 1100
+Wire Wire Line
+	1550 1900 1650 1900
+Wire Wire Line
+	1550 1700 1650 1700
+Wire Wire Line
+	1550 1600 1650 1600
+Wire Wire Line
+	1550 1500 1650 1500
+Wire Wire Line
+	1550 1000 1650 1000
+Wire Wire Line
+	1550 900  1650 900 
+Wire Wire Line
+	3300 1900 3300 1800
+Wire Wire Line
+	3300 1600 3300 1500
+Wire Wire Line
+	5300 7350 5300 7250
+Connection ~ 4800 5850
+Wire Wire Line
+	4600 5850 4800 5850
+Connection ~ 5300 6000
+Wire Wire Line
+	4800 5700 4950 5700
+Wire Wire Line
+	4800 5700 4800 6000
+Wire Wire Line
+	4800 6000 4950 6000
+Connection ~ 5300 5700
+Wire Wire Line
+	5300 6000 5150 6000
+Wire Wire Line
+	5300 5600 5300 6350
+Wire Wire Line
+	5150 5700 5300 5700
+Wire Wire Line
+	3150 850  5300 850 
+Wire Wire Line
+	3150 900  3150 850 
+Wire Wire Line
+	3150 1050 3150 1000
+Wire Wire Line
+	3150 1050 5300 1050
+Wire Wire Line
+	3150 1200 3050 1200
+Wire Wire Line
+	3150 1000 3050 1000
+Wire Wire Line
+	3150 900  3050 900 
+Wire Wire Line
+	8900 5500 9400 5500
+Wire Wire Line
+	8800 5800 9400 5800
+Text Notes 9800 5350 0    50   ~ 0
+180° PHASE BETWEEN\nADC1 AND ADC2 CLK_IN
+Wire Wire Line
+	9600 5500 9700 5500
+Wire Wire Line
+	9700 5500 9700 5550
+Wire Wire Line
+	9700 4850 9800 4850
+Wire Wire Line
+	9600 5800 9700 5800
+Wire Wire Line
+	9700 5800 9700 5750
+Wire Wire Line
+	9700 5050 9800 5050
+Wire Wire Line
+	9600 4800 9700 4800
+Wire Wire Line
+	9700 4800 9700 4850
+Wire Wire Line
+	9700 5550 9800 5550
+Wire Wire Line
+	9600 5100 9700 5100
+Wire Wire Line
+	9700 5100 9700 5050
+Wire Wire Line
+	9700 5750 9800 5750
+Wire Wire Line
+	2300 4950 1950 4950
+Wire Wire Line
+	1050 4950 1450 4950
+Wire Wire Line
+	2950 6200 2950 6300
+Connection ~ 2950 6250
+Wire Wire Line
+	2950 6550 2950 6500
+Connection ~ 3250 6550
+Wire Wire Line
+	2950 5750 2950 5700
+Connection ~ 3250 5750
+Wire Wire Line
+	2950 5400 2950 5500
+Connection ~ 2950 5450
+Wire Wire Line
+	6800 3100 6500 3100
+Text Label 6500 3100 0    50   ~ 0
+RESETN
+Wire Wire Line
+	6900 3000 6800 3000
+Wire Wire Line
+	6800 3000 6800 3100
+Wire Wire Line
+	1550 3100 1250 3100
+Text Label 1250 3100 0    50   ~ 0
+RESETN
+Wire Wire Line
+	1550 3000 1550 3100
+Wire Wire Line
+	8550 1500 8300 1500
+Wire Wire Line
+	3300 1500 3050 1500
+$Comp
+L R_100 R42
+U 1 1 58A342FE
+P 9250 4950
+F 0 "R42" H 9300 5000 50  0000 L CNN
+F 1 "R_100" H 9300 4900 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0402" H 9250 4700 50  0001 C CNN
+F 3 "https://industrial.panasonic.com/ww/products/resistors/chip-resistors/chip-resistors/precision-thick-film-chip-resistors/ERJ3EKF1000V" H 9250 4800 50  0001 C CNN
+F 4 "ERJ-2RKF1000X" H 9250 5100 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0402" H 9250 5200 60  0001 C CNN "Description"
+	1    9250 4950
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 5050 9250 5100
+Connection ~ 9250 5100
+Wire Wire Line
+	9250 4850 9250 4800
+Connection ~ 9250 4800
+$Comp
+L R_100 R43
+U 1 1 58A39B73
+P 9250 5650
+F 0 "R43" H 9300 5700 50  0000 L CNN
+F 1 "R_100" H 9300 5600 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0402" H 9250 5400 50  0001 C CNN
+F 3 "https://industrial.panasonic.com/ww/products/resistors/chip-resistors/chip-resistors/precision-thick-film-chip-resistors/ERJ3EKF1000V" H 9250 5500 50  0001 C CNN
+F 4 "ERJ-2RKF1000X" H 9250 5800 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0402" H 9250 5900 60  0001 C CNN "Description"
+	1    9250 5650
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 5550 9250 5500
+Connection ~ 9250 5500
+Wire Wire Line
+	9250 5750 9250 5800
+Connection ~ 9250 5800
+$Comp
+L LTC6957-2 U11
+U 1 1 58A4D3E6
+P 7900 5300
+F 0 "U11" H 7600 5700 50  0000 C CNN
+F 1 "LTC6957-2" H 7950 5700 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:12-MSOP" H 7900 4600 50  0001 C CNN
+F 3 "http://cds.linear.com/docs/en/datasheet/6957fa.pdf" H 7900 4700 50  0001 C CNN
+F 4 "LTC6957HMS-2#PBF" H 7900 5900 50  0001 C CNN "MFG Part#"
+F 5 "IC CLK BUFFER DRIVER 1:2 LVDS OUT 12MSOP" H 7900 6000 50  0001 C CNN "Description"
+	1    7900 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 5250 7400 5250
+Wire Wire Line
+	6900 5350 7400 5350
+Wire Wire Line
+	7350 5100 7400 5100
+Wire Wire Line
+	7350 4850 7350 5100
+Wire Wire Line
+	7400 5000 7350 5000
+Connection ~ 7350 5000
+Wire Wire Line
+	8350 5600 8450 5600
+Wire Wire Line
+	8450 5000 8450 5900
+Wire Wire Line
+	8350 5000 8450 5000
+Connection ~ 8450 5600
+Wire Wire Line
+	7900 5800 7900 5850
+Wire Wire Line
+	7900 5850 8450 5850
+Connection ~ 8450 5850
+$Comp
+L C_0.1u C63
+U 1 1 58A54FDD
+P 7650 4300
+F 0 "C63" V 7750 4200 50  0000 L CNN
+F 1 "C_0.1u" V 7550 4200 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 7650 4100 50  0001 C CNN
+F 3 "" H 7660 4370 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 7760 4470 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 7700 4550 60  0001 C CNN "Description"
+	1    7650 4300
+	0    1    -1   0   
+$EndComp
+$Comp
+L GND #PWR094
+U 1 1 58A54FEB
+P 7200 4500
+F 0 "#PWR094" H 7200 4250 50  0001 C CNN
+F 1 "GND" H 7200 4350 50  0000 C CNN
+F 2 "" H 7200 4500 50  0000 C CNN
+F 3 "" H 7200 4500 50  0000 C CNN
+	1    7200 4500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR095
+U 1 1 58A54FF1
+P 7900 4200
+F 0 "#PWR095" H 7900 4050 50  0001 C CNN
+F 1 "+3.3V" H 7900 4350 50  0000 C CNN
+F 2 "" H 7900 4200 50  0000 C CNN
+F 3 "" H 7900 4200 50  0000 C CNN
+	1    7900 4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 7400 4450
+Wire Wire Line
+	7200 4450 7400 4450
+Wire Wire Line
+	7200 4500 7200 4450
+Connection ~ 7900 4600
+Wire Wire Line
+	7400 4300 7550 4300
+Wire Wire Line
+	7400 4300 7400 4600
+Wire Wire Line
+	7400 4600 7550 4600
+Connection ~ 7900 4300
+Wire Wire Line
+	7900 4600 7750 4600
+Wire Wire Line
+	7900 4200 7900 4800
+Wire Wire Line
+	7750 4300 7900 4300
+Wire Wire Line
+	4650 6500 4550 6500
+Wire Wire Line
+	6450 6700 5950 6700
+Text Label 6450 6700 2    50   ~ 0
+CLK_OUT+
+Text Label 6450 6900 2    50   ~ 0
+CLK_OUT-
+$Comp
+L R_100 R40
+U 1 1 58A5957E
+P 6450 5300
+F 0 "R40" H 6500 5350 50  0000 L CNN
+F 1 "R_100" H 6500 5250 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0402" H 6450 5050 50  0001 C CNN
+F 3 "https://industrial.panasonic.com/ww/products/resistors/chip-resistors/chip-resistors/precision-thick-film-chip-resistors/ERJ3EKF1000V" H 6450 5150 50  0001 C CNN
+F 4 "ERJ-2RKF1000X" H 6450 5450 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0402" H 6450 5550 60  0001 C CNN "Description"
+	1    6450 5300
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 5150 6900 5150
+Wire Wire Line
+	6900 5450 6800 5450
+Wire Wire Line
+	6900 5150 6900 5250
+Wire Wire Line
+	6900 5350 6900 5450
+Wire Wire Line
+	6450 5400 6450 5450
+Connection ~ 6450 5450
+Wire Wire Line
+	6450 5200 6450 5150
+Connection ~ 6450 5150
+Wire Wire Line
+	8350 5500 8800 5500
+Wire Wire Line
+	8900 5400 8350 5400
+Wire Wire Line
+	8900 5100 9400 5100
+Wire Wire Line
+	8900 5100 8900 5200
+Wire Wire Line
+	8900 5200 8350 5200
+Wire Wire Line
+	8800 4800 9400 4800
+Wire Wire Line
+	8800 4800 8800 5100
+Wire Wire Line
+	8800 5500 8800 5800
+Wire Wire Line
+	8900 5400 8900 5500
+$Comp
+L GND #PWR096
+U 1 1 58A61B47
+P 8450 5900
+F 0 "#PWR096" H 8450 5650 50  0001 C CNN
+F 1 "GND" H 8450 5750 50  0000 C CNN
+F 2 "" H 8450 5900 50  0000 C CNN
+F 3 "" H 8450 5900 50  0000 C CNN
+	1    8450 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 4850 7200 4900
+$Comp
+L GND #PWR097
+U 1 1 58A52817
+P 7200 4900
+F 0 "#PWR097" H 7200 4650 50  0001 C CNN
+F 1 "GND" H 7200 4750 50  0000 C CNN
+F 2 "" H 7200 4900 50  0000 C CNN
+F 3 "" H 7200 4900 50  0000 C CNN
+	1    7200 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 4850 7350 4850
+Wire Wire Line
+	4600 5850 4600 5950
+$Comp
+L C_10n_0402 C61
+U 1 1 58A6B3AA
+P 6700 5150
+F 0 "C61" V 6800 5250 50  0000 R CNN
+F 1 "C_10n" V 6600 5250 50  0000 R CNN
+F 2 "ScopefunPackagesLibrary:C_0402" H 6700 4950 50  0001 C CNN
+F 3 "" H 6710 5220 50  0001 C CNN
+F 4 "885012205012" H 6810 5320 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0402 50V X7R 10%" H 6750 5400 60  0001 C CNN "Description"
+	1    6700 5150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C_10n_0402 C62
+U 1 1 58A6BB19
+P 6700 5450
+F 0 "C62" V 6800 5550 50  0000 R CNN
+F 1 "C_10n" V 6600 5550 50  0000 R CNN
+F 2 "ScopefunPackagesLibrary:C_0402" H 6700 5250 50  0001 C CNN
+F 3 "" H 6710 5520 50  0001 C CNN
+F 4 "885012205012" H 6810 5620 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0402 50V X7R 10%" H 6750 5700 60  0001 C CNN "Description"
+	1    6700 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C_10n_0402 C67
+U 1 1 58A725E5
+P 9500 5500
+F 0 "C67" V 9600 5450 50  0000 L CNN
+F 1 "C_10n" V 9400 5600 50  0000 R CNN
+F 2 "ScopefunPackagesLibrary:C_0402" H 9500 5300 50  0001 C CNN
+F 3 "" H 9510 5570 50  0001 C CNN
+F 4 "885012205012" H 9610 5670 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0402 50V X7R 10%" H 9550 5750 60  0001 C CNN "Description"
+	1    9500 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C_10n_0402 C68
+U 1 1 58A725ED
+P 9500 5800
+F 0 "C68" V 9600 5750 50  0000 L CNN
+F 1 "C_10n" V 9400 5900 50  0000 R CNN
+F 2 "ScopefunPackagesLibrary:C_0402" H 9500 5600 50  0001 C CNN
+F 3 "" H 9510 5870 50  0001 C CNN
+F 4 "885012205012" H 9610 5970 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0402 50V X7R 10%" H 9550 6050 60  0001 C CNN "Description"
+	1    9500 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C_10n_0402 C65
+U 1 1 58A72691
+P 9500 4800
+F 0 "C65" V 9600 4750 50  0000 L CNN
+F 1 "C_10n" V 9400 4900 50  0000 R CNN
+F 2 "ScopefunPackagesLibrary:C_0402" H 9500 4600 50  0001 C CNN
+F 3 "" H 9510 4870 50  0001 C CNN
+F 4 "885012205012" H 9610 4970 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0402 50V X7R 10%" H 9550 5050 60  0001 C CNN "Description"
+	1    9500 4800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C_10n_0402 C66
+U 1 1 58A72699
+P 9500 5100
+F 0 "C66" V 9600 5050 50  0000 L CNN
+F 1 "C_10n" V 9400 5200 50  0000 R CNN
+F 2 "ScopefunPackagesLibrary:C_0402" H 9500 4900 50  0001 C CNN
+F 3 "" H 9510 5170 50  0001 C CNN
+F 4 "885012205012" H 9610 5270 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0402 50V X7R 10%" H 9550 5350 60  0001 C CNN "Description"
+	1    9500 5100
+	0    -1   -1   0   
+$EndComp
+Text Label 7100 5250 0    50   ~ 0
+IN+
+Text Label 7100 5350 0    50   ~ 0
+IN-
+Wire Wire Line
+	5950 6900 6450 6900
+Wire Wire Line
+	5700 5150 6600 5150
+Text Label 5700 5450 0    50   ~ 0
+CLK_OUT+
+Text Label 5700 5150 0    50   ~ 0
+CLK_OUT-
+Wire Wire Line
+	8800 5100 8350 5100
+Text Label 8500 5100 0    50   ~ 0
+OUT1+
+Text Label 8500 5200 0    50   ~ 0
+OUT1-
+Text Label 8500 5500 0    50   ~ 0
+OUT2+
+Text Label 8500 5400 0    50   ~ 0
+OUT2-
+Wire Wire Line
+	5700 5450 6600 5450
+Wire Wire Line
+	1650 1800 1550 1800
+Wire Wire Line
+	1650 2000 1550 2000
+Wire Wire Line
+	1050 5450 2550 5450
+Wire Wire Line
+	1050 5750 2550 5750
+Wire Wire Line
+	1050 6250 2550 6250
+Wire Wire Line
+	1050 6550 2550 6550
+$Comp
+L Z_68 L1
+U 1 1 58B37F87
+P 1700 4950
+F 0 "L1" H 1700 5050 50  0000 C CNN
+F 1 "Z_68" H 1700 4900 50  0000 C CNN
+F 2 "ScopefunPackagesLibrary:L_0805" H 1700 4600 50  0001 C CNN
+F 3 "https://katalog.we-online.com/pbs/datasheet/782853680.pdf" H 1700 4700 50  0001 C CNN
+F 4 "FERRITE BEAD 68 OHM 0805 R=25m I=3A" H 1700 5450 75  0001 C CNN "Description"
+F 5 "782853680" H 1700 5300 75  0001 C CNN "MFG Part#"
+	1    1700 4950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L C_10n_0402 C60
+U 1 1 58B8A293
+P 5050 6000
+F 0 "C60" V 4950 5950 50  0000 L CNN
+F 1 "C_10n" V 5150 5950 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0402" H 5050 5800 50  0001 C CNN
+F 3 "" H 5060 6070 50  0001 C CNN
+F 4 "885012205012" H 5160 6170 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0402 50V X7R 10%" H 5100 6250 60  0001 C CNN "Description"
+	1    5050 6000
+	0    1    1    0   
+$EndComp
+$Comp
+L C_10n_0402 C64
+U 1 1 58B8C2CE
+P 7650 4600
+F 0 "C64" V 7550 4500 50  0000 L CNN
+F 1 "C_10n" V 7750 4500 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0402" H 7650 4400 50  0001 C CNN
+F 3 "" H 7660 4670 50  0001 C CNN
+F 4 "885012205012" H 7760 4770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0402 50V X7R 10%" H 7700 4850 60  0001 C CNN "Description"
+	1    7650 4600
+	0    1    1    0   
+$EndComp
+$Comp
+L SG3225VAN-250Mhz U9
+U 1 1 58BBF13E
+P 5300 6800
+F 0 "U9" H 4750 7300 50  0000 C CNN
+F 1 "SG3225VAN-250Mhz" H 5750 7300 50  0000 C CNN
+F 2 "ScopefunPackagesLibrary:3.2X2.5_SMD_6_EPSON" H 5300 6250 100 0001 C CNN
+F 3 "https://support.epson.biz/td/api/doc_check.php?dl=brief_SG3225EAN_en.pdf" H 5300 6000 100 0001 C CNN
+F 4 "SG3225VAN 250.000000M-KEGA3" H 5300 7500 100 0001 C CNN "MFG Part#"
+F 5 "3.3 V, 250 MHz LVDS Clock Oscillator 30ppm" H 5300 7700 100 0001 C CNN "Description"
+	1    5300 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_2.2k R39
+U 1 1 58DC4546
+P 1550 3850
+F 0 "R39" H 1600 3900 50  0000 L CNN
+F 1 "R_2.2k" H 1600 3800 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 1550 3600 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 1550 3700 50  0001 C CNN
+F 4 "ERJ-3EKF2201V" H 1550 4000 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 1550 4100 60  0001 C CNN "Description"
+	1    1550 3850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L KAD5510P-25Q48 U8
+U 1 1 5A11BF11
+P 2350 1800
+F 0 "U8" H 2350 3000 50  0000 C CNN
+F 1 "KAD5510P-25Q48" H 2350 2900 50  0000 C CNN
+F 2 "ScopefunPackagesLibrary:CP-56-2" H 2350 150 50  0001 C CNN
+F 3 "https://www.intersil.com/content/dam/Intersil/documents/kad5/kad5510p.pdf" H 2350 300 50  0001 C CNN
+F 4 "Low Power 10-Bit, 250 MSPS ADC" H 2450 3100 50  0001 C CNN "Description"
+F 5 "KAD5510P-25Q48" H 2350 400 50  0001 C CNN "MFG Part#"
+	1    2350 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KAD5510P-25Q48 U8
+U 2 1 5A11C11F
+P 4600 3700
+F 0 "U8" H 4600 4900 50  0000 C CNN
+F 1 "KAD5510P-25Q48" H 4600 4800 50  0000 C CNN
+F 2 "ScopefunPackagesLibrary:CP-56-2" H 4600 2050 50  0001 C CNN
+F 3 "https://www.intersil.com/content/dam/Intersil/documents/kad5/kad5510p.pdf" H 4600 2200 50  0001 C CNN
+F 4 "Low Power 10-Bit, 250 MSPS ADC" H 4700 5000 50  0001 C CNN "Description"
+F 5 "KAD5510P-25Q48" H 4600 2300 50  0001 C CNN "MFG Part#"
+	2    4600 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L KAD5510P-25Q48 U10
+U 2 1 5A11C272
+P 9950 3700
+F 0 "U10" H 9950 4900 50  0000 C CNN
+F 1 "KAD5510P-25Q48" H 9950 4800 50  0000 C CNN
+F 2 "ScopefunPackagesLibrary:CP-56-2" H 9950 2050 50  0001 C CNN
+F 3 "https://www.intersil.com/content/dam/Intersil/documents/kad5/kad5510p.pdf" H 9950 2200 50  0001 C CNN
+F 4 "Low Power 10-Bit, 250 MSPS ADC" H 10050 5000 50  0001 C CNN "Description"
+F 5 "KAD5510P-25Q48" H 9950 2300 50  0001 C CNN "MFG Part#"
+	2    9950 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L KAD5510P-25Q48 U10
+U 1 1 5A11BFBC
+P 7600 1800
+F 0 "U10" H 7600 3000 50  0000 C CNN
+F 1 "KAD5510P-25Q48" H 7600 2900 50  0000 C CNN
+F 2 "ScopefunPackagesLibrary:CP-56-2" H 7600 150 50  0001 C CNN
+F 3 "https://www.intersil.com/content/dam/Intersil/documents/kad5/kad5510p.pdf" H 7600 300 50  0001 C CNN
+F 4 "Low Power 10-Bit, 250 MSPS ADC" H 7700 3100 50  0001 C CNN "Description"
+F 5 "KAD5510P-25Q48" H 7600 400 50  0001 C CNN "MFG Part#"
+	1    7600 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9100 3700 9100 4200
+Wire Wire Line
+	9100 2650 9100 2900
+Wire Wire Line
+	5250 3700 5350 3700
+Wire Wire Line
+	5250 3800 5350 3800
+Connection ~ 5350 3800
+Wire Wire Line
+	5250 3900 5350 3900
+Connection ~ 5350 3900
+Wire Wire Line
+	5250 4000 5350 4000
+Connection ~ 5350 4000
+Wire Wire Line
+	5250 4200 5350 4200
+Connection ~ 5350 4200
+$Comp
+L +1.8V #PWR098
+U 1 1 5A120343
+P 3750 2650
+F 0 "#PWR098" H 3750 2500 50  0001 C CNN
+F 1 "+1.8V" H 3750 2790 50  0000 C CNN
+F 2 "" H 3750 2650 50  0000 C CNN
+F 3 "" H 3750 2650 50  0000 C CNN
+	1    3750 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.8V_VA #PWR099
+U 1 1 5A120349
+P 3750 3700
+F 0 "#PWR099" H 3750 3550 50  0001 C CNN
+F 1 "+1.8V_VA" H 3750 3840 50  0000 C CNN
+F 2 "" H 3750 3700 50  0000 C CNN
+F 3 "" H 3750 3700 50  0000 C CNN
+	1    3750 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 4100 3950 4100
+Wire Wire Line
+	3750 4000 3950 4000
+Wire Wire Line
+	3750 3900 3950 3900
+Wire Wire Line
+	3750 3800 3950 3800
+Connection ~ 3750 4100
+Connection ~ 3750 4000
+Connection ~ 3750 3900
+Connection ~ 3750 3800
+Wire Wire Line
+	3750 4200 3950 4200
+Wire Wire Line
+	3750 2900 3950 2900
+Connection ~ 3750 2800
+Wire Wire Line
+	3950 2800 3750 2800
+Wire Wire Line
+	3750 3700 3750 4200
+Wire Wire Line
+	3750 2650 3750 2900
+$Comp
+L GND #PWR0100
+U 1 1 5A120A47
+P 10700 4350
+F 0 "#PWR0100" H 10700 4100 50  0001 C CNN
+F 1 "GND" H 10700 4200 50  0000 C CNN
+F 2 "" H 10700 4350 50  0000 C CNN
+F 3 "" H 10700 4350 50  0000 C CNN
+	1    10700 4350
+	1    0    0    -1  
+$EndComp
+Connection ~ 10700 3000
+Wire Wire Line
+	10700 3000 10600 3000
+Connection ~ 10700 2900
+Wire Wire Line
+	10600 2900 10700 2900
+Wire Wire Line
+	10700 2800 10600 2800
+Wire Wire Line
+	10700 2800 10700 3150
+Wire Wire Line
+	10700 3700 10700 4350
+Wire Wire Line
+	10600 3700 10700 3700
+Wire Wire Line
+	10600 3800 10700 3800
+Connection ~ 10700 3800
+Wire Wire Line
+	10600 3900 10700 3900
+Connection ~ 10700 3900
+Wire Wire Line
+	10600 4000 10700 4000
+Connection ~ 10700 4000
+Wire Wire Line
+	10600 4200 10700 4200
+Connection ~ 10700 4200
+NoConn ~ 6900 900 
+NoConn ~ 6900 1000
+NoConn ~ 8300 2000
+NoConn ~ 8300 2100
+NoConn ~ 8300 2200
+NoConn ~ 8300 2300
+NoConn ~ 8300 2400
+NoConn ~ 8300 2500
+NoConn ~ 8300 2600
+NoConn ~ 8300 2700
+NoConn ~ 8300 2900
+NoConn ~ 8300 3000
+NoConn ~ 3050 2000
+NoConn ~ 3050 2100
+NoConn ~ 3050 2200
+NoConn ~ 3050 2300
+NoConn ~ 3050 2400
+NoConn ~ 3050 2500
+NoConn ~ 3050 2600
+NoConn ~ 3050 2700
+NoConn ~ 3050 2900
+NoConn ~ 3050 3000
+Wire Wire Line
+	1550 2600 1650 2600
+Wire Wire Line
+	3050 1400 3450 1400
+Wire Wire Line
+	9550 1650 9550 1550
+Wire Wire Line
+	9650 1650 9650 1700
+Connection ~ 9650 1650
+$Comp
+L R_4k7 R66
+U 1 1 5A13B712
+P 1000 2650
+F 0 "R66" H 1050 2700 50  0000 L CNN
+F 1 "R_4k7" H 1050 2600 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 1000 2400 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 1000 2500 50  0001 C CNN
+F 4 "ERJ-3EKF4701V" H 1000 2800 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 1000 2900 60  0001 C CNN "Description"
+	1    1000 2650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L +1.8V #PWR0101
+U 1 1 5A13C089
+P 700 2650
+F 0 "#PWR0101" H 700 2500 50  0001 C CNN
+F 1 "+1.8V" H 700 2790 50  0000 C CNN
+F 2 "" H 700 2650 50  0000 C CNN
+F 3 "" H 700 2650 50  0000 C CNN
+	1    700  2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1650 2500 1000 2500
+Wire Wire Line
+	1000 2500 1000 2550
+Wire Wire Line
+	1000 2750 1000 2800
+Wire Wire Line
+	1000 2800 700  2800
+Wire Wire Line
+	700  2800 700  2650
+$Comp
+L R_4k7 R67
+U 1 1 5A13D691
+P 6250 2650
+F 0 "R67" H 6300 2700 50  0000 L CNN
+F 1 "R_4k7" H 6300 2600 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 6250 2400 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 6250 2500 50  0001 C CNN
+F 4 "ERJ-3EKF4701V" H 6250 2800 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 6250 2900 60  0001 C CNN "Description"
+	1    6250 2650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L +1.8V #PWR0102
+U 1 1 5A13D697
+P 5950 2650
+F 0 "#PWR0102" H 5950 2500 50  0001 C CNN
+F 1 "+1.8V" H 5950 2790 50  0000 C CNN
+F 2 "" H 5950 2650 50  0000 C CNN
+F 3 "" H 5950 2650 50  0000 C CNN
+	1    5950 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6900 2500 6250 2500
+Wire Wire Line
+	6250 2500 6250 2550
+Wire Wire Line
+	6250 2750 6250 2800
+Wire Wire Line
+	6250 2800 5950 2800
+Wire Wire Line
+	5950 2800 5950 2650
+Wire Wire Line
+	2950 6250 3250 6250
+Wire Wire Line
+	2950 6550 3250 6550
+Wire Wire Line
+	3250 5750 2950 5750
+Wire Wire Line
+	3250 5450 2950 5450
+Wire Wire Line
+	2550 6500 2550 6600
+Text GLabel 1700 4100 2    50   Input ~ 0
+ADC_RESETN
+$Comp
+L GND #PWR0103
+U 1 1 5A147712
+P 2650 4250
+F 0 "#PWR0103" H 2650 4000 50  0001 C CNN
+F 1 "GND" H 2650 4100 50  0000 C CNN
+F 2 "" H 2650 4250 50  0000 C CNN
+F 3 "" H 2650 4250 50  0000 C CNN
+	1    2650 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 3850 2650 3850
+Wire Wire Line
+	2650 3850 2650 3950
+Wire Wire Line
+	2650 4150 2650 4250
+Text Notes 2650 3700 0    50   ~ 0
+HI = NAP\nLO = NORMAL\nFT = SLEEP
+$Comp
+L C_0.1u C41
+U 1 1 5A14D422
+P 1350 5600
+F 0 "C41" H 1360 5670 50  0000 L CNN
+F 1 "C_0.1u" H 1360 5520 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 1350 5400 50  0001 C CNN
+F 3 "" H 1360 5670 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 1460 5770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 1400 5850 60  0001 C CNN "Description"
+	1    1350 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C42
+U 1 1 5A14D50C
+P 1350 6400
+F 0 "C42" H 1360 6470 50  0000 L CNN
+F 1 "C_0.1u" H 1360 6320 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 1350 6200 50  0001 C CNN
+F 3 "" H 1360 6470 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 1460 6570 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 1400 6650 60  0001 C CNN "Description"
+	1    1350 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C40
+U 1 1 5A14DB57
+P 2950 5600
+F 0 "C40" H 2960 5670 50  0000 L CNN
+F 1 "C_0.1u" H 2960 5520 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 2950 5400 50  0001 C CNN
+F 3 "" H 2960 5670 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 3060 5770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 3000 5850 60  0001 C CNN "Description"
+	1    2950 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C54
+U 1 1 5A14DC2E
+P 2950 6400
+F 0 "C54" H 2960 6470 50  0000 L CNN
+F 1 "C_0.1u" H 2960 6320 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 2950 6200 50  0001 C CNN
+F 3 "" H 2960 6470 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 3060 6570 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 3000 6650 60  0001 C CNN "Description"
+	1    2950 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C44
+U 1 1 5857C6B3
+P 1650 5600
+F 0 "C44" H 1660 5670 50  0000 L CNN
+F 1 "C_0.1u" H 1660 5520 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 1650 5400 50  0001 C CNN
+F 3 "" H 1660 5670 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 1760 5770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 1700 5850 60  0001 C CNN "Description"
+	1    1650 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C46
+U 1 1 5857C532
+P 1950 5600
+F 0 "C46" H 1960 5670 50  0000 L CNN
+F 1 "C_0.1u" H 1960 5520 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 1950 5400 50  0001 C CNN
+F 3 "" H 1960 5670 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 2060 5770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 2000 5850 60  0001 C CNN "Description"
+	1    1950 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C_0.1u C50
+U 1 1 5857C6C3
+P 2250 5600
+F 0 "C50" H 2260 5670 50  0000 L CNN
+F 1 "C_0.1u" H 2260 5520 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 2250 5400 50  0001 C CNN
+F 3 "" H 2260 5670 50  0001 C CNN
+F 4 "C0603C104K4RACTU" H 2360 5770 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 16V X7R 10%" H 2300 5850 60  0001 C CNN "Description"
+	1    2250 5600
+	1    0    0    -1  
+$EndComp
+Text Label 3450 1400 2    50   ~ 0
+NAPSLP
+Wire Wire Line
+	8300 1400 8700 1400
+Text Label 8700 1400 2    50   ~ 0
+NAPSLP
+Text Label 3000 3850 2    50   ~ 0
+NAPSLP
+$Comp
+L R_2.2k R68
+U 1 1 5A156AB6
+P 2650 4050
+F 0 "R68" H 2700 4100 50  0000 L CNN
+F 1 "R_2.2k" H 2700 4000 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 2650 3800 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 2650 3900 50  0001 C CNN
+F 4 "ERJ-3EKF2201V" H 2650 4200 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 2650 4300 60  0001 C CNN "Description"
+	1    2650 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 4100 1700 4100
+Connection ~ 1550 4100
+Text Label 1100 4100 0    50   ~ 0
+RESETN
+$Comp
+L GND #PWR0104
+U 1 1 5A15B582
+P 10700 3150
+F 0 "#PWR0104" H 10700 2900 50  0001 C CNN
+F 1 "GND" H 10700 3000 50  0000 C CNN
+F 2 "" H 10700 3150 50  0000 C CNN
+F 3 "" H 10700 3150 50  0000 C CNN
+	1    10700 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR0105
+U 1 1 5A15B5E9
+P 5350 3150
+F 0 "#PWR0105" H 5350 2900 50  0001 C CNN
+F 1 "GND" H 5350 3000 50  0000 C CNN
+F 2 "" H 5350 3150 50  0000 C CNN
+F 3 "" H 5350 3150 50  0000 C CNN
+	1    5350 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 1200 4300 850 
+Connection ~ 4300 850 
+Wire Wire Line
+	4500 1200 4500 1050
+Connection ~ 4500 1050
+Wire Wire Line
+	4800 1200 4800 1050
+Connection ~ 4800 1050
+Wire Wire Line
+	5000 1200 5000 850 
+Connection ~ 5000 850 
+Wire Wire Line
+	8400 850  10550 850 
+Wire Wire Line
+	10250 1200 10250 850 
+Connection ~ 10250 850 
+Wire Wire Line
+	10050 1200 10050 1050
+Connection ~ 10050 1050
+Wire Wire Line
+	9750 1200 9750 1050
+Connection ~ 9750 1050
+Wire Wire Line
+	9550 1200 9550 850 
+Connection ~ 9550 850 
+$EndSCHEMATC

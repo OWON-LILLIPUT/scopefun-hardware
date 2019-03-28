@@ -1,0 +1,919 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +0.75V_VREF
+K POWER, PWR
+$ENDCMP
+#
+$CMP +0.75V_VTT
+K POWER, PWR
+$ENDCMP
+#
+$CMP +1.48V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +1V0
+K POWER, PWR
+$ENDCMP
+#
+$CMP +1V2
+K POWER, PWR
+$ENDCMP
+#
+$CMP +1V5
+K POWER, PWR
+$ENDCMP
+#
+$CMP +1V8
+K POWER, PWR
+$ENDCMP
+#
+$CMP +1V8_VA
+K POWER, PWR
+$ENDCMP
+#
+$CMP +2.88V
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3.3V_PD
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V3
+K POWER, PWR
+$ENDCMP
+#
+$CMP +3V3_VA
+K POWER, PWR
+$ENDCMP
+#
+$CMP +VCC_DIG
+K POWER, PWR
+$ENDCMP
+#
+$CMP +VCC_USB
+K POWER, PWR
+$ENDCMP
+#
+$CMP +VCC_USB_P
+K POWER, PWR
+$ENDCMP
+#
+$CMP +Va
+K POWER, PWR
+$ENDCMP
+#
+$CMP -2.88V
+K POWER, PWR
+$ENDCMP
+#
+$CMP -5V
+K POWER, PWR
+$ENDCMP
+#
+$CMP -Va
+K POWER, PWR
+$ENDCMP
+#
+$CMP 100R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP 1206L150
+D Resettable Fuses - PPTC PTC 6V 1206 1.5A POLYFUSE SMD THIN
+$ENDCMP
+#
+$CMP 1N4148W
+D SURFACE MOUNT FAST SWITCHING DIODE
+$ENDCMP
+#
+$CMP 1N4148W-7-F
+D SURFACE MOUNT FAST SWITCHING DIODE
+$ENDCMP
+#
+$CMP 1N4148WTR
+D SURFACE MOUNT FAST SWITCHING DIODE
+$ENDCMP
+#
+$CMP 24LC00_SOT-23
+D 128 Bit I2C Bus Serial EEPROM in SOT-23-5
+$ENDCMP
+#
+$CMP 511BBA200M000
+D 3.3 V, 200 MHz LVDS Clock Oscillator 50ppm
+$ENDCMP
+#
+$CMP 598-8150-107F
+D LED CHIP ORANGE SMD 604nm 605nm 8mcd 2.2V 20mA 170° Diff
+$ENDCMP
+#
+$CMP 74AVC16T245
+D 74AVCH16T245 16-bit dual supply translating transceiver
+$ENDCMP
+#
+$CMP 74AVCH16T245
+D 74AVCH16T245 16-bit dual supply translating transceiver
+$ENDCMP
+#
+$CMP 82400102
+D TVS Diode Array WE-TVS SOT23-6L
+$ENDCMP
+#
+$CMP AD8065
+D High Performance, 145 MHz FastFET Op Amps
+$ENDCMP
+#
+$CMP AD8337
+D DC-Coupled VGA (voltage adjusted gain)
+$ENDCMP
+#
+$CMP AD9211
+K ADC
+$ENDCMP
+#
+$CMP ADA4817-1
+D Low Power Differential ADC Driver, -3 dB bandwidth of 560 MHz, G = 1
+$ENDCMP
+#
+$CMP ADA4932-1
+D Low Power Differential ADC Driver, -3 dB bandwidth of 560 MHz, G = 1
+$ENDCMP
+#
+$CMP AQY282SX
+D RELAY OPTO 60VAC/DC 500MA 4-SOP
+K MOSFET Opto Relay
+$ENDCMP
+#
+$CMP AZ4558C
+D DUAL BIPOLAR OPERATIONAL AMPLIFIERS 5.5MHz 
+$ENDCMP
+#
+$CMP BAV199
+D Low-leakage double diode
+$ENDCMP
+#
+$CMP BNC
+D BNC 50 Ohm
+$ENDCMP
+#
+$CMP BNC-S
+D BNC 50 Ohm
+$ENDCMP
+#
+$CMP BSS138BKS
+D 60 V, 320 mA dual N-channel Trench MOSFET
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP CBTL02043A
+D 3.3 V, 2 differential channel, 2 : 1 MUX/deMUX switch
+K switch mux
+F http://www.mouser.com/ds/2/302/CBTL02043A_CBTL02043B-841097.pdf
+$ENDCMP
+#
+$CMP CP_47u
+D CAPACITOR TANT 47uF 6.3V 20% SMD
+$ENDCMP
+#
+$CMP CV_1.4-3.0_pF
+D CAP TRIMMER 1.4-3PF 100V SMD
+K trimmer
+$ENDCMP
+#
+$CMP CV_1.8-4.5_pF
+D CAP TRIMMER 1.8-4.5PF 500V SMD
+K trimmer
+$ENDCMP
+#
+$CMP CV_2.0-6.0_pF
+D CAP TRIMMER 1.8-4.5PF 500V SMD
+K trimmer
+$ENDCMP
+#
+$CMP CVar_1.4-3.0_pF
+D CAP TRIMMER 1.4-3PF 100V SMD
+K trimmer
+$ENDCMP
+#
+$CMP CY7C68013A-56PVXC
+D EZ-USB FX2LP USB Microcontroller High-Speed USB Peripheral Controller
+K USB
+$ENDCMP
+#
+$CMP CYUSB3014
+D FX3 SuperSpeed USB controller
+K FX3 Superspeed SuperSpeed USB controller
+$ENDCMP
+#
+$CMP C_
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C_0.1u
+D MLCC - SMD/SMT 0603 16V X7R 10%
+$ENDCMP
+#
+$CMP C_0.1u_0402
+D MLCC - SMD/SMT 0402 10V X7R 10%
+$ENDCMP
+#
+$CMP C_0.47u
+D MLCC - SMD/SMT 0402 6.3V X7S 10%
+$ENDCMP
+#
+$CMP C_0603
+D DNP
+$ENDCMP
+#
+$CMP C_0805
+D DNP
+K DNP
+$ENDCMP
+#
+$CMP C_100u
+D MLCC - SMD/SMT 1210 6.3V X5R 20%
+$ENDCMP
+#
+$CMP C_10n
+D MLCC - SMD/SMT 0603 50V C0G 5%
+$ENDCMP
+#
+$CMP C_10n_0402
+D MLCC - SMD/SMT 0402 50V X7R 10%
+$ENDCMP
+#
+$CMP C_10n_100V
+D MLCC - SMD/SMT 0603 50V C0G 5%
+$ENDCMP
+#
+$CMP C_10u
+D MLCC - SMD/SMT 0603 6.3V X5R 20%
+$ENDCMP
+#
+$CMP C_1210
+D DNP
+K DNP
+$ENDCMP
+#
+$CMP C_12p
+D MLCC - SMD/SMT 0603 50V C0G 5%
+$ENDCMP
+#
+$CMP C_13p
+D MLCC - SMD/SMT 0603 50V C0G 5%
+$ENDCMP
+#
+$CMP C_15p
+D MLCC - SMD/SMT 0603 100V C0G 5%
+$ENDCMP
+#
+$CMP C_180p
+D MLCC - SMD/SMT 0603 50V C0G 5%
+$ENDCMP
+#
+$CMP C_18p
+D MLCC - SMD/SMT 0603 50V C0G 5%
+$ENDCMP
+#
+$CMP C_1n
+D MLCC - SMD/SMT 0603 50V C0G 5%
+$ENDCMP
+#
+$CMP C_1u
+D MLCC - SMD/SMT 0603 10V X7R 10%
+$ENDCMP
+#
+$CMP C_2.2u
+D MLCC - SMD/SMT 0603 10V X5R 10%
+$ENDCMP
+#
+$CMP C_22n
+D MLCC - SMD/SMT 0603 50V X7R 10%
+$ENDCMP
+#
+$CMP C_22n_250V
+D MLCC - SMD/SMT 0603 50V X7R 10%
+$ENDCMP
+#
+$CMP C_22u
+D MLCC - SMD/SMT 0805 10V X5R 20%
+$ENDCMP
+#
+$CMP C_2p
+D MLCC - SMD/SMT 0603 50V C0G 0.25P
+$ENDCMP
+#
+$CMP C_300p
+D MLCC - SMD/SMT 0603 50V C0G 5%
+$ENDCMP
+#
+$CMP C_330p
+D MLCC - SMD/SMT 0603 50V C0G 1%
+$ENDCMP
+#
+$CMP C_360p
+D MLCC - SMD/SMT 0603 50V C0G 2%
+$ENDCMP
+#
+$CMP C_390p
+D MLCC - SMD/SMT 0603 100V C0G 2%
+$ENDCMP
+#
+$CMP C_4.7u
+D MLCC - SMD/SMT 0603 10V X7R 15%
+$ENDCMP
+#
+$CMP C_47u
+D MLCC - SMD/SMT 1210 6.3V X5R 20%
+$ENDCMP
+#
+$CMP C_5.6p
+D MLCC - SMD/SMT 0603 50V C0G 0.25P
+$ENDCMP
+#
+$CMP C_u47
+D MLCC - SMD/SMT 0603 6.3V X7R 10%
+$ENDCMP
+#
+$CMP Crystal_24Mhz
+D Quartz crystal 24 Mhz
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP DAC2932
+D Dual, 12-bit, 40MSPS Digital-to-Analog Converter
+$ENDCMP
+#
+$CMP DAC5662
+D DAC5662 DAC
+K DAC5662
+$ENDCMP
+#
+$CMP DIL14_RA
+D CONN DIL 0.1 PITCH RIGHT ANGLE TH
+$ENDCMP
+#
+$CMP DIL16_RA
+D CONN DIL 0.1 PITCH RIGHT ANGLE TH
+$ENDCMP
+#
+$CMP DIL20_RA
+D CONN DIL 0.1 PITCH RIGHT ANGLE TH
+$ENDCMP
+#
+$CMP DMN6040SSD
+D 60 V, 4.4 A dual N-channel Trench MOSFET
+K nmos n-mos n-mosfet transistor
+F http://www.diodes.com/_files/datasheets/DMN6040SSDQ.pdf
+$ENDCMP
+#
+$CMP DSC1123CI2-200.0000
+D 3.3 V, 200 MHz LVDS Clock Oscillator 25ppm
+$ENDCMP
+#
+$CMP ESD7002
+D TVS DIODE 5VWM SOT323
+$ENDCMP
+#
+$CMP ESDA8V2-1J
+D TVS DIODE 5VWM 20VC SOD323
+$ENDCMP
+#
+$CMP G6K-2F-Y-DC4.5
+D Low Signal Relays - PCB Gullwing NoLatch 3.2 DPDT 4.5VDC 100mW
+$ENDCMP
+#
+$CMP GDT_SH90
+D Gas Discharge Tube - GDT 90V 5kA 0.7pF
+$ENDCMP
+#
+$CMP HSMD-C170
+D LED CHIP ORANGE SMD 604nm 605nm 8mcd 2.2V 20mA 170° Diff
+$ENDCMP
+#
+$CMP IS43TR16256A-125KBL
+D 64M X 16 BIT DDR3 SRAM
+K IS43TR16640B-125JBL
+F http://www.issi.com/WW/pdf/43-46TR16640B-81280BL.pdf
+$ENDCMP
+#
+$CMP IS43TR16640B-125JBL
+D 64M X 16 BIT DDR3 SRAM
+K IS43TR16640B-125JBL
+F http://www.issi.com/WW/pdf/43-46TR16640B-81280BL.pdf
+$ENDCMP
+#
+$CMP JS1-5V-F
+D 5V 220V 10A
+$ENDCMP
+#
+$CMP KAD5510P-25Q48
+D Low Power 10-Bit, 250 MSPS ADC
+K ADC
+$ENDCMP
+#
+$CMP LM2776
+D Switched Capacitor Inverter 200mA, LM2776
+$ENDCMP
+#
+$CMP LM3674MF-1.2
+D 2MHz,600mA Step-Down DC-DC Converter
+$ENDCMP
+#
+$CMP LM393DGK
+D Dual, General Purpose, Differential Comparator
+$ENDCMP
+#
+$CMP LM431
+D Adjustable Precision Zener Shunt Regulator
+$ENDCMP
+#
+$CMP LMH6559
+D High-Speed, Closed-Loop Buffer
+$ENDCMP
+#
+$CMP LT1964-BYP
+D 200mA, Low Noise, LDO Negative Regulator
+$ENDCMP
+#
+$CMP LTC4360-1
+D Overvoltage Protection Controller
+K Overvoltage Protection
+F http://cds.linear.com/docs/en/datasheet/436012fa.pdf
+$ENDCMP
+#
+$CMP LTC6754
+D Rail-to-Rail, High-Speed Comparator with LVDS Compatible Outputs
+$ENDCMP
+#
+$CMP L_4.7u
+D INDUCTOR 4.7uH 20% SMD 5.20A
+$ENDCMP
+#
+$CMP L_4.7u_NRS5030
+D INDUCTOR 4.7uH 20% SMD 2.6A SAT 3.1A
+$ENDCMP
+#
+$CMP M24M02-DR
+D 2 MBit I2C Bus Serial EEPROM
+$ENDCMP
+#
+$CMP MAX15053
+D High-Efficiency, 2A, Current-Mode Synchronous, Step-Down Switching Regulator
+$ENDCMP
+#
+$CMP MAX19516
+D Dual-Channel, 10-bit, 100Msps ADC
+K ADC
+$ENDCMP
+#
+$CMP MAX4014
+D Low-Cost, High-Speed, Single-Supply, Gain of +2 Buffers with Rail-to-Rail Outputs in SOT23
+K opamp op op-amp
+$ENDCMP
+#
+$CMP MAX5501
+D Low-Power, Quad, 12-Bit Voltage-Output DACs with Serial Interface, 3.3V supply
+K DAC
+F https://datasheets.maximintegrated.com/en/ds/MAX5500-MAX5501.pdf
+$ENDCMP
+#
+$CMP MAX889S
+D High-Frequency, Regulated, 200mA, Inverting Charge Pump
+$ENDCMP
+#
+$CMP MCP1501
+D 1.8V High-Precision Buffered Voltage Reference SOT23-6
+$ENDCMP
+#
+$CMP MCP1501-12
+D 1.25V High-Precision Buffered Voltage Reference SOT23-6
+$ENDCMP
+#
+$CMP MCP1501-18
+D 1.8V High-Precision Buffered Voltage Reference SOT23-6
+$ENDCMP
+#
+$CMP MCP42100
+D Dual Digital Potentiometer 100kOhm
+$ENDCMP
+#
+$CMP MCP4251
+D Dual Digital Potentiometer 100kOhm
+$ENDCMP
+#
+$CMP Mounting_Hole
+K Hole, Mounting
+$ENDCMP
+#
+$CMP NBXSBA010
+D 3.3 V, 100 MHz LVPECL Clock Oscillator
+$ENDCMP
+#
+$CMP OPA2830
+D Dual, Low-Power, Single-Supply, Wideband OPERATIONAL AMPLIFIER
+$ENDCMP
+#
+$CMP OPA692
+D Low-Cost, High-Speed, Single-Supply, Gain of +2 Buffers with Rail-to-Rail Outputs in SOT23
+K opamp op op-amp
+$ENDCMP
+#
+$CMP PESD24VU1UT
+D Low-leakage double diode
+$ENDCMP
+#
+$CMP PGB1010603MR
+D Surface Mount Polymeric ESD Suppressors
+$ENDCMP
+#
+$CMP RA_22R
+D RES ARRAY SMD 5% 0.063W 3.2mm x 1.5mm
+$ENDCMP
+#
+$CMP RA_27R
+D RES ARRAY SMD 5% 0.063W 3.2mm x 1.5mm
+$ENDCMP
+#
+$CMP REF3318
+D SOT23 1.8V 30-ppm/C Voltage Reference
+$ENDCMP
+#
+$CMP R_
+D Resistor
+$ENDCMP
+#
+$CMP R_0603
+D Not populated
+$ENDCMP
+#
+$CMP R_0R
+D Resistor
+$ENDCMP
+#
+$CMP R_0R_0603
+D Resistor
+$ENDCMP
+#
+$CMP R_1.02k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_1.5k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_100
+D RES SMD 1% 1/10W 0402
+$ENDCMP
+#
+$CMP R_100R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_100k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_10k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_121R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_150R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_15k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_19.1k_0.1%
+D RES SMD 0.1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_19.6k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_19.6k_0.1%
+D RES SMD 0.1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_1R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_1k_0.5W
+D RES SMD 1% 1/2W 0805
+$ENDCMP
+#
+$CMP R_2.2k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_2.2k_0.1%
+D RES SMD 0.1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_200R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_20k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_22R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_22k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_240R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_249R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_249R_0.1%
+D RES SMD 0.1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_255R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_27R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_300R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_348R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_402R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_40R2
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_45.3k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_47k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_48.7R_0.25W
+D RES SMD 1% 3/4W 1206
+$ENDCMP
+#
+$CMP R_48.7R_0.5W
+D RES SMD 1% 3/4W 1206
+$ENDCMP
+#
+$CMP R_48.7R_0.75W
+D RES SMD 1% 3/4W 1206
+$ENDCMP
+#
+$CMP R_49.9k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_499R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_499k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_4k7
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_51k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_56R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_5k1
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_6.04k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_6.8k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_7.68k_0.1%
+D RES SMD 0.1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_7.87k_0.1%
+D RES SMD 0.1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_82R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_887R
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP R_953k_0.1%
+D RES SMD 0.1% 1/10W 0805
+$ENDCMP
+#
+$CMP R_97.6k
+D RES SMD 1% 1/10W 0603
+$ENDCMP
+#
+$CMP SC189xSKTRT_1.0V
+D 2.5MHz, 1.5A Synchronous Step Down Regulator
+K Regulator DC-DC
+F http://www.semtech.com/images/datasheet/sc189.pdf
+$ENDCMP
+#
+$CMP SC189xSKTRT_1.2V
+D 2.5MHz, 1.5A Synchronous Step Down Regulator
+K Regulator DC-DC
+F http://www.semtech.com/images/datasheet/sc189.pdf
+$ENDCMP
+#
+$CMP SC189xSKTRT_1.5V
+D 2.5MHz, 1.5A Synchronous Step Down Regulator
+K Regulator DC-DC
+F http://www.semtech.com/images/datasheet/sc189.pdf
+$ENDCMP
+#
+$CMP SC189xSKTRT_1.8V
+D 2.5MHz, 1.5A Synchronous Step Down Regulator
+K Regulator DC-DC
+F http://www.semtech.com/images/datasheet/sc189.pdf
+$ENDCMP
+#
+$CMP SC189xSKTRT_2.5V
+D 2.5MHz, 1.5A Synchronous Step Down Regulator
+K Regulator DC-DC
+F http://www.semtech.com/images/datasheet/sc189.pdf
+$ENDCMP
+#
+$CMP SC189xSKTRT_3.3V
+D 2.5MHz, 1.5A Synchronous Step Down Regulator
+K Regulator DC-DC
+F http://www.semtech.com/images/datasheet/sc189.pdf
+$ENDCMP
+#
+$CMP SG3225VAN-250Mhz
+D 3.3 V, 250 MHz LVDS Clock Oscillator 30ppm
+$ENDCMP
+#
+$CMP SHLD_FINGER_0820
+D SHIELD FINGER 0820 N-B WITH SE
+$ENDCMP
+#
+$CMP SIL1
+D CONN
+$ENDCMP
+#
+$CMP SIL6
+D CONN SIL 0.1 PITCH
+$ENDCMP
+#
+$CMP SLP3-300-100-F
+D Led Pipe for 0805 diode Flat Face 3 mm)
+$ENDCMP
+#
+$CMP SLP3-300-100-R
+D Led Pipe for 0805 diode (Round Face 3 mm)
+$ENDCMP
+#
+$CMP SN74AUP1T17DCKR
+D Translation - Voltage Levels Low Pwr,1.8/2.5/3.3 Vin,3.3V CMOS Out
+K Single Schmitt-Trigger Trigger Gate
+$ENDCMP
+#
+$CMP SP3010-04UTG
+D SP3010 Series 0.45pF Diode Array
+$ENDCMP
+#
+$CMP SP6205EM5-L
+D 500 mA Low Noise CMOS LDO Regulator - Adjustable
+$ENDCMP
+#
+$CMP SP6205EM5-L-3-3
+D 500 mA Low Noise CMOS LDO Regulator - 3.3V fixed out
+$ENDCMP
+#
+$CMP SPX3819
+D 500 mA Low Noise CMOS LDO Regulator - Adjustable
+$ENDCMP
+#
+$CMP TERM_P2
+D TERM 2P
+$ENDCMP
+#
+$CMP TLV3501
+D 4.5ns Rail-to-Rail, High-Speed Comparator
+$ENDCMP
+#
+$CMP TLV431A
+D Adjustable Precision Zener Shunt Regulator
+$ENDCMP
+#
+$CMP TPD1E0B04DPY
+D Bidirectional ESD Protection Diode with ultra-low capacitance
+$ENDCMP
+#
+$CMP TPS3820-33
+D Voltage Monitor With Watchdog Timer
+$ENDCMP
+#
+$CMP TPS72301
+D 200mA, Low Noise, LDO Negative Regulator
+$ENDCMP
+#
+$CMP TS9224
+D HIgh precision high stability dual and quad operational amplifiers
+$ENDCMP
+#
+$CMP USB3_TypeB
+D USB-B1H Interconnect USB Type B
+K USB
+$ENDCMP
+#
+$CMP USB_B
+D USB-B1H Interconnect USB Type B
+K USB
+$ENDCMP
+#
+$CMP USB_Type-C
+D USB Type C Shielded I/O Receptacle RA Surface Mount
+K USB
+$ENDCMP
+#
+$CMP USB_Type-C_10137061
+D USB Type C Shielded I/O Receptacle RA Surface Mount
+K USB
+$ENDCMP
+#
+$CMP V5.5MLA0603NH
+D Varistors 5.5V 30A 760pF
+$ENDCMP
+#
+$CMP WP-SMRA
+D TERMINAL REDCUBE SMD right angled without Pins WP-SMRA
+$ENDCMP
+#
+$CMP XC6SLX9
+D XILINX SPARTAN6 FPGA
+$ENDCMP
+#
+$CMP XC7A35T-FTG256
+D Artix 7 T 35 XC7A35T-FTG256
+K FPGA
+F https://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf
+$ENDCMP
+#
+$CMP X_Crystal_19.2Mhz
+D Quartz crystal 19.2 Mhz
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP ZXRE125
+D SOT23 MICROPOWER 1.22V VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP Z_600
+D Inductor Chip Beads(SMD) For Power Line Z=600R R=0.1R I=2A
+$ENDCMP
+#
+$CMP Z_68
+D FERRITE BEAD 68 OHM 0805 R=25m I=3A
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,657 @@
+EESchema Schematic File Version 2
+LIBS:ScopefunParts
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:Scopefun_v2-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 14 15
+Title ""
+Date ""
+Rev "v2"
+Comp ""
+Comment1 "Copyright Dejan Priversek 2017"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LM431 D55
+U 1 1 5858A5B8
+P 3450 3550
+F 0 "D55" H 3550 3600 50  0000 L CNN
+F 1 "LM431" H 3550 3500 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:SOT23" H 3450 3200 50  0001 C CNN
+F 3 "https://www.fairchildsemi.com/products/power-management/voltage-regulators/shunt-regulators/LM431SB.html" H 3450 3300 50  0001 C CNN
+F 4 "Adjustable Precision Zener Shunt Regulator" H 3450 3900 50  0001 C CNN "Description"
+F 5 "LM431SBCM32X" H 3450 3800 50  0001 C CNN "MFG Part#"
+	1    3450 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_1.02k R163
+U 1 1 5858A5C1
+P 2750 3150
+F 0 "R163" V 2650 3100 50  0000 L CNN
+F 1 "R_1.02k" V 2850 3050 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 2750 2900 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 2750 3000 50  0001 C CNN
+F 4 "ERJ-3EKF1021V" H 2750 3300 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 2750 3400 60  0001 C CNN "Description"
+	1    2750 3150
+	0    1    1    0   
+$EndComp
+$Comp
+L C_10u C241
+U 1 1 5858A5CA
+P 3900 3550
+F 0 "C241" H 3910 3620 50  0000 L CNN
+F 1 "C_10u" H 3910 3470 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 3900 3350 50  0001 C CNN
+F 3 "" H 3910 3620 50  0001 C CNN
+F 4 "GRM188R60J106KE47D" H 4010 3720 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 6.3V X5R 20%" H 3950 3800 60  0001 C CNN "Description"
+	1    3900 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_6.8k R168
+U 1 1 5858A5D3
+P 3050 3750
+F 0 "R168" H 3100 3800 50  0000 L CNN
+F 1 "R_6.8k" H 3100 3700 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 3050 3500 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 3050 3600 50  0001 C CNN
+F 4 "ERJ-3EKF6801V" H 3050 3900 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 3050 4000 60  0001 C CNN "Description"
+	1    3050 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_1.02k R167
+U 1 1 5858A5DC
+P 3050 3350
+F 0 "R167" H 3100 3400 50  0000 L CNN
+F 1 "R_1.02k" H 3100 3300 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 3050 3100 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 3050 3200 50  0001 C CNN
+F 4 "ERJ-3EKF1021V" H 3050 3500 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 3050 3600 60  0001 C CNN "Description"
+	1    3050 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LM431 D56
+U 1 1 5858A5EB
+P 3450 5300
+F 0 "D56" H 3550 5350 50  0000 L CNN
+F 1 "LM431" H 3550 5250 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:SOT23" H 3450 4950 50  0001 C CNN
+F 3 "https://www.fairchildsemi.com/products/power-management/voltage-regulators/shunt-regulators/LM431SB.html" H 3450 5050 50  0001 C CNN
+F 4 "Adjustable Precision Zener Shunt Regulator" H 3450 5650 50  0001 C CNN "Description"
+F 5 "LM431SBCM32X" H 3450 5550 50  0001 C CNN "MFG Part#"
+	1    3450 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_1.02k R164
+U 1 1 5858A5F4
+P 2750 5700
+F 0 "R164" V 2650 5650 50  0000 L CNN
+F 1 "R_1.02k" V 2850 5600 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 2750 5450 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 2750 5550 50  0001 C CNN
+F 4 "ERJ-3EKF1021V" H 2750 5850 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 2750 5950 60  0001 C CNN "Description"
+	1    2750 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L C_10u C242
+U 1 1 5858A5FD
+P 3900 5300
+F 0 "C242" H 3910 5370 50  0000 L CNN
+F 1 "C_10u" H 3910 5220 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 3900 5100 50  0001 C CNN
+F 3 "" H 3910 5370 50  0001 C CNN
+F 4 "GRM188R60J106KE47D" H 4010 5470 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 6.3V X5R 20%" H 3950 5550 60  0001 C CNN "Description"
+	1    3900 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_6.8k R170
+U 1 1 5858A606
+P 3050 5500
+F 0 "R170" H 3100 5550 50  0000 L CNN
+F 1 "R_6.8k" H 3100 5450 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 3050 5250 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 3050 5350 50  0001 C CNN
+F 4 "ERJ-3EKF6801V" H 3050 5650 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 3050 5750 60  0001 C CNN "Description"
+	1    3050 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_1.02k R169
+U 1 1 5858A60F
+P 3050 5100
+F 0 "R169" H 3100 5150 50  0000 L CNN
+F 1 "R_1.02k" H 3100 5050 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 3050 4850 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 3050 4950 50  0001 C CNN
+F 4 "ERJ-3EKF1021V" H 3050 5250 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 3050 5350 60  0001 C CNN "Description"
+	1    3050 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR0388
+U 1 1 5858A61C
+P 2800 5000
+F 0 "#PWR0388" H 2800 4750 50  0001 C CNN
+F 1 "GND" H 2800 4850 50  0000 C CNN
+F 2 "" H 2800 5000 50  0000 C CNN
+F 3 "" H 2800 5000 50  0000 C CNN
+	1    2800 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR0389
+U 1 1 5858A622
+P 3450 4050
+F 0 "#PWR0389" H 3450 3800 50  0001 C CNN
+F 1 "GND" H 3450 3900 50  0000 C CNN
+F 2 "" H 3450 4050 50  0000 C CNN
+F 3 "" H 3450 4050 50  0000 C CNN
+	1    3450 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L +2.88V #PWR0390
+U 1 1 5858A628
+P 3900 3050
+F 0 "#PWR0390" H 3900 2950 50  0001 C CNN
+F 1 "+2.88V" H 3900 3190 50  0000 C CNN
+F 2 "" H 3900 3050 50  0000 C CNN
+F 3 "" H 3900 3050 50  0000 C CNN
+	1    3900 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L -2.88V #PWR0391
+U 1 1 5858A62E
+P 4300 5600
+F 0 "#PWR0391" H 4300 5450 50  0001 C CNN
+F 1 "-2.88V" H 4300 5740 50  0000 C CNN
+F 2 "" H 4300 5600 50  0000 C CNN
+F 3 "" H 4300 5600 50  0000 C CNN
+	1    4300 5600
+	1    0    0    -1  
+$EndComp
+Text Notes 3600 4550 0    100  ~ 0
+LM431: Vout=2.5V*(1+Ra/Rb)
+Connection ~ 3900 3150
+Connection ~ 3900 5700
+Wire Wire Line
+	2800 5000 2800 4900
+Connection ~ 3050 5700
+Connection ~ 3450 5700
+Wire Wire Line
+	3900 5700 3900 5400
+Wire Wire Line
+	3050 5700 3050 5600
+Wire Wire Line
+	2850 5700 4300 5700
+Wire Wire Line
+	3450 5700 3450 5450
+Connection ~ 3050 5300
+Wire Wire Line
+	3050 5300 3350 5300
+Wire Wire Line
+	3050 5200 3050 5400
+Connection ~ 3450 4900
+Wire Wire Line
+	3450 4900 3450 5150
+Connection ~ 3050 4900
+Wire Wire Line
+	3050 5000 3050 4900
+Wire Wire Line
+	2800 4900 3900 4900
+Wire Wire Line
+	3900 4900 3900 5200
+Connection ~ 3450 3950
+Wire Wire Line
+	3900 3950 3900 3650
+Wire Wire Line
+	3050 3950 3050 3850
+Wire Wire Line
+	3050 3950 3900 3950
+Wire Wire Line
+	3450 3700 3450 4050
+Connection ~ 3050 3550
+Wire Wire Line
+	3050 3550 3350 3550
+Wire Wire Line
+	3050 3450 3050 3650
+Connection ~ 3450 3150
+Wire Wire Line
+	3450 3150 3450 3400
+Connection ~ 3050 3150
+Wire Wire Line
+	3050 3250 3050 3150
+Wire Wire Line
+	2850 3150 3900 3150
+Wire Wire Line
+	3900 3050 3900 3450
+$Comp
+L LM431 D54
+U 1 1 5858AAC2
+P 3450 1850
+F 0 "D54" H 3550 1900 50  0000 L CNN
+F 1 "LM431" H 3550 1800 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:SOT23" H 3450 1500 50  0001 C CNN
+F 3 "https://www.fairchildsemi.com/products/power-management/voltage-regulators/shunt-regulators/LM431SB.html" H 3450 1600 50  0001 C CNN
+F 4 "LM431SBCM32X" H 3450 2100 50  0001 C CNN "MFG Part#"
+F 5 "Adjustable Precision Zener Shunt Regulator" H 3450 2200 50  0001 C CNN "Description"
+	1    3450 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L +VCC_USB_P #PWR0392
+U 1 1 5858AAC9
+P 2550 1350
+F 0 "#PWR0392" H 2550 1200 50  0001 C CNN
+F 1 "+VCC_USB_P" H 2550 1490 50  0000 C CNN
+F 2 "" H 2550 1350 50  0000 C CNN
+F 3 "" H 2550 1350 50  0000 C CNN
+	1    2550 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_6.8k R165
+U 1 1 5858AAD1
+P 3050 1650
+F 0 "R165" H 3100 1700 50  0000 L CNN
+F 1 "R_6.8k" H 3100 1600 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 3050 1400 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 3050 1500 50  0001 C CNN
+F 4 "ERJ-3EKF6801V" H 3050 1800 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 3050 1900 60  0001 C CNN "Description"
+	1    3050 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_22k R166
+U 1 1 5858AADA
+P 3050 2050
+F 0 "R166" H 3100 2100 50  0000 L CNN
+F 1 "R_22k" H 3100 2000 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 3050 1800 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 3050 1900 50  0001 C CNN
+F 4 "ERJ-3EKF2202V" H 3050 2200 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 3050 2300 60  0001 C CNN "Description"
+	1    3050 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_1.02k R162
+U 1 1 5858AAE3
+P 2750 1450
+F 0 "R162" V 2650 1400 50  0000 L CNN
+F 1 "R_1.02k" V 2850 1350 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 2750 1200 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 2750 1300 50  0001 C CNN
+F 4 "ERJ-3EKF1021V" H 2750 1600 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 2750 1700 60  0001 C CNN "Description"
+	1    2750 1450
+	0    1    1    0   
+$EndComp
+$Comp
+L C_10u C240
+U 1 1 5858AAEC
+P 3900 1850
+F 0 "C240" H 3910 1920 50  0000 L CNN
+F 1 "C_10u" H 3910 1770 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 3900 1650 50  0001 C CNN
+F 3 "" H 3910 1920 50  0001 C CNN
+F 4 "GRM188R60J106KE47D" H 4010 2020 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 6.3V X5R 20%" H 3950 2100 60  0001 C CNN "Description"
+	1    3900 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR0393
+U 1 1 5858AB2C
+P 3450 2350
+F 0 "#PWR0393" H 3450 2100 50  0001 C CNN
+F 1 "GND" H 3450 2200 50  0000 C CNN
+F 2 "" H 3450 2350 50  0000 C CNN
+F 3 "" H 3450 2350 50  0000 C CNN
+	1    3450 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V_PD #PWR0394
+U 1 1 5858AB3E
+P 3900 1350
+F 0 "#PWR0394" H 3900 1200 50  0001 C CNN
+F 1 "+3.3V_PD" H 3900 1490 50  0000 C CNN
+F 2 "" H 3900 1350 50  0000 C CNN
+F 3 "" H 3900 1350 50  0000 C CNN
+	1    3900 1350
+	1    0    0    -1  
+$EndComp
+Connection ~ 3900 1450
+Wire Wire Line
+	2550 1450 2550 1350
+Wire Wire Line
+	2650 1450 2550 1450
+Connection ~ 3450 2250
+Wire Wire Line
+	3900 2250 3900 1950
+Wire Wire Line
+	3050 2250 3050 2150
+Wire Wire Line
+	3050 2250 3900 2250
+Wire Wire Line
+	3450 2000 3450 2350
+Connection ~ 3050 1850
+Wire Wire Line
+	3050 1850 3350 1850
+Wire Wire Line
+	3050 1750 3050 1950
+Connection ~ 3450 1450
+Wire Wire Line
+	3450 1450 3450 1700
+Connection ~ 3050 1450
+Wire Wire Line
+	3050 1550 3050 1450
+Wire Wire Line
+	2850 1450 3900 1450
+Wire Wire Line
+	3900 1350 3900 1750
+Wire Wire Line
+	4300 5700 4300 5600
+Wire Wire Line
+	2550 5700 2550 5600
+Wire Wire Line
+	2650 5700 2550 5700
+Wire Wire Line
+	2550 3150 2550 3050
+Wire Wire Line
+	2650 3150 2550 3150
+$Comp
+L PWR_FLAG #FLG0395
+U 1 1 5858BAB0
+P 8300 1550
+F 0 "#FLG0395" H 8300 1645 50  0001 C CNN
+F 1 "PWR_FLAG" H 8300 1750 50  0000 C CNN
+F 2 "" H 8300 1550 50  0000 C CNN
+F 3 "" H 8300 1550 50  0000 C CNN
+	1    8300 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L +3.3V_PD #PWR0396
+U 1 1 5858BAB6
+P 8300 1350
+F 0 "#PWR0396" H 8300 1200 50  0001 C CNN
+F 1 "+3.3V_PD" H 8300 1490 50  0000 C CNN
+F 2 "" H 8300 1350 50  0000 C CNN
+F 3 "" H 8300 1350 50  0000 C CNN
+	1    8300 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PWR_FLAG #FLG0397
+U 1 1 5858BABC
+P 8800 1550
+F 0 "#FLG0397" H 8800 1645 50  0001 C CNN
+F 1 "PWR_FLAG" H 8800 1750 50  0000 C CNN
+F 2 "" H 8800 1550 50  0000 C CNN
+F 3 "" H 8800 1550 50  0000 C CNN
+	1    8800 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L PWR_FLAG #FLG0398
+U 1 1 5858BAC2
+P 9300 1550
+F 0 "#FLG0398" H 9300 1645 50  0001 C CNN
+F 1 "PWR_FLAG" H 9300 1750 50  0000 C CNN
+F 2 "" H 9300 1550 50  0000 C CNN
+F 3 "" H 9300 1550 50  0000 C CNN
+	1    9300 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L -2.88V #PWR0399
+U 1 1 5858BAC8
+P 9300 1350
+F 0 "#PWR0399" H 9300 1200 50  0001 C CNN
+F 1 "-2.88V" H 9300 1490 50  0000 C CNN
+F 2 "" H 9300 1350 50  0000 C CNN
+F 3 "" H 9300 1350 50  0000 C CNN
+	1    9300 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L +2.88V #PWR0400
+U 1 1 5858BACE
+P 8800 1350
+F 0 "#PWR0400" H 8800 1250 50  0001 C CNN
+F 1 "+2.88V" H 8800 1490 50  0000 C CNN
+F 2 "" H 8800 1350 50  0000 C CNN
+F 3 "" H 8800 1350 50  0000 C CNN
+	1    8800 1350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 1350 9300 1550
+Wire Wire Line
+	8800 1350 8800 1550
+Wire Wire Line
+	8300 1350 8300 1550
+$Comp
+L R_1.02k R171
+U 1 1 5858E53D
+P 5450 1450
+F 0 "R171" V 5350 1400 50  0000 L CNN
+F 1 "R_1.02k" V 5550 1350 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 5450 1200 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 5450 1300 50  0001 C CNN
+F 4 "ERJ-3EKF1021V" H 5450 1600 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 5450 1700 60  0001 C CNN "Description"
+	1    5450 1450
+	0    1    1    0   
+$EndComp
+$Comp
+L C_10u C243
+U 1 1 5858E545
+P 6700 1850
+F 0 "C243" H 6710 1920 50  0000 L CNN
+F 1 "C_10u" H 6710 1770 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 6700 1650 50  0001 C CNN
+F 3 "" H 6710 1920 50  0001 C CNN
+F 4 "GRM188R60J106KE47D" H 6810 2020 60  0001 C CNN "MFG Part#"
+F 5 "MLCC - SMD/SMT 0603 6.3V X5R 20%" H 6750 2100 60  0001 C CNN "Description"
+	1    6700 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_1.02k R173
+U 1 1 5858E555
+P 5750 2050
+F 0 "R173" H 5800 2100 50  0000 L CNN
+F 1 "R_1.02k" H 5800 2000 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 5750 1800 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 5750 1900 50  0001 C CNN
+F 4 "ERJ-3EKF1021V" H 5750 2200 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 5750 2300 60  0001 C CNN "Description"
+	1    5750 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR0401
+U 1 1 5858E589
+P 6150 2350
+F 0 "#PWR0401" H 6150 2100 50  0001 C CNN
+F 1 "GND" H 6150 2200 50  0000 C CNN
+F 2 "" H 6150 2350 50  0000 C CNN
+F 3 "" H 6150 2350 50  0000 C CNN
+	1    6150 2350
+	1    0    0    -1  
+$EndComp
+Connection ~ 6700 1450
+Connection ~ 6150 2250
+Wire Wire Line
+	6700 2250 6700 1950
+Wire Wire Line
+	5750 2250 5750 2150
+Wire Wire Line
+	5750 2250 6700 2250
+Wire Wire Line
+	6150 2000 6150 2350
+Connection ~ 5750 1850
+Wire Wire Line
+	5750 1850 6050 1850
+Wire Wire Line
+	5750 1750 5750 1950
+Connection ~ 6150 1450
+Wire Wire Line
+	6150 1450 6150 1700
+Connection ~ 5750 1450
+Wire Wire Line
+	5750 1550 5750 1450
+Wire Wire Line
+	5550 1450 6700 1450
+Wire Wire Line
+	6700 1350 6700 1750
+Wire Wire Line
+	5350 1450 5250 1450
+$Comp
+L TLV431A D57
+U 1 1 585916FF
+P 6150 1850
+F 0 "D57" H 6250 1900 50  0000 L CNN
+F 1 "TLV431A" H 6250 1800 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:SOT23" H 6150 1500 50  0001 C CNN
+F 3 "http://www.onsemi.com/pub_link/Collateral/TLV431A-D.PDF" H 6150 1600 50  0001 C CNN
+F 4 "Low Voltage Adjustable Precision Zener Shunt Regulator" H 6150 2200 50  0001 C CNN "Description"
+F 5 "TLV431ASN1T1G" H 6150 2100 50  0001 C CNN "MFG Part#"
+	1    6150 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R_200R R172
+U 1 1 585920C5
+P 5750 1650
+F 0 "R172" H 5800 1700 50  0000 L CNN
+F 1 "R_200R" H 5800 1600 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:R_0603" H 5750 1400 50  0001 C CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" H 5750 1500 50  0001 C CNN
+F 4 "ERJ-3EKF2000V" H 5750 1800 60  0001 C CNN "MFG Part#"
+F 5 "RES SMD 1% 1/10W 0603" H 5750 1900 60  0001 C CNN "Description"
+	1    5750 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L +1.48V #PWR0402
+U 1 1 58592C5E
+P 6700 1350
+F 0 "#PWR0402" H 6700 1250 50  0001 C CNN
+F 1 "+1.48V" H 6700 1490 50  0000 C CNN
+F 2 "" H 6700 1350 50  0000 C CNN
+F 3 "" H 6700 1350 50  0000 C CNN
+	1    6700 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L PWR_FLAG #FLG0403
+U 1 1 585930EE
+P 9750 1550
+F 0 "#FLG0403" H 9750 1645 50  0001 C CNN
+F 1 "PWR_FLAG" H 9750 1750 50  0000 C CNN
+F 2 "" H 9750 1550 50  0000 C CNN
+F 3 "" H 9750 1550 50  0000 C CNN
+	1    9750 1550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9750 1350 9750 1550
+$Comp
+L +1.48V #PWR0404
+U 1 1 58593126
+P 9750 1350
+F 0 "#PWR0404" H 9750 1250 50  0001 C CNN
+F 1 "+1.48V" H 9750 1490 50  0000 C CNN
+F 2 "" H 9750 1350 50  0000 C CNN
+F 3 "" H 9750 1350 50  0000 C CNN
+	1    9750 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L -Va #PWR0405
+U 1 1 588596A8
+P 2550 5600
+F 0 "#PWR0405" H 2550 5500 50  0001 C CNN
+F 1 "-Va" H 2550 5740 50  0000 C CNN
+F 2 "" H 2550 5600 50  0000 C CNN
+F 3 "" H 2550 5600 50  0000 C CNN
+	1    2550 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 1450 5250 1350
+$Comp
+L +Va #PWR0406
+U 1 1 5885966C
+P 2550 3050
+F 0 "#PWR0406" H 2550 2950 50  0001 C CNN
+F 1 "+Va" H 2550 3190 50  0000 C CNN
+F 2 "" H 2550 3050 50  0000 C CNN
+F 3 "" H 2550 3050 50  0000 C CNN
+	1    2550 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L +Va #PWR0407
+U 1 1 5885B280
+P 5250 1350
+F 0 "#PWR0407" H 5250 1250 50  0001 C CNN
+F 1 "+Va" H 5250 1490 50  0000 C CNN
+F 2 "" H 5250 1350 50  0000 C CNN
+F 3 "" H 5250 1350 50  0000 C CNN
+	1    5250 1350
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
