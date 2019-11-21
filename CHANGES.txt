@@ -1,2 +1,9 @@
-2019-01-12
+2019-11-21
+; first production run!
+; added serial resistors on digital GPIOs (R_56R) to improve frequency response
+; replaced resistors on digital GPIOs: R_1k_0.5W 0805 -> R_470R_0.33W 0603
+; replaced capacitors C138 C139 (C_47uF) with C_10uF (reduces current draw during startup to avoid possible FX3 reset)
+; added optional GND screw terminal (GND_P2)
+; updated component descriptions
+2018-02-12
 ; ScopeFun v2, Initial Release.

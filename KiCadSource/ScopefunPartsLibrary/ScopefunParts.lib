@@ -459,7 +459,7 @@ F1 "598-8150-107F" 100 -50 50 H V L CNN
 F2 "ScopefunPackagesLibrary:LED_0805" 0 -250 50 H I C CNN
 F3 "https://media.digikey.com/pdf/Data%20Sheets/Dialight%20PDFs/598_Series_0805_Pkg.pdf" 0 -350 50 H I C CNN
 F4 "598-8150-107F" -50 300 60 H I C CNN "MFG Part#"
-F5 "SMD LED “598 SERIES” 0805 PACKAGE 2V 130 mCd 140° YELLOW Clear" 0 450 60 H I C CNN "Description"
+F5 "SMD LED 598 SERIES 0805 2V 130 mCd 140 DEG YELLOW Clear" 0 450 60 H I C CNN "Description"
 $FPLIST
  Diode_*
  D-Pak_TO252AA
@@ -1654,7 +1654,7 @@ ENDDEF
 DEF C_0603 C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
 F1 "C_0603" 10 -80 50 H V L CNN
-F2 "ScopefunPackagesLibrary:0603" 0 -150 50 H I C CNN
+F2 "ScopefunPackagesLibrary:C_0603" 0 -150 50 H I C CNN
 F3 "" 10 70 50 H I C CNN
 F4 "Not populated" 0 150 50 H I C CNN "Description"
 $FPLIST
@@ -1737,7 +1737,7 @@ F1 "C_10n_0402" 10 -80 50 H V L CNN
 F2 "ScopefunPackagesLibrary:C_0402" 0 -200 50 H I C CNN
 F3 "" 10 70 50 H I C CNN
 F4 "885012205012" 0 200 60 H I C CNN "MFG Part#"
-F5 "MLCC - SMD/SMT 0402 50V X7R 10%" 0 300 60 H I C CNN "Description"
+F5 "MLCC - SMD/SMT 0402 10V X7R 10%" 0 300 60 H I C CNN "Description"
 $FPLIST
  0603
 $ENDFPLIST
@@ -1777,7 +1777,7 @@ F1 "C_10u" 10 -80 50 H V L CNN
 F2 "ScopefunPackagesLibrary:C_0603" 0 -200 50 H I C CNN
 F3 "http://psearch.en.murata.com/capacitor/product/GRM188R60J106KE47%23.pdf" 0 -300 50 H I C CNN
 F4 "GRM188R60J106KE47D" 0 200 60 H I C CNN "MFG Part#"
-F5 "MLCC - SMD/SMT 0603 6.3V X5R 20%" 0 300 60 H I C CNN "Description"
+F5 "MLCC - SMD/SMT 0603 6.3V X5R 10%" 0 300 60 H I C CNN "Description"
 $FPLIST
  0603
 $ENDFPLIST
@@ -2037,7 +2037,7 @@ F1 "C_2p" 10 -80 50 H V L CNN
 F2 "ScopefunPackagesLibrary:0603" 0 -200 50 H I C CNN
 F3 "" 10 70 50 H I C CNN
 F4 "C1608C0G2A020C080AA" 0 200 60 H I C CNN "MFG Part#"
-F5 "MLCC - SMD/SMT 0603 50V C0G 0.25P" 0 300 60 H I C CNN "Description"
+F5 "MLCC - SMD/SMT 0603 100V C0G 0.25P" 0 300 60 H I C CNN "Description"
 $FPLIST
  0603
 $ENDFPLIST
@@ -2094,7 +2094,7 @@ ENDDEF
 DEF C_360p C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
 F1 "C_360p" 10 -80 50 H V L CNN
-F2 "ScopefunPackagesLibrary:0603" 0 -200 50 H I C CNN
+F2 "ScopefunPackagesLibrary:C_0603" 0 -200 50 H I C CNN
 F3 "" 10 70 50 H I C CNN
 F4 "C0603C361G5GACTU" 0 200 60 H I C CNN "MFG Part#"
 F5 "MLCC - SMD/SMT 0603 50V C0G 2%" 0 300 60 H I C CNN "Description"
@@ -2114,10 +2114,10 @@ ENDDEF
 DEF C_390p C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
 F1 "C_390p" 10 -80 50 H V L CNN
-F2 "ScopefunPackagesLibrary:0603" 0 -200 50 H I C CNN
+F2 "ScopefunPackagesLibrary:C_0603" 0 -200 50 H I C CNN
 F3 "" 10 70 50 H I C CNN
 F4 "VJ0603A391GXAPW1BC" 0 200 60 H I C CNN "MFG Part#"
-F5 "MLCC - SMD/SMT 0603 100V C0G 2%" 0 300 60 H I C CNN "Description"
+F5 "MLCC - SMD/SMT 0603 50V C0G 2%" 0 300 60 H I C CNN "Description"
 $FPLIST
  0603
 $ENDFPLIST
@@ -2137,7 +2137,7 @@ F1 "C_4.7u" 10 -80 50 H V L CNN
 F2 "ScopefunPackagesLibrary:C_0805" 0 -200 50 H I C CNN
 F3 "" 0 -300 50 H I C CNN
 F4 "C2012X7R1A475K125AC" 110 170 60 H I C CNN "MFG Part#"
-F5 "MLCC - SMD/SMT 0603 10V X7R 15%" 0 250 60 H I C CNN "Description"
+F5 "MLCC - SMD/SMT 0805 10V X7R 10%" 0 250 60 H I C CNN "Description"
 $FPLIST
  0603
 $ENDFPLIST
@@ -2157,7 +2157,7 @@ F1 "C_47u" 10 -80 50 H V L CNN
 F2 "ScopefunPackagesLibrary:C_1210" 0 -200 50 H I C CNN
 F3 "" 0 -300 50 H I C CNN
 F4 "LMK325BJ476MM-T" 0 150 60 H I C CNN "MFG Part#"
-F5 "MLCC - SMD/SMT 1210 6.3V X5R 20%" 0 250 60 H I C CNN "Description"
+F5 "MLCC - SMD/SMT 1210 10V X5R 20%" 0 250 60 H I C CNN "Description"
 $FPLIST
  0603
 $ENDFPLIST
@@ -2197,7 +2197,7 @@ F1 "C_u47" 10 -80 50 H V L CNN
 F2 "ScopefunPackagesLibrary:C_0603" 0 -200 50 H I C CNN
 F3 "" 0 -300 50 H I C CNN
 F4 "EMK107B7474KA-T" 110 170 60 H I C CNN "MFG Part#"
-F5 "MLCC - SMD/SMT 0603 6.3V X7R 10%" 50 250 60 H I C CNN "Description"
+F5 "MLCC - SMD/SMT 0603 16V X7R 10%" 50 250 60 H I C CNN "Description"
 $FPLIST
  0603
 $ENDFPLIST
@@ -2633,6 +2633,29 @@ X 8 8 -350 200 190 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# GDT_SG90
+#
+DEF GDT_SG90 GDT 0 10 N N 1 F N
+F0 "GDT" 100 100 50 H V L CNN
+F1 "GDT_SG90" 100 0 50 H V L CNN
+F2 "ScopefunPackagesLibrary:GDT_SG" 0 -250 50 H I C CNN
+F3 "https://www.littelfuse.com/~/media/electronics/datasheets/gas_discharge_tubes/littelfuse_gdt_sg_datasheet.pdf.pdf" 0 -350 50 H I C CNN
+F4 "SG90" 0 250 60 H I C CNN "MFG Part#"
+F5 "Gas Discharge Tube - GDT 90V 2kA <1.0 pF" 0 350 60 H I C CNN "Description"
+$FPLIST
+ 0603
+$ENDFPLIST
+DRAW
+T 0 100 -100 50 0 0 0 90V~2kA Normal 0 L C
+C -35 0 15 0 1 0 F
+C 0 0 70 0 1 0 N
+P 4 0 1 0 0 -15 30 -45 -30 -45 0 -15 F
+P 4 0 1 0 0 15 30 45 -30 45 0 15 F
+X ~ 1 0 150 80 D 40 40 1 1 P
+X ~ 2 0 -150 80 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # GDT_SH90
 #
 DEF GDT_SH90 GDT 0 10 N N 1 F N
@@ -2757,7 +2780,7 @@ F0 "U" 0 1650 50 H V C CNN
 F1 "IS43TR16256A-125KBL" 0 1550 50 H V C CNN
 F2 "ScopefunPackagesLibrary:TW-BGA-96" 0 -2150 60 H I C CNN
 F3 "http://www.issi.com/WW/pdf/43-46TR16256A-85120AL.pdf" 0 -1850 60 H I C CNN
-F4 "256M X 16 BIT DDR3 SRAM" -50 1750 50 H I C CNN "Description"
+F4 "256M X 16 BIT DDR3 SRAM 1.5V" -50 1750 50 H I C CNN "Description"
 F5 "IS43TR16640B-125JBL" 0 -2000 50 H I C CNN "MFG Part#"
 DRAW
 S 400 -1650 -400 1450 1 1 0 f
@@ -3697,7 +3720,7 @@ F1 "MCP4251" 0 650 50 H V C CNN
 F2 "ScopefunPackagesLibrary:TSSOP14" 0 -750 50 H I C CNN
 F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22060b.pdf" 0 -650 50 H I C CNN
 F4 "MCP4251-503E/ST" 0 850 50 H I C CNN "MFG Part#"
-F5 "Dual Digital Potentiometer 100kOhm" 0 950 50 H I C CNN "Description"
+F5 "Dual Digital Potentiometer 50kOhm" 0 950 50 H I C CNN "Description"
 DRAW
 S 375 575 -425 -575 0 1 0 f
 P 2 0 1 0 -200 300 -250 300 N
@@ -4066,7 +4089,7 @@ F1 "R_0R" 50 -50 50 H V L CNN
 F2 "ScopefunPackagesLibrary:R_0805" 0 -300 50 H I C CNN
 F3 "" 0 -280 50 H I C CNN
 F4 "ERJ-6GEY0R00V" 0 -180 50 H I C CNN "MFG Part#"
-F5 "RES SMD 1% 1/10W 0805" 0 150 60 H I C CNN "Description"
+F5 "RES SMD ZERO OHM JUMPER 0805" 0 150 60 H I C CNN "Description"
 $FPLIST
  Resistor_*
  R_*
@@ -4299,6 +4322,22 @@ F2 "ScopefunPackagesLibrary:R_0603" 0 -250 50 H I C CNN
 F3 "https://industrial.panasonic.com/ww/products/resistors/chip-resistors/chip-resistors/thick-film-chip-resistors/ERJ3GEYJ1R0V" 0 -150 50 H I C CNN
 F4 "ERJ-3GEYJ1R0V" 0 150 60 H I C CNN "MFG Part#"
 F5 "RES SMD 5% 1/10W 0603" 0 250 60 H I C CNN "Description"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 40 40 1 1 P
+X ~ 2 0 -100 30 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_1k_0.25W
+#
+DEF R_1k_0.25W R 0 10 N N 1 F N
+F0 "R" 50 50 50 H V L CNN
+F1 "R_1k_0.25W" 50 -50 50 H V L CNN
+F2 "ScopefunPackagesLibrary:R_0603" 0 -150 50 H I C CNN
+F3 "https://eu.mouser.com/datasheet/2/348/esr-e-1139161.pdf" 0 -250 50 H I C CNN
+F4 "ESR03EZPF1001" 0 150 60 H I C CNN "MFG Part#"
+F5 "RES SMD 1% 1/4W 0603" 0 250 60 H I C CNN "Description"
 DRAW
 S -30 70 30 -70 0 1 8 N
 X ~ 1 0 100 30 D 40 40 1 1 P
@@ -4571,6 +4610,22 @@ F2 "ScopefunPackagesLibrary:R_0603" 0 -250 50 H I C CNN
 F3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" 0 -150 50 H I C CNN
 F4 "ERJ-3EKF4532V" 0 150 60 H I C CNN "MFG Part#"
 F5 "RES SMD 1% 1/10W 0603" 0 250 60 H I C CNN "Description"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 40 40 1 1 P
+X ~ 2 0 -100 30 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_470R_0.33W
+#
+DEF R_470R_0.33W R 0 10 N N 1 F N
+F0 "R" 50 50 50 H V L CNN
+F1 "R_470R_0.33W" 50 -50 50 H V L CNN
+F2 "ScopefunPackagesLibrary:R_0603" 0 -150 50 H I C CNN
+F3 "https://eu.mouser.com/datasheet/2/219/SG73P-1108936.pdf" 0 -250 50 H I C CNN
+F4 "SG73P1JTTD4700F" 0 150 60 H I C CNN "MFG Part#"
+F5 "RES SMD 1% 1/3W 0603" 0 250 60 H I C CNN "Description"
 DRAW
 S -30 70 30 -70 0 1 8 N
 X ~ 1 0 100 30 D 40 40 1 1 P
@@ -5348,6 +5403,21 @@ X GND 2 -450 0 200 R 50 50 1 1 W
 X EN 3 -450 -100 200 R 50 50 1 1 I
 X ADJ 4 450 -100 200 L 50 50 1 1 I
 X VOUT 5 450 100 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TERM-PCB-55-M3
+#
+DEF TERM-PCB-55-M3 P 0 40 N N 1 F N
+F0 "P" -50 50 50 H V C CNN
+F1 "TERM-PCB-55-M3" -100 -100 50 H V L CNN
+F2 "ScopefunPackagesLibrary:TERM-PCB-55-M3" -50 -300 50 H I C CNN
+F3 "https://www.tme.eu/Document/0c814e212532c91d0fc3fbdcf27c7505/PCB-55%28M3%29.pdf" 0 -200 50 H I C CNN
+F4 "TERMINAL PCB-55(M3)" 0 250 50 H I C CNN "Description"
+F5 "PCB-55(M3)" 0 150 50 H I C CNN "MFG Part#"
+DRAW
+T 0 250 0 50 0 0 0 TERMINAL_M3 Normal 0 L C
+X 1 1 -100 0 300 R 50 50 1 1 P I
 ENDDRAW
 ENDDEF
 #
@@ -6190,7 +6260,7 @@ F1 "X_Crystal_19.2Mhz" 0 200 50 H V C CNN
 F2 "ScopefunPackagesLibrary:XTAL-4" 0 -420 50 H I C CNN
 F3 "https://www.pericom.com/assets/Datasheets/FL1920031.pdf" 10 -320 50 H I C CNN
 F4 "FL1920031" 0 400 50 H I C CNN "MFG Part#"
-F5 "Quartz crystal 19.2 Mhz" 0 500 50 H I C CNN "Description"
+F5 "Quartz crystal 19.2 Mhz 10ppm" 0 500 50 H I C CNN "Description"
 $FPLIST
  Crystal_*
 $ENDFPLIST

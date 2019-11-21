@@ -1,0 +1,39 @@
+Drill report for C:/ScopeFun/Hardware/KiCadSource_all/Scopefun_v2.kicad_pcb
+Created on 11/21/19 20:47:45
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    inner1
+    L3 :  In2.Cu                    inner2
+    L4 :  In3.Cu                    inner3
+    L5 :  In4.Cu                    inner4
+    L6 :  B.Cu                      back
+
+
+Drill file 'Scopefun_v2.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.20mm  0.008"  (269 holes)
+    T2  0.25mm  0.010"  (863 holes)
+    T3  0.30mm  0.012"  (19 holes)
+    T4  0.60mm  0.024"  (94 holes)
+    T5  0.70mm  0.028"  (5 holes)
+    T6  0.92mm  0.036"  (4 holes)
+    T7  0.97mm  0.038"  (4 holes)
+    T8  1.00mm  0.039"  (20 holes)
+    T9  1.17mm  0.046"  (6 holes)
+    T10  1.27mm  0.050"  (4 holes)
+    T11  1.80mm  0.071"  (2 holes)
+    T12  1.90mm  0.075"  (16 holes)
+    T13  2.30mm  0.091"  (2 holes)
+    T14  3.20mm  0.126"  (4 holes)
+
+    Total plated holes count 1312
+
+
+Drill file 'Scopefun_v2-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

@@ -1469,7 +1469,7 @@ U 1 1 5B84A9FC
 P 4950 2150
 F 0 "C4" H 4960 2220 50  0000 L CNN
 F 1 "C_360p" H 4960 2070 50  0000 L CNN
-F 2 "ScopefunPackagesLibrary:0603" H 4950 1950 50  0001 C CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 4950 1950 50  0001 C CNN
 F 3 "" H 4960 2220 50  0001 C CNN
 F 4 "C0603C361G5GACTU" H 4950 2350 60  0001 C CNN "MFG Part#"
 F 5 "MLCC - SMD/SMT 0603 50V C0G 2%" H 4950 2450 60  0001 C CNN "Description"
@@ -1482,7 +1482,7 @@ U 1 1 5B84AAEC
 P 4950 5050
 F 0 "C6" H 4960 5120 50  0000 L CNN
 F 1 "C_360p" H 4960 4970 50  0000 L CNN
-F 2 "ScopefunPackagesLibrary:0603" H 4950 4850 50  0001 C CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 4950 4850 50  0001 C CNN
 F 3 "" H 4960 5120 50  0001 C CNN
 F 4 "C0603C361G5GACTU" H 4950 5250 60  0001 C CNN "MFG Part#"
 F 5 "MLCC - SMD/SMT 0603 50V C0G 2%" H 4950 5350 60  0001 C CNN "Description"
@@ -1544,10 +1544,10 @@ U 1 1 5B9EBB50
 P 8350 1350
 F 0 "C11" H 8360 1420 50  0000 L CNN
 F 1 "C_390p" H 8360 1270 50  0000 L CNN
-F 2 "ScopefunPackagesLibrary:0603" H 8350 1150 50  0001 C CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 8350 1150 50  0001 C CNN
 F 3 "" H 8360 1420 50  0001 C CNN
 F 4 "VJ0603A391GXAPW1BC" H 8350 1550 60  0001 C CNN "MFG Part#"
-F 5 "MLCC - SMD/SMT 0603 100V C0G 2%" H 8350 1650 60  0001 C CNN "Description"
+F 5 "MLCC - SMD/SMT 0603 50V C0G 2%" H 8350 1650 60  0001 C CNN "Description"
 	1    8350 1350
 	1    0    0    -1  
 $EndComp
@@ -1557,24 +1557,11 @@ U 1 1 5B9EBE0B
 P 8350 4250
 F 0 "C13" H 8360 4320 50  0000 L CNN
 F 1 "C_390p" H 8360 4170 50  0000 L CNN
-F 2 "ScopefunPackagesLibrary:0603" H 8350 4050 50  0001 C CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 8350 4050 50  0001 C CNN
 F 3 "" H 8360 4320 50  0001 C CNN
 F 4 "VJ0603A391GXAPW1BC" H 8350 4450 60  0001 C CNN "MFG Part#"
-F 5 "MLCC - SMD/SMT 0603 100V C0G 2%" H 8350 4550 60  0001 C CNN "Description"
+F 5 "MLCC - SMD/SMT 0603 50V C0G 2%" H 8350 4550 60  0001 C CNN "Description"
 	1    8350 4250
-	1    0    0    -1  
-$EndComp
-$Comp
-L GDT_SH90 GDT2
-U 1 1 5BA058D4
-P 1250 3950
-F 0 "GDT2" H 1350 4050 50  0000 L CNN
-F 1 "GDT_SH90" H 1350 3950 50  0000 L CNN
-F 2 "ScopefunPackagesLibrary:GDT_SH" H 1250 3700 50  0001 C CNN
-F 3 "https://www.littelfuse.com/~/media/electronics/datasheets/gas_discharge_tubes/littelfuse_gdt_sh_datasheet.pdf.pdf" H 1250 3600 50  0001 C CNN
-F 4 "SH90" H 1250 4200 60  0001 C CNN "MFG Part#"
-F 5 "Gas Discharge Tube - GDT 90V 5kA 0.7pF" H 1250 4300 60  0001 C CNN "Description"
-	1    1250 3950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -1592,19 +1579,6 @@ F 3 "" H 1250 1300 50  0000 C CNN
 	1    1250 1300
 	-1   0    0    -1  
 $EndComp
-$Comp
-L GDT_SH90 GDT1
-U 1 1 5BA067C9
-P 1250 1050
-F 0 "GDT1" H 1350 1150 50  0000 L CNN
-F 1 "GDT_SH90" H 1350 1050 50  0000 L CNN
-F 2 "ScopefunPackagesLibrary:GDT_SH" H 1250 800 50  0001 C CNN
-F 3 "https://www.littelfuse.com/~/media/electronics/datasheets/gas_discharge_tubes/littelfuse_gdt_sh_datasheet.pdf.pdf" H 1250 700 50  0001 C CNN
-F 4 "SH90" H 1250 1300 60  0001 C CNN "MFG Part#"
-F 5 "Gas Discharge Tube - GDT 90V 5kA 0.7pF" H 1250 1400 60  0001 C CNN "Description"
-	1    1250 1050
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1250 1200 1250 1300
 Wire Wire Line
@@ -1615,7 +1589,7 @@ U 1 1 5BA3F235
 P 8350 5050
 F 0 "C14" H 8360 5120 50  0000 L CNN
 F 1 "C_0603" H 8360 4970 50  0000 L CNN
-F 2 "ScopefunPackagesLibrary:0603" H 8350 4900 50  0001 C CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 8350 4900 50  0001 C CNN
 F 3 "" H 8360 5120 50  0001 C CNN
 F 4 "Not populated" H 8350 5200 50  0001 C CNN "Description"
 	1    8350 5050
@@ -1627,7 +1601,7 @@ U 1 1 5BA3F613
 P 8350 2150
 F 0 "C12" H 8360 2220 50  0000 L CNN
 F 1 "C_0603" H 8360 2070 50  0000 L CNN
-F 2 "ScopefunPackagesLibrary:0603" H 8350 2000 50  0001 C CNN
+F 2 "ScopefunPackagesLibrary:C_0603" H 8350 2000 50  0001 C CNN
 F 3 "" H 8360 2220 50  0001 C CNN
 F 4 "Not populated" H 8350 2300 50  0001 C CNN "Description"
 	1    8350 2150
@@ -1709,6 +1683,32 @@ F 3 "" H 4960 4320 50  0001 C CNN
 F 4 "885012006074" H 4950 4450 60  0001 C CNN "MFG Part#"
 F 5 "MLCC - SMD/SMT 0603 100V C0G 5%" H 4950 4550 60  0001 C CNN "Description"
 	1    4950 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L GDT_SG90 GDT1
+U 1 1 5D33912B
+P 1250 1050
+F 0 "GDT1" H 1350 1150 50  0000 L CNN
+F 1 "GDT_SG90" H 1350 1050 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:GDT_SG" H 1250 800 50  0001 C CNN
+F 3 "https://www.littelfuse.com/~/media/electronics/datasheets/gas_discharge_tubes/littelfuse_gdt_sg_datasheet.pdf.pdf" H 1250 700 50  0001 C CNN
+F 4 "SG90" H 1250 1300 60  0001 C CNN "MFG Part#"
+F 5 "Gas Discharge Tube - GDT 90V 2kA <1.0 pF" H 1250 1400 60  0001 C CNN "Description"
+	1    1250 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L GDT_SG90 GDT2
+U 1 1 5D339314
+P 1250 3950
+F 0 "GDT2" H 1350 4050 50  0000 L CNN
+F 1 "GDT_SG90" H 1350 3950 50  0000 L CNN
+F 2 "ScopefunPackagesLibrary:GDT_SG" H 1250 3700 50  0001 C CNN
+F 3 "https://www.littelfuse.com/~/media/electronics/datasheets/gas_discharge_tubes/littelfuse_gdt_sg_datasheet.pdf.pdf" H 1250 3600 50  0001 C CNN
+F 4 "SG90" H 1250 4200 60  0001 C CNN "MFG Part#"
+F 5 "Gas Discharge Tube - GDT 90V 2kA <1.0 pF" H 1250 4300 60  0001 C CNN "Description"
+	1    1250 3950
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

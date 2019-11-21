@@ -1,4 +1,4 @@
-### Module positions - created on 01/12/19 11:52:48 ###
+### Module positions - created on 11/21/19 09:54:47 ###
 ### Printed by Pcbnew version kicad 4.0.7
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -88,8 +88,8 @@ D44       ESD7002       SOT323              72.6500    14.5000  180.0000  bottom
 D45       ESD7002       SOT323              66.1500    10.5000  270.0000  bottom
 D46       ESD7002       SOT323              72.6500     6.5000    0.0000  bottom
 D47       ESD7002       SOT323              80.2500     6.5000    0.0000  bottom
-GDT1      GDT_SH90      GDT_SH              39.1000   142.4000    0.0000  bottom
-GDT2      GDT_SH90      GDT_SH              14.1000   142.4000    0.0000  bottom
+GDT1      GDT_SG90      GDT_SG              38.8000   144.4000    0.0000  bottom
+GDT2      GDT_SG90      GDT_SG              13.8000   144.4000    0.0000  bottom
 GND_P1    WP-SMRA       WP-SMRA             12.2000     3.6000  180.0000  bottom
 L7        Z_68          L_0805              50.9500    13.7000    0.0000  bottom
 L9        Z_68          L_0805              57.8000    13.7000    0.0000  bottom

@@ -1211,7 +1211,7 @@ F 1 "598-8150-107F" H 4350 6700 50  0000 L CNN
 F 2 "ScopefunPackagesLibrary:LED_0805" H 4250 6500 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Dialight%20PDFs/598_Series_0805_Pkg.pdf" H 4250 6400 50  0001 C CNN
 F 4 "598-8150-107F" H 4200 7050 60  0001 C CNN "MFG Part#"
-F 5 "SMD LED “598 SERIES” 0805 PACKAGE 2V 130 mCd 140° YELLOW Clear" H 4250 7200 60  0001 C CNN "Description"
+F 5 "SMD LED 598 SERIES 0805 2V 130 mCd 140 DEG YELLOW Clear" H 4250 7200 60  0001 C CNN "Description"
 	1    4250 6750
 	1    0    0    -1  
 $EndComp
@@ -1224,7 +1224,7 @@ F 1 "598-8150-107F" H 4350 7400 50  0000 L CNN
 F 2 "ScopefunPackagesLibrary:LED_0805" H 4250 7200 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Dialight%20PDFs/598_Series_0805_Pkg.pdf" H 4250 7100 50  0001 C CNN
 F 4 "598-8150-107F" H 4200 7750 60  0001 C CNN "MFG Part#"
-F 5 "SMD LED “598 SERIES” 0805 PACKAGE 2V 130 mCd 140° YELLOW Clear" H 4250 7900 60  0001 C CNN "Description"
+F 5 "SMD LED 598 SERIES 0805 2V 130 mCd 140 DEG YELLOW Clear" H 4250 7900 60  0001 C CNN "Description"
 	1    4250 7450
 	1    0    0    -1  
 $EndComp
@@ -1237,7 +1237,7 @@ F 1 "598-8150-107F" H 6650 7050 50  0000 L CNN
 F 2 "ScopefunPackagesLibrary:LED_0805" H 6550 6850 50  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Dialight%20PDFs/598_Series_0805_Pkg.pdf" H 6550 6750 50  0001 C CNN
 F 4 "598-8150-107F" H 6500 7400 60  0001 C CNN "MFG Part#"
-F 5 "SMD LED “598 SERIES” 0805 PACKAGE 2V 130 mCd 140° YELLOW Clear" H 6550 7550 60  0001 C CNN "Description"
+F 5 "SMD LED 598 SERIES 0805 2V 130 mCd 140 DEG YELLOW Clear" H 6550 7550 60  0001 C CNN "Description"
 	1    6550 7100
 	1    0    0    -1  
 $EndComp

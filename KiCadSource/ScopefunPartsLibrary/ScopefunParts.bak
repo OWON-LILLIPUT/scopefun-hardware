@@ -1654,7 +1654,7 @@ ENDDEF
 DEF C_0603 C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
 F1 "C_0603" 10 -80 50 H V L CNN
-F2 "ScopefunPackagesLibrary:0603" 0 -150 50 H I C CNN
+F2 "ScopefunPackagesLibrary:C_0603" 0 -150 50 H I C CNN
 F3 "" 10 70 50 H I C CNN
 F4 "Not populated" 0 150 50 H I C CNN "Description"
 $FPLIST
@@ -2094,7 +2094,7 @@ ENDDEF
 DEF C_360p C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
 F1 "C_360p" 10 -80 50 H V L CNN
-F2 "ScopefunPackagesLibrary:0603" 0 -200 50 H I C CNN
+F2 "ScopefunPackagesLibrary:C_0603" 0 -200 50 H I C CNN
 F3 "" 10 70 50 H I C CNN
 F4 "C0603C361G5GACTU" 0 200 60 H I C CNN "MFG Part#"
 F5 "MLCC - SMD/SMT 0603 50V C0G 2%" 0 300 60 H I C CNN "Description"
@@ -2114,10 +2114,10 @@ ENDDEF
 DEF C_390p C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
 F1 "C_390p" 10 -80 50 H V L CNN
-F2 "ScopefunPackagesLibrary:0603" 0 -200 50 H I C CNN
+F2 "ScopefunPackagesLibrary:C_0603" 0 -200 50 H I C CNN
 F3 "" 10 70 50 H I C CNN
 F4 "VJ0603A391GXAPW1BC" 0 200 60 H I C CNN "MFG Part#"
-F5 "MLCC - SMD/SMT 0603 100V C0G 2%" 0 300 60 H I C CNN "Description"
+F5 "MLCC - SMD/SMT 0603 50V C0G 2%" 0 300 60 H I C CNN "Description"
 $FPLIST
  0603
 $ENDFPLIST
@@ -2630,6 +2630,29 @@ X 5 5 300 300 190 D 50 50 1 1 P
 X 6 6 200 300 190 D 50 50 1 1 P
 X 7 7 100 300 190 D 50 50 1 1 P
 X 8 8 -350 200 190 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# GDT_SG90
+#
+DEF GDT_SG90 GDT 0 10 N N 1 F N
+F0 "GDT" 100 100 50 H V L CNN
+F1 "GDT_SG90" 100 0 50 H V L CNN
+F2 "ScopefunPackagesLibrary:GDT_SG" 0 -250 50 H I C CNN
+F3 "https://www.littelfuse.com/~/media/electronics/datasheets/gas_discharge_tubes/littelfuse_gdt_sg_datasheet.pdf.pdf" 0 -350 50 H I C CNN
+F4 "SG90" 0 250 60 H I C CNN "MFG Part#"
+F5 "Gas Discharge Tube - GDT 90V 2kA <1.0 pF" 0 350 60 H I C CNN "Description"
+$FPLIST
+ 0603
+$ENDFPLIST
+DRAW
+T 0 100 -100 50 0 0 0 90V~2kA Normal 0 L C
+C -35 0 15 0 1 0 F
+C 0 0 70 0 1 0 N
+P 4 0 1 0 0 -15 30 -45 -30 -45 0 -15 F
+P 4 0 1 0 0 15 30 45 -30 45 0 15 F
+X ~ 1 0 150 80 D 40 40 1 1 P
+X ~ 2 0 -150 80 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -3228,7 +3251,7 @@ F0 "U" 150 -200 50 H V L CNN
 F1 "LTC6754" 150 -300 50 H V L CNN
 F2 "ScopefunPackagesLibrary:SC70-6" 0 -550 50 H I C CNN
 F3 "http://cds.linear.com/docs/en/datasheet/6754f.pdf" 0 -450 50 H I C CNN
-F4 "LTC6754ISC6#TRMPBFTR-ND" 0 450 50 H I C CNN "MFG Part#"
+F4 "LTC6754HSC6#TRMPBF" 0 450 50 H I C CNN "MFG Part#"
 F5 "Rail-to-Rail, High-Speed Comparator with LVDS Compatible Outputs" 0 550 50 H I C CNN "Description"
 DRAW
 C 170 -50 25 0 1 0 N
@@ -4306,6 +4329,22 @@ X ~ 2 0 -100 30 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
+# R_1k_0.25W
+#
+DEF R_1k_0.25W R 0 10 N N 1 F N
+F0 "R" 50 50 50 H V L CNN
+F1 "R_1k_0.25W" 50 -50 50 H V L CNN
+F2 "ScopefunPackagesLibrary:R_0603" 0 -150 50 H I C CNN
+F3 "https://eu.mouser.com/datasheet/2/348/esr-e-1139161.pdf" 0 -250 50 H I C CNN
+F4 "ESR03EZPF1001" 0 150 60 H I C CNN "MFG Part#"
+F5 "RES SMD 1% 1/4W 0603" 0 250 60 H I C CNN "Description"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 40 40 1 1 P
+X ~ 2 0 -100 30 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
 # R_1k_0.5W
 #
 DEF R_1k_0.5W R 0 10 N N 1 F N
@@ -4571,6 +4610,22 @@ F2 "ScopefunPackagesLibrary:R_0603" 0 -250 50 H I C CNN
 F3 "http://industrial.panasonic.com/cdbs/www-data/pdf/AOA0000/AOA0000CE2.pdf" 0 -150 50 H I C CNN
 F4 "ERJ-3EKF4532V" 0 150 60 H I C CNN "MFG Part#"
 F5 "RES SMD 1% 1/10W 0603" 0 250 60 H I C CNN "Description"
+DRAW
+S -30 70 30 -70 0 1 8 N
+X ~ 1 0 100 30 D 40 40 1 1 P
+X ~ 2 0 -100 30 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# R_470R_0.33W
+#
+DEF R_470R_0.33W R 0 10 N N 1 F N
+F0 "R" 50 50 50 H V L CNN
+F1 "R_470R_0.33W" 50 -50 50 H V L CNN
+F2 "ScopefunPackagesLibrary:R_0603" 0 -150 50 H I C CNN
+F3 "https://eu.mouser.com/datasheet/2/219/SG73P-1108936.pdf" 0 -250 50 H I C CNN
+F4 "SG73P1JTTD4700F" 0 150 60 H I C CNN "MFG Part#"
+F5 "RES SMD 1% 1/3W 0603" 0 250 60 H I C CNN "Description"
 DRAW
 S -30 70 30 -70 0 1 8 N
 X ~ 1 0 100 30 D 40 40 1 1 P
@@ -5348,6 +5403,21 @@ X GND 2 -450 0 200 R 50 50 1 1 W
 X EN 3 -450 -100 200 R 50 50 1 1 I
 X ADJ 4 450 -100 200 L 50 50 1 1 I
 X VOUT 5 450 100 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TERM-PCB-55-M3
+#
+DEF TERM-PCB-55-M3 P 0 40 N N 1 F N
+F0 "P" -50 50 50 H V C CNN
+F1 "TERM-PCB-55-M3" -100 -100 50 H V L CNN
+F2 "ScopefunPackagesLibrary:TERM-PCB-55-M3" -50 -300 50 H I C CNN
+F3 "https://www.tme.eu/Document/0c814e212532c91d0fc3fbdcf27c7505/PCB-55%28M3%29.pdf" 0 -200 50 H I C CNN
+F4 "TERMINAL PCB-55(M3)" 0 250 50 H I C CNN "Description"
+F5 "PCB-55(M3)" 0 150 50 H I C CNN "MFG Part#"
+DRAW
+T 0 250 0 50 0 0 0 TERMINAL_M3 Normal 0 L C
+X 1 1 -100 0 300 R 50 50 1 1 P I
 ENDDRAW
 ENDDEF
 #
